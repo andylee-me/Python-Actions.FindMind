@@ -1,2 +1,2 @@
-成功讀取 holidays.csv，共 58 個假日
+成功讀取 holidays.csv，共 71 個假日
 缺失日期已儲存至 auction_data_processed/missing_dates.csv

@@ -76,7 +76,7 @@ else:
 # 2. 定義函數以獲取收盤價，並根據偏移量調整
 def get_closing_price(security_id, base_date, offset=0):
     """
-    根據證券代號和日期獲取收盤價，並根據偏移量調整資料位置。
+    根據證券代號和日期獲取收盤價，並根據偏移量調整日期（非索引位置）。
     """
     for file_name in all_files:
         if file_name.startswith(f"[{security_id}]") and file_name.endswith(".csv"):
@@ -87,23 +87,64 @@ def get_closing_price(security_id, base_date, offset=0):
                 price_data['日期'] = pd.to_datetime(price_data['日期'], errors='coerce').dt.date
                 price_data = price_data.sort_values(by='日期').reset_index(drop=True)
 
-                base_date = pd.to_datetime(base_date, errors='coerce').date()
-                if pd.isna(base_date):
-                    return "無效日期"
-
-                base_idx = price_data[price_data['日期'] == base_date].index
-                if not base_idx.empty:
-                    target_idx = base_idx[0] + offset
-                    if 0 <= target_idx < len(price_data):
-                        return price_data.iloc[target_idx]['收盤價']
-                    else:
-                        return "超出範圍"
+                # Convert base_date to datetime object
+                base_date_dt = pd.to_datetime(base_date, errors='coerce')
+                if pd.isna(base_date_dt):
+                    print(f"無效日期格式: base_date={base_date}, offset={offset}")
+                    return ""
+                
+                # Calculate the target date by adding offset days to base_date
+                from datetime import timedelta
+                base_date = base_date_dt.date()
+                target_date = base_date + timedelta(days=offset)
+                
+                # CHANGED: Added holiday check in addition to weekend check
+                is_weekend = target_date.weekday() >= 5
+                is_holiday = target_date in holidays_set  # NEW
+                is_non_trading_day = is_weekend or is_holiday  # NEW
+                
+                # Look for the target date in the data
+                target_data = price_data[price_data['日期'] == target_date]
+                
+                if not target_data.empty:
+                    # Target date found
+                    return target_data.iloc[0]['收盤價']
                 else:
-                    return "日期不存在"
-            except (KeyError, FileNotFoundError, pd.errors.EmptyDataError):
-                continue
-    return "無資料"
+                    # CHANGED: Only print if it's a regular trading day (not weekend or holiday)
+                    if not is_non_trading_day:  # CHANGED from "if not is_weekend:"
 
+                        # Check if this date should exist (is it within the file's date range?)
+                        min_date = price_data['日期'].min()
+                        max_date = price_data['日期'].max()
+                        if min_date <= target_date <= max_date:
+                            print(f"  🈳範圍內，但沒有數據: target_date={target_date} (base_date={base_date}, offset={offset}), 檔案={file_name} 注意: 此日期在檔案日期範圍內 ({min_date} 至 {max_date})，但沒有數據 (可能是非預期的休市日)")
+                        else:
+                            print(f"  🚀未來日期: target_date={target_date} (base_date={base_date}, offset={offset}), 檔案={file_name} 注意: 未來日期，無法獲取數據")
+                    # NEW: Optional debugging for weekend/holiday identification
+                    elif is_weekend:
+                        # Optional: You can uncomment if you want weekend prints
+                        print(f"  🛌週末非交易日: target_date={target_date} (base_date={base_date}, offset={offset})")
+                        pass
+                    elif is_holiday:
+                        # Optional: You can uncomment if you want holiday prints
+                        print(f"  🧨假日非交易日: target_date={target_date} (base_date={base_date}, offset={offset})")
+                        pass
+                    return ""
+                
+            except (KeyError, FileNotFoundError, pd.errors.EmptyDataError) as e:
+                print(f"處理檔案時出錯: {file_name}, 錯誤: {e}")
+                continue
+    
+    # CHANGED: Updated the check for non-trading days at end of function
+    from datetime import timedelta
+    target_date = base_date + timedelta(days=offset)
+    is_weekend = target_date.weekday() >= 5
+    is_holiday = target_date in holidays_set  # NEW
+    is_non_trading_day = is_weekend or is_holiday  # NEW
+    
+    if not is_non_trading_day:  # CHANGED from "if target_date.weekday() < 5:"
+        print(f"無資料: security_id={security_id}, target_date={target_date} (base_date={base_date}, offset={offset})")
+    return ""
 
 # 3. 計算資料總數與總工作天數
 def get_security_stats(security_id):
@@ -176,4 +217,3 @@ output_path = os.path.join(output_dir, "updated_cleaned_auction_data.csv")
 auction_data.to_csv(output_path, index=False, encoding='utf-8-sig')
 
 print(f"已完成資料處理並儲存至 {output_path}")
-
