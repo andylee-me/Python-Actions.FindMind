@@ -10,8 +10,8 @@
 2024-09-30,7713,CostOfGoodsSold,174515000.0,營業成本
 2024-09-30,7713,OperatingIncome,55336000.0,營業利益（損失）
 2024-09-30,7713,TotalNonoperatingIncomeAndExpense,-210000.0,營業外收入及支出
-2024-09-30,7713,EquityAttributableToOwnersOfParent,44063000.0,綜合損益總額歸屬於母公司業主
-2024-09-30,7713,GrossProfit,81025000.0,營業毛利（毛損）
+2024-09-30,7713,GrossProfit,81025000.0,營業毛利（毛損）淨額
+2024-09-30,7713,EquityAttributableToOwnersOfParent,44063000.0,淨利（淨損）歸屬於母公司業主
 2024-12-31,7713,PreTaxIncome,50219000.0,稅前淨利（淨損）
 2024-12-31,7713,TAX,10015000.0,所得稅費用（利益）
 2024-12-31,7713,IncomeFromContinuingOperations,40204000.0,繼續營業單位本期淨利（淨損）
@@ -24,5 +24,5 @@
 2024-12-31,7713,OperatingIncome,50194000.0,營業利益（損失）
 2024-12-31,7713,TotalNonoperatingIncomeAndExpense,25000.0,營業外收入及支出
 2024-12-31,7713,OtherComprehensiveIncome,-11893000.0,其他綜合損益（淨額）
-2024-12-31,7713,GrossProfit,76198000.0,營業毛利（毛損）淨額
-2024-12-31,7713,EquityAttributableToOwnersOfParent,40204000.0,淨利（淨損）歸屬於母公司業主
+2024-12-31,7713,EquityAttributableToOwnersOfParent,28311000.0,綜合損益總額歸屬於母公司業主
+2024-12-31,7713,GrossProfit,76198000.0,營業毛利（毛損）
