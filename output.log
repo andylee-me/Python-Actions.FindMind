@@ -2274,39 +2274,12 @@ No data returned for the given parameters on dividend.
 文件 financial/[6577] 2016-09-06-2017-04-10-financial.csv 已包含股票代碼 6577 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6577] 2016-09-06-2017-04-10-TWSE_TPEX.csv 已包含結束日期 2017-04-10 的數據，跳過 API 請求
 -----Processed row 284 of 285-----
-Skipping row 284 id=6533: Invalid stock_id or dates. Row data: 股票代號                  6533
-證券名稱                   NaN
-DateStart              NaN
-申請日期                   NaN
-上櫃審議委員會審議日期            NaN
-櫃買董事會通過上櫃日期            NaN
-櫃買同意上櫃契約日期             NaN
-投標開始日(T-4)             NaN
-投標結束日(T-2)-13          NaN
-投標結束日(T-2)-12          NaN
-投標結束日(T-2)-11          NaN
-投標結束日(T-2)-10          NaN
-投標結束日(T-2)-9           NaN
-投標結束日(T-2)-8           NaN
-投標結束日(T-2)-7           NaN
-投標結束日(T-2)-6           NaN
-投標結束日(T-2)-5           NaN
-投標結束日(T-2)-4           NaN
-投標結束日(T-2)-3           NaN
-投標結束日(T-2)-2           NaN
-投標結束日(T-2)-1           NaN
-投標結束日(T-2)             NaN
-開標日期(T)                NaN
-撥券日(上市上櫃日) (T+7)       NaN
-撥券日(上市上櫃日) (T+7)+1     NaN
-撥券日(上市上櫃日) (T+7)+2     NaN
-撥券日(上市上櫃日) (T+7)+3     NaN
-撥券日(上市上櫃日) (T+7)+4     NaN
-撥券日(上市上櫃日) (T+7)+5     NaN
-撥券日(上市上櫃日) (T+7)+6     NaN
-撥券日(上市上櫃日) (T+7)+7     NaN
-DateEnd                NaN
-IPO:股票上櫃買賣日期           NaN
-I-L                    NaN
-Name: 284, dtype: object
+Processing stock 6533 for period 2016-06-10 to 2017-04-03
+Data successfully written to stockdata/[6533] 2016-06-10-2017-04-03.csv
+文件 dividend/[6533] 2016-06-10-2017-04-03-dividend.csv 已包含股票代碼 6533 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+Data successfully written to PER_PBR/[6533] 2016-06-10-2017-04-03-PER_PBR.csv
+文件 company-profile/[6533] 2016-06-10-2017-04-03-company-profile.csv 已包含股票代碼 6533 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[6533] 2016-06-10-2017-04-03-financial.csv 已包含股票代碼 6533 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+Data successfully written to TWSE_TPEX/[6533] 2016-06-10-2017-04-03-TWSE_TPEX.csv
+-----Processed row 285 of 285-----
 Processing completed.
