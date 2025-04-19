@@ -1,0 +1,14 @@
+日期,股票代碼,類型,值,名稱
+2024-12-31,6597,OperatingExpenses,36191000.0,營業費用
+2024-12-31,6597,TAX,8466000.0,所得稅費用（利益）
+2024-12-31,6597,PreTaxIncome,36166000.0,稅前淨利（淨損）
+2024-12-31,6597,IncomeFromContinuingOperations,27700000.0,繼續營業單位本期淨利（淨損）
+2024-12-31,6597,IncomeAfterTaxes,27700000.0,本期淨利（淨損）
+2024-12-31,6597,TotalConsolidatedProfitForThePeriod,27605000.0,本期綜合損益總額
+2024-12-31,6597,Revenue,212797000.0,營業收入
+2024-12-31,6597,CostOfGoodsSold,151982000.0,營業成本
+2024-12-31,6597,OperatingIncome,24624000.0,營業利益（損失）
+2024-12-31,6597,TotalNonoperatingIncomeAndExpense,11542000.0,營業外收入及支出
+2024-12-31,6597,OtherComprehensiveIncome,-95000.0,其他綜合損益（淨額）
+2024-12-31,6597,EPS,1.05,基本每股盈餘（元）
+2024-12-31,6597,GrossProfit,60815000.0,營業毛利（毛損）淨額
