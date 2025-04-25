@@ -1,2 +1,22 @@
 成功讀取 holidays.csv，共 71 個假日
-缺失日期已儲存至 auction_data_processed/missing_dates.csv
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.9.22/x64/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: '股票代號'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/runner/work/Python-Actions.FindMind/Python-Actions.FindMind/create_holiday.py", line 94, in <module>
+    security_id = row["股票代號"]
+  File "/opt/hostedtoolcache/Python/3.9.22/x64/lib/python3.9/site-packages/pandas/core/series.py", line 1121, in __getitem__
+    return self._get_value(key)
+  File "/opt/hostedtoolcache/Python/3.9.22/x64/lib/python3.9/site-packages/pandas/core/series.py", line 1237, in _get_value
+    loc = self.index.get_loc(label)
+  File "/opt/hostedtoolcache/Python/3.9.22/x64/lib/python3.9/site-packages/pandas/core/indexes/base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: '股票代號'
