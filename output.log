@@ -2,6 +2,14 @@ API Token loaded successfully.
 Downloaded Google Sheet to auction_data.csv
 Saved cleaned data to 'cleaned_auction_data.csv'.
 No row limit set. Processing all rows from the CSV file
+Processing stock 6925 for period 2024-04-10 to 2025-06-17
+Data successfully written to stockdata/[6925] 2024-04-10-2025-06-17.csv
+Data successfully written to dividend/[6925] 2024-04-10-2025-06-17-dividend.csv
+No data returned for the given parameters on PER_PBR.
+Data successfully written to company-profile/[6925] 2024-04-10-2025-06-17-company-profile.csv
+Data successfully written to financial/[6925] 2024-04-10-2025-06-17-financial.csv
+Data successfully written to TWSE_TPEX/[6925] 2024-04-10-2025-06-17-TWSE_TPEX.csv
+-----Processed row 1 of 292-----
 Processing stock 6944 for period 2024-11-26 to 2025-06-17
 Data successfully written to stockdata/[6944] 2024-11-26-2025-06-17.csv
 No data returned for the given parameters on dividend.
@@ -9,7 +17,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[6944] 2024-11-26-2025-06-17-company-profile.csv
 Data successfully written to financial/[6944] 2024-11-26-2025-06-17-financial.csv
 Data successfully written to TWSE_TPEX/[6944] 2024-11-26-2025-06-17-TWSE_TPEX.csv
------Processed row 1 of 291-----
+-----Processed row 2 of 292-----
 Processing stock 1295 for period 2024-10-03 to 2025-06-16
 Data successfully written to stockdata/[1295] 2024-10-03-2025-06-16.csv
 Data successfully written to dividend/[1295] 2024-10-03-2025-06-16-dividend.csv
@@ -17,7 +25,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[1295] 2024-10-03-2025-06-16-company-profile.csv
 Data successfully written to financial/[1295] 2024-10-03-2025-06-16-financial.csv
 Data successfully written to TWSE_TPEX/[1295] 2024-10-03-2025-06-16-TWSE_TPEX.csv
------Processed row 2 of 291-----
+-----Processed row 3 of 292-----
 Processing stock 7642 for period 2024-12-06 to 2025-06-11
 Data successfully written to stockdata/[7642] 2024-12-06-2025-06-11.csv
 Data successfully written to dividend/[7642] 2024-12-06-2025-06-11-dividend.csv
@@ -25,7 +33,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[7642] 2024-12-06-2025-06-11-company-profile.csv
 Data successfully written to financial/[7642] 2024-12-06-2025-06-11-financial.csv
 Data successfully written to TWSE_TPEX/[7642] 2024-12-06-2025-06-11-TWSE_TPEX.csv
------Processed row 3 of 291-----
+-----Processed row 4 of 292-----
 Processing stock 6909 for period 2024-11-06 to 2025-06-10
 Data successfully written to stockdata/[6909] 2024-11-06-2025-06-10.csv
 No data returned for the given parameters on dividend.
@@ -33,7 +41,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[6909] 2024-11-06-2025-06-10-company-profile.csv
 Data successfully written to financial/[6909] 2024-11-06-2025-06-10-financial.csv
 Data successfully written to TWSE_TPEX/[6909] 2024-11-06-2025-06-10-TWSE_TPEX.csv
------Processed row 4 of 291-----
+-----Processed row 5 of 292-----
 Processing stock 7743 for period 2024-10-10 to 2025-06-09
 Data successfully written to stockdata/[7743] 2024-10-10-2025-06-09.csv
 Data successfully written to dividend/[7743] 2024-10-10-2025-06-09-dividend.csv
@@ -41,7 +49,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[7743] 2024-10-10-2025-06-09-company-profile.csv
 Data successfully written to financial/[7743] 2024-10-10-2025-06-09-financial.csv
 Data successfully written to TWSE_TPEX/[7743] 2024-10-10-2025-06-09-TWSE_TPEX.csv
------Processed row 5 of 291-----
+-----Processed row 6 of 292-----
 Processing stock 6498 for period 2024-11-28 to 2025-06-09
 Data successfully written to stockdata/[6498] 2024-11-28-2025-06-09.csv
 No data returned for the given parameters on dividend.
@@ -49,7 +57,7 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[6498] 2024-11-28-2025-06-09-company-profile.csv
 Data successfully written to financial/[6498] 2024-11-28-2025-06-09-financial.csv
 Data successfully written to TWSE_TPEX/[6498] 2024-11-28-2025-06-09-TWSE_TPEX.csv
------Processed row 6 of 291-----
+-----Processed row 7 of 292-----
 Processing stock 6597 for period 2024-11-11 to 2025-05-28
 Data successfully written to stockdata/[6597] 2024-11-11-2025-05-28.csv
 No data returned for the given parameters on dividend.
@@ -57,7 +65,7 @@ Data successfully written to PER_PBR/[6597] 2024-11-11-2025-05-28-PER_PBR.csv
 Data successfully written to company-profile/[6597] 2024-11-11-2025-05-28-company-profile.csv
 Data successfully written to financial/[6597] 2024-11-11-2025-05-28-financial.csv
 Data successfully written to TWSE_TPEX/[6597] 2024-11-11-2025-05-28-TWSE_TPEX.csv
------Processed row 7 of 291-----
+-----Processed row 8 of 292-----
 Processing stock 7723 for period 2024-08-30 to 2025-05-20
 Data successfully written to stockdata/[7723] 2024-08-30-2025-05-20.csv
 Data successfully written to dividend/[7723] 2024-08-30-2025-05-20-dividend.csv
@@ -65,7 +73,7 @@ Data successfully written to PER_PBR/[7723] 2024-08-30-2025-05-20-PER_PBR.csv
 Data successfully written to company-profile/[7723] 2024-08-30-2025-05-20-company-profile.csv
 Data successfully written to financial/[7723] 2024-08-30-2025-05-20-financial.csv
 Data successfully written to TWSE_TPEX/[7723] 2024-08-30-2025-05-20-TWSE_TPEX.csv
------Processed row 8 of 291-----
+-----Processed row 9 of 292-----
 Processing stock 6936 for period 2023-12-01 to 2025-05-16
 Data successfully written to stockdata/[6936] 2023-12-01-2025-05-16.csv
 Data successfully written to dividend/[6936] 2023-12-01-2025-05-16-dividend.csv
@@ -73,7 +81,7 @@ Data successfully written to PER_PBR/[6936] 2023-12-01-2025-05-16-PER_PBR.csv
 Data successfully written to company-profile/[6936] 2023-12-01-2025-05-16-company-profile.csv
 Data successfully written to financial/[6936] 2023-12-01-2025-05-16-financial.csv
 Data successfully written to TWSE_TPEX/[6936] 2023-12-01-2025-05-16-TWSE_TPEX.csv
------Processed row 9 of 291-----
+-----Processed row 10 of 292-----
 Processing stock 3467 for period 2024-09-05 to 2025-04-14
 文件 stockdata/[3467] 2024-09-05-2025-04-14.csv 已包含結束日期 2025-04-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -81,7 +89,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[3467] 2024-09-05-2025-04-14-company-profile.csv
 Data successfully written to financial/[3467] 2024-09-05-2025-04-14-financial.csv
 文件 TWSE_TPEX/[3467] 2024-09-05-2025-04-14-TWSE_TPEX.csv 已包含結束日期 2025-04-14 的數據，跳過 API 請求
------Processed row 10 of 291-----
+-----Processed row 11 of 292-----
 Processing stock 7718 for period 2024-10-09 to 2025-04-07
 文件 stockdata/[7718] 2024-10-09-2025-04-07.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -89,7 +97,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7718] 2024-10-09-2025-04-07-company-profile.csv
 Data successfully written to financial/[7718] 2024-10-09-2025-04-07-financial.csv
 文件 TWSE_TPEX/[7718] 2024-10-09-2025-04-07-TWSE_TPEX.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
------Processed row 11 of 291-----
+-----Processed row 12 of 292-----
 Processing stock 7736 for period 2024-09-19 to 2025-04-07
 文件 stockdata/[7736] 2024-09-19-2025-04-07.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -97,7 +105,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7736] 2024-09-19-2025-04-07-company-profile.csv
 Data successfully written to financial/[7736] 2024-09-19-2025-04-07-financial.csv
 文件 TWSE_TPEX/[7736] 2024-09-19-2025-04-07-TWSE_TPEX.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
------Processed row 12 of 291-----
+-----Processed row 13 of 292-----
 Processing stock 6872 for period 2024-07-23 to 2025-03-27
 文件 stockdata/[6872] 2024-07-23-2025-03-27.csv 已包含結束日期 2025-03-27 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -105,7 +113,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[6872] 2024-07-23-2025-03-27-company-profile.csv
 Data successfully written to financial/[6872] 2024-07-23-2025-03-27-financial.csv
 文件 TWSE_TPEX/[6872] 2024-07-23-2025-03-27-TWSE_TPEX.csv 已包含結束日期 2025-03-27 的數據，跳過 API 請求
------Processed row 13 of 291-----
+-----Processed row 14 of 292-----
 Processing stock 7728 for period 2024-09-05 to 2025-03-26
 文件 stockdata/[7728] 2024-09-05-2025-03-26.csv 已包含結束日期 2025-03-26 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -113,7 +121,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7728] 2024-09-05-2025-03-26-company-profile.csv
 Data successfully written to financial/[7728] 2024-09-05-2025-03-26-financial.csv
 文件 TWSE_TPEX/[7728] 2024-09-05-2025-03-26-TWSE_TPEX.csv 已包含結束日期 2025-03-26 的數據，跳過 API 請求
------Processed row 14 of 291-----
+-----Processed row 15 of 292-----
 Processing stock 7734 for period 2024-09-06 to 2025-03-18
 文件 stockdata/[7734] 2024-09-06-2025-03-18.csv 已包含結束日期 2025-03-18 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -121,7 +129,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7734] 2024-09-06-2025-03-18-company-profile.csv
 Data successfully written to financial/[7734] 2024-09-06-2025-03-18-financial.csv
 文件 TWSE_TPEX/[7734] 2024-09-06-2025-03-18-TWSE_TPEX.csv 已包含結束日期 2025-03-18 的數據，跳過 API 請求
------Processed row 15 of 291-----
+-----Processed row 16 of 292-----
 Processing stock 7709 for period 2024-08-16 to 2025-03-17
 文件 stockdata/[7709] 2024-08-16-2025-03-17.csv 已包含結束日期 2025-03-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -129,7 +137,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7709] 2024-08-16-2025-03-17-company-profile.csv
 Data successfully written to financial/[7709] 2024-08-16-2025-03-17-financial.csv
 文件 TWSE_TPEX/[7709] 2024-08-16-2025-03-17-TWSE_TPEX.csv 已包含結束日期 2025-03-17 的數據，跳過 API 請求
------Processed row 16 of 291-----
+-----Processed row 17 of 292-----
 Processing stock 7713 for period 2024-08-26 to 2025-03-14
 文件 stockdata/[7713] 2024-08-26-2025-03-14.csv 已包含結束日期 2025-03-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -137,7 +145,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to company-profile/[7713] 2024-08-26-2025-03-14-company-profile.csv
 Data successfully written to financial/[7713] 2024-08-26-2025-03-14-financial.csv
 文件 TWSE_TPEX/[7713] 2024-08-26-2025-03-14-TWSE_TPEX.csv 已包含結束日期 2025-03-14 的數據，跳過 API 請求
------Processed row 17 of 291-----
+-----Processed row 18 of 292-----
 Processing stock 4749 for period 2024-07-10 to 2025-02-06
 文件 stockdata/[4749] 2024-07-10-2025-02-06.csv 已包含結束日期 2025-02-06 的數據，跳過 API 請求
 文件 dividend/[4749] 2024-07-10-2025-02-06-dividend.csv 已包含股票代碼 4749 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -145,7 +153,7 @@ Processing stock 4749 for period 2024-07-10 to 2025-02-06
 文件 company-profile/[4749] 2024-07-10-2025-02-06-company-profile.csv 已包含股票代碼 4749 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4749] 2024-07-10-2025-02-06-financial.csv 已包含股票代碼 4749 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4749] 2024-07-10-2025-02-06-TWSE_TPEX.csv 已包含結束日期 2025-02-06 的數據，跳過 API 請求
------Processed row 18 of 291-----
+-----Processed row 19 of 292-----
 Processing stock 7715 for period 2024-07-11 to 2025-02-04
 文件 stockdata/[7715] 2024-07-11-2025-02-04.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -153,7 +161,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[7715] 2024-07-11-2025-02-04-company-profile.csv 已包含股票代碼 7715 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7715] 2024-07-11-2025-02-04-financial.csv 已包含股票代碼 7715 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7715] 2024-07-11-2025-02-04-TWSE_TPEX.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
------Processed row 19 of 291-----
+-----Processed row 20 of 292-----
 Processing stock 6994 for period 2024-06-05 to 2025-02-04
 文件 stockdata/[6994] 2024-06-05-2025-02-04.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
 文件 dividend/[6994] 2024-06-05-2025-02-04-dividend.csv 已包含股票代碼 6994 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -161,7 +169,7 @@ Processing stock 6994 for period 2024-06-05 to 2025-02-04
 文件 company-profile/[6994] 2024-06-05-2025-02-04-company-profile.csv 已包含股票代碼 6994 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6994] 2024-06-05-2025-02-04-financial.csv 已包含股票代碼 6994 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6994] 2024-06-05-2025-02-04-TWSE_TPEX.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
------Processed row 20 of 291-----
+-----Processed row 21 of 292-----
 Processing stock 6931 for period 2024-09-05 to 2025-02-04
 文件 stockdata/[6931] 2024-09-05-2025-02-04.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -169,7 +177,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6931] 2024-09-05-2025-02-04-company-profile.csv 已包含股票代碼 6931 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6931] 2024-09-05-2025-02-04-financial.csv 已包含股票代碼 6931 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6931] 2024-09-05-2025-02-04-TWSE_TPEX.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
------Processed row 21 of 291-----
+-----Processed row 22 of 292-----
 Processing stock 7714 for period 2024-08-05 to 2025-02-04
 文件 stockdata/[7714] 2024-08-05-2025-02-04.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
 文件 dividend/[7714] 2024-08-05-2025-02-04-dividend.csv 已包含股票代碼 7714 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -177,7 +185,7 @@ Processing stock 7714 for period 2024-08-05 to 2025-02-04
 文件 company-profile/[7714] 2024-08-05-2025-02-04-company-profile.csv 已包含股票代碼 7714 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7714] 2024-08-05-2025-02-04-financial.csv 已包含股票代碼 7714 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7714] 2024-08-05-2025-02-04-TWSE_TPEX.csv 已包含結束日期 2025-02-04 的數據，跳過 API 請求
------Processed row 22 of 291-----
+-----Processed row 23 of 292-----
 Processing stock 7732 for period 2024-08-29 to 2025-02-03
 文件 stockdata/[7732] 2024-08-29-2025-02-03.csv 已包含結束日期 2025-02-03 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -185,7 +193,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[7732] 2024-08-29-2025-02-03-company-profile.csv 已包含股票代碼 7732 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7732] 2024-08-29-2025-02-03-financial.csv 已包含股票代碼 7732 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7732] 2024-08-29-2025-02-03-TWSE_TPEX.csv 已包含結束日期 2025-02-03 的數據，跳過 API 請求
------Processed row 23 of 291-----
+-----Processed row 24 of 292-----
 Processing stock 7712 for period 2024-06-07 to 2025-01-15
 文件 stockdata/[7712] 2024-06-07-2025-01-15.csv 已包含結束日期 2025-01-15 的數據，跳過 API 請求
 文件 dividend/[7712] 2024-06-07-2025-01-15-dividend.csv 已包含股票代碼 7712 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -193,7 +201,7 @@ Processing stock 7712 for period 2024-06-07 to 2025-01-15
 文件 company-profile/[7712] 2024-06-07-2025-01-15-company-profile.csv 已包含股票代碼 7712 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7712] 2024-06-07-2025-01-15-financial.csv 已包含股票代碼 7712 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7712] 2024-06-07-2025-01-15-TWSE_TPEX.csv 已包含結束日期 2025-01-15 的數據，跳過 API 請求
------Processed row 24 of 291-----
+-----Processed row 25 of 292-----
 Processing stock 6982 for period 2024-07-02 to 2025-01-07
 文件 stockdata/[6982] 2024-07-02-2025-01-07.csv 已包含結束日期 2025-01-07 的數據，跳過 API 請求
 文件 dividend/[6982] 2024-07-02-2025-01-07-dividend.csv 已包含股票代碼 6982 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -201,7 +209,7 @@ Processing stock 6982 for period 2024-07-02 to 2025-01-07
 文件 company-profile/[6982] 2024-07-02-2025-01-07-company-profile.csv 已包含股票代碼 6982 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6982] 2024-07-02-2025-01-07-financial.csv 已包含股票代碼 6982 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6982] 2024-07-02-2025-01-07-TWSE_TPEX.csv 已包含結束日期 2025-01-07 的數據，跳過 API 請求
------Processed row 25 of 291-----
+-----Processed row 26 of 292-----
 Processing stock 7704 for period 2024-05-29 to 2025-01-03
 文件 stockdata/[7704] 2024-05-29-2025-01-03.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
 文件 dividend/[7704] 2024-05-29-2025-01-03-dividend.csv 已包含股票代碼 7704 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -209,7 +217,7 @@ Processing stock 7704 for period 2024-05-29 to 2025-01-03
 文件 company-profile/[7704] 2024-05-29-2025-01-03-company-profile.csv 已包含股票代碼 7704 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7704] 2024-05-29-2025-01-03-financial.csv 已包含股票代碼 7704 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7704] 2024-05-29-2025-01-03-TWSE_TPEX.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
------Processed row 26 of 291-----
+-----Processed row 27 of 292-----
 Processing stock 6885 for period 2024-07-08 to 2025-01-03
 文件 stockdata/[6885] 2024-07-08-2025-01-03.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -217,7 +225,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6885] 2024-07-08-2025-01-03-company-profile.csv 已包含股票代碼 6885 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6885] 2024-07-08-2025-01-03-financial.csv 已包含股票代碼 6885 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6885] 2024-07-08-2025-01-03-TWSE_TPEX.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
------Processed row 27 of 291-----
+-----Processed row 28 of 292-----
 Processing stock 6997 for period 2024-07-10 to 2025-01-03
 文件 stockdata/[6997] 2024-07-10-2025-01-03.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
 文件 dividend/[6997] 2024-07-10-2025-01-03-dividend.csv 已包含股票代碼 6997 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -225,7 +233,7 @@ Processing stock 6997 for period 2024-07-10 to 2025-01-03
 文件 company-profile/[6997] 2024-07-10-2025-01-03-company-profile.csv 已包含股票代碼 6997 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6997] 2024-07-10-2025-01-03-financial.csv 已包含股票代碼 6997 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6997] 2024-07-10-2025-01-03-TWSE_TPEX.csv 已包含結束日期 2025-01-03 的數據，跳過 API 請求
------Processed row 28 of 291-----
+-----Processed row 29 of 292-----
 Processing stock 8045 for period 2024-05-31 to 2024-12-31
 文件 stockdata/[8045] 2024-05-31-2024-12-31.csv 已包含結束日期 2024-12-31 的數據，跳過 API 請求
 文件 dividend/[8045] 2024-05-31-2024-12-31-dividend.csv 已包含股票代碼 8045 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -233,7 +241,7 @@ Processing stock 8045 for period 2024-05-31 to 2024-12-31
 文件 company-profile/[8045] 2024-05-31-2024-12-31-company-profile.csv 已包含股票代碼 8045 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8045] 2024-05-31-2024-12-31-financial.csv 已包含股票代碼 8045 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8045] 2024-05-31-2024-12-31-TWSE_TPEX.csv 已包含結束日期 2024-12-31 的數據，跳過 API 請求
------Processed row 29 of 291-----
+-----Processed row 30 of 292-----
 Processing stock 6996 for period 2024-06-05 to 2024-12-30
 文件 stockdata/[6996] 2024-06-05-2024-12-30.csv 已包含結束日期 2024-12-30 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -241,7 +249,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6996] 2024-06-05-2024-12-30-company-profile.csv 已包含股票代碼 6996 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6996] 2024-06-05-2024-12-30-financial.csv 已包含股票代碼 6996 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6996] 2024-06-05-2024-12-30-TWSE_TPEX.csv 已包含結束日期 2024-12-30 的數據，跳過 API 請求
------Processed row 30 of 291-----
+-----Processed row 31 of 292-----
 Processing stock 7722 for period 2024-07-08 to 2024-12-25
 文件 stockdata/[7722] 2024-07-08-2024-12-25.csv 已包含結束日期 2024-12-25 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -249,7 +257,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[7722] 2024-07-08-2024-12-25-company-profile.csv 已包含股票代碼 7722 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7722] 2024-07-08-2024-12-25-financial.csv 已包含股票代碼 7722 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7722] 2024-07-08-2024-12-25-TWSE_TPEX.csv 已包含結束日期 2024-12-25 的數據，跳過 API 請求
------Processed row 31 of 291-----
+-----Processed row 32 of 292-----
 Processing stock 6720 for period 2024-07-08 to 2024-12-24
 文件 stockdata/[6720] 2024-07-08-2024-12-24.csv 已包含結束日期 2024-12-24 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -257,7 +265,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6720] 2024-07-08-2024-12-24-company-profile.csv 已包含股票代碼 6720 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6720] 2024-07-08-2024-12-24-financial.csv 已包含股票代碼 6720 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6720] 2024-07-08-2024-12-24-TWSE_TPEX.csv 已包含結束日期 2024-12-24 的數據，跳過 API 請求
------Processed row 32 of 291-----
+-----Processed row 33 of 292-----
 Processing stock 7705 for period 2024-06-05 to 2024-12-16
 文件 stockdata/[7705] 2024-06-05-2024-12-16.csv 已包含結束日期 2024-12-16 的數據，跳過 API 請求
 文件 dividend/[7705] 2024-06-05-2024-12-16-dividend.csv 已包含股票代碼 7705 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -265,7 +273,7 @@ Processing stock 7705 for period 2024-06-05 to 2024-12-16
 文件 company-profile/[7705] 2024-06-05-2024-12-16-company-profile.csv 已包含股票代碼 7705 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7705] 2024-06-05-2024-12-16-financial.csv 已包含股票代碼 7705 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7705] 2024-06-05-2024-12-16-TWSE_TPEX.csv 已包含結束日期 2024-12-16 的數據，跳過 API 請求
------Processed row 33 of 291-----
+-----Processed row 34 of 292-----
 Processing stock 7708 for period 2024-06-07 to 2024-12-05
 文件 stockdata/[7708] 2024-06-07-2024-12-05.csv 已包含結束日期 2024-12-05 的數據，跳過 API 請求
 文件 dividend/[7708] 2024-06-07-2024-12-05-dividend.csv 已包含股票代碼 7708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -273,7 +281,7 @@ Processing stock 7708 for period 2024-06-07 to 2024-12-05
 文件 company-profile/[7708] 2024-06-07-2024-12-05-company-profile.csv 已包含股票代碼 7708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7708] 2024-06-07-2024-12-05-financial.csv 已包含股票代碼 7708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7708] 2024-06-07-2024-12-05-TWSE_TPEX.csv 已包含結束日期 2024-12-05 的數據，跳過 API 請求
------Processed row 34 of 291-----
+-----Processed row 35 of 292-----
 Processing stock 7703 for period 2024-06-05 to 2024-12-03
 文件 stockdata/[7703] 2024-06-05-2024-12-03.csv 已包含結束日期 2024-12-03 的數據，跳過 API 請求
 文件 dividend/[7703] 2024-06-05-2024-12-03-dividend.csv 已包含股票代碼 7703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -281,7 +289,7 @@ Processing stock 7703 for period 2024-06-05 to 2024-12-03
 文件 company-profile/[7703] 2024-06-05-2024-12-03-company-profile.csv 已包含股票代碼 7703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7703] 2024-06-05-2024-12-03-financial.csv 已包含股票代碼 7703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7703] 2024-06-05-2024-12-03-TWSE_TPEX.csv 已包含結束日期 2024-12-03 的數據，跳過 API 請求
------Processed row 35 of 291-----
+-----Processed row 36 of 292-----
 Processing stock 2646 for period 2024-06-07 to 2024-11-14
 文件 stockdata/[2646] 2024-06-07-2024-11-14.csv 已包含結束日期 2024-11-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -289,7 +297,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2646] 2024-06-07-2024-11-14-company-profile.csv 已包含股票代碼 2646 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2646] 2024-06-07-2024-11-14-financial.csv 已包含股票代碼 2646 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2646] 2024-06-07-2024-11-14-TWSE_TPEX.csv 已包含結束日期 2024-11-14 的數據，跳過 API 請求
------Processed row 36 of 291-----
+-----Processed row 37 of 292-----
 Processing stock 8272 for period 2024-04-09 to 2024-11-12
 文件 stockdata/[8272] 2024-04-09-2024-11-12.csv 已包含結束日期 2024-11-12 的數據，跳過 API 請求
 文件 dividend/[8272] 2024-04-09-2024-11-12-dividend.csv 已包含股票代碼 8272 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -297,7 +305,7 @@ Processing stock 8272 for period 2024-04-09 to 2024-11-12
 文件 company-profile/[8272] 2024-04-09-2024-11-12-company-profile.csv 已包含股票代碼 8272 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8272] 2024-04-09-2024-11-12-financial.csv 已包含股票代碼 8272 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8272] 2024-04-09-2024-11-12-TWSE_TPEX.csv 已包含結束日期 2024-11-12 的數據，跳過 API 請求
------Processed row 37 of 291-----
+-----Processed row 38 of 292-----
 Processing stock 6919 for period 2024-04-10 to 2024-10-22
 文件 stockdata/[6919] 2024-04-10-2024-10-22.csv 已包含結束日期 2024-10-22 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -305,7 +313,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6919] 2024-04-10-2024-10-22-company-profile.csv 已包含股票代碼 6919 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6919] 2024-04-10-2024-10-22-financial.csv 已包含股票代碼 6919 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6919] 2024-04-10-2024-10-22-TWSE_TPEX.csv 已包含結束日期 2024-10-22 的數據，跳過 API 請求
------Processed row 38 of 291-----
+-----Processed row 39 of 292-----
 Processing stock 6913 for period 2024-05-10 to 2024-10-21
 文件 stockdata/[6913] 2024-05-10-2024-10-21.csv 已包含結束日期 2024-10-21 的數據，跳過 API 請求
 文件 dividend/[6913] 2024-05-10-2024-10-21-dividend.csv 已包含股票代碼 6913 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -313,7 +321,7 @@ Processing stock 6913 for period 2024-05-10 to 2024-10-21
 文件 company-profile/[6913] 2024-05-10-2024-10-21-company-profile.csv 已包含股票代碼 6913 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6913] 2024-05-10-2024-10-21-financial.csv 已包含股票代碼 6913 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6913] 2024-05-10-2024-10-21-TWSE_TPEX.csv 已包含結束日期 2024-10-21 的數據，跳過 API 請求
------Processed row 39 of 291-----
+-----Processed row 40 of 292-----
 Processing stock 1294 for period 2024-03-19 to 2024-10-16
 文件 stockdata/[1294] 2024-03-19-2024-10-16.csv 已包含結束日期 2024-10-16 的數據，跳過 API 請求
 文件 dividend/[1294] 2024-03-19-2024-10-16-dividend.csv 已包含股票代碼 1294 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -321,7 +329,7 @@ Processing stock 1294 for period 2024-03-19 to 2024-10-16
 文件 company-profile/[1294] 2024-03-19-2024-10-16-company-profile.csv 已包含股票代碼 1294 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1294] 2024-03-19-2024-10-16-financial.csv 已包含股票代碼 1294 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1294] 2024-03-19-2024-10-16-TWSE_TPEX.csv 已包含結束日期 2024-10-16 的數據，跳過 API 請求
------Processed row 40 of 291-----
+-----Processed row 41 of 292-----
 Processing stock 6967 for period 2024-04-10 to 2024-10-15
 文件 stockdata/[6967] 2024-04-10-2024-10-15.csv 已包含結束日期 2024-10-15 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -329,7 +337,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6967] 2024-04-10-2024-10-15-company-profile.csv 已包含股票代碼 6967 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6967] 2024-04-10-2024-10-15-financial.csv 已包含股票代碼 6967 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6967] 2024-04-10-2024-10-15-TWSE_TPEX.csv 已包含結束日期 2024-10-15 的數據，跳過 API 請求
------Processed row 41 of 291-----
+-----Processed row 42 of 292-----
 Processing stock 6923 for period 2024-04-12 to 2024-10-15
 文件 stockdata/[6923] 2024-04-12-2024-10-15.csv 已包含結束日期 2024-10-15 的數據，跳過 API 請求
 文件 dividend/[6923] 2024-04-12-2024-10-15-dividend.csv 已包含股票代碼 6923 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -337,7 +345,7 @@ Processing stock 6923 for period 2024-04-12 to 2024-10-15
 文件 company-profile/[6923] 2024-04-12-2024-10-15-company-profile.csv 已包含股票代碼 6923 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6923] 2024-04-12-2024-10-15-financial.csv 已包含股票代碼 6923 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6923] 2024-04-12-2024-10-15-TWSE_TPEX.csv 已包含結束日期 2024-10-15 的數據，跳過 API 請求
------Processed row 42 of 291-----
+-----Processed row 43 of 292-----
 Processing stock 4772 for period 2024-03-19 to 2024-10-10
 Data successfully written to stockdata/[4772] 2024-03-19-2024-10-10.csv
 文件 dividend/[4772] 2024-03-19-2024-10-10-dividend.csv 已包含股票代碼 4772 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -345,7 +353,7 @@ Data successfully written to PER_PBR/[4772] 2024-03-19-2024-10-10-PER_PBR.csv
 文件 company-profile/[4772] 2024-03-19-2024-10-10-company-profile.csv 已包含股票代碼 4772 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4772] 2024-03-19-2024-10-10-financial.csv 已包含股票代碼 4772 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4772] 2024-03-19-2024-10-10-TWSE_TPEX.csv
------Processed row 43 of 291-----
+-----Processed row 44 of 292-----
 Processing stock 2751 for period 2024-03-08 to 2024-09-30
 文件 stockdata/[2751] 2024-03-08-2024-09-30.csv 已包含結束日期 2024-09-30 的數據，跳過 API 請求
 文件 dividend/[2751] 2024-03-08-2024-09-30-dividend.csv 已包含股票代碼 2751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -353,7 +361,7 @@ Processing stock 2751 for period 2024-03-08 to 2024-09-30
 文件 company-profile/[2751] 2024-03-08-2024-09-30-company-profile.csv 已包含股票代碼 2751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2751] 2024-03-08-2024-09-30-financial.csv 已包含股票代碼 2751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2751] 2024-03-08-2024-09-30-TWSE_TPEX.csv 已包含結束日期 2024-09-30 的數據，跳過 API 請求
------Processed row 44 of 291-----
+-----Processed row 45 of 292-----
 Processing stock 6739 for period 2024-03-07 to 2024-09-20
 文件 stockdata/[6739] 2024-03-07-2024-09-20.csv 已包含結束日期 2024-09-20 的數據，跳過 API 請求
 文件 dividend/[6739] 2024-03-07-2024-09-20-dividend.csv 已包含股票代碼 6739 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -361,7 +369,7 @@ Processing stock 6739 for period 2024-03-07 to 2024-09-20
 文件 company-profile/[6739] 2024-03-07-2024-09-20-company-profile.csv 已包含股票代碼 6739 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6739] 2024-03-07-2024-09-20-financial.csv 已包含股票代碼 6739 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6739] 2024-03-07-2024-09-20-TWSE_TPEX.csv 已包含結束日期 2024-09-20 的數據，跳過 API 請求
------Processed row 45 of 291-----
+-----Processed row 46 of 292-----
 Processing stock 6958 for period 2023-12-08 to 2024-09-09
 文件 stockdata/[6958] 2023-12-08-2024-09-09.csv 已包含結束日期 2024-09-09 的數據，跳過 API 請求
 文件 dividend/[6958] 2023-12-08-2024-09-09-dividend.csv 已包含股票代碼 6958 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -369,7 +377,7 @@ Processing stock 6958 for period 2023-12-08 to 2024-09-09
 文件 company-profile/[6958] 2023-12-08-2024-09-09-company-profile.csv 已包含股票代碼 6958 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6958] 2023-12-08-2024-09-09-financial.csv 已包含股票代碼 6958 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6958] 2023-12-08-2024-09-09-TWSE_TPEX.csv 已包含結束日期 2024-09-09 的數據，跳過 API 請求
------Processed row 46 of 291-----
+-----Processed row 47 of 292-----
 Processing stock 6968 for period 2024-03-08 to 2024-09-03
 文件 stockdata/[6968] 2024-03-08-2024-09-03.csv 已包含結束日期 2024-09-03 的數據，跳過 API 請求
 文件 dividend/[6968] 2024-03-08-2024-09-03-dividend.csv 已包含股票代碼 6968 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -377,7 +385,7 @@ Processing stock 6968 for period 2024-03-08 to 2024-09-03
 文件 company-profile/[6968] 2024-03-08-2024-09-03-company-profile.csv 已包含股票代碼 6968 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6968] 2024-03-08-2024-09-03-financial.csv 已包含股票代碼 6968 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6968] 2024-03-08-2024-09-03-TWSE_TPEX.csv 已包含結束日期 2024-09-03 的數據，跳過 API 請求
------Processed row 47 of 291-----
+-----Processed row 48 of 292-----
 Processing stock 6838 for period 2024-03-11 to 2024-09-02
 文件 stockdata/[6838] 2024-03-11-2024-09-02.csv 已包含結束日期 2024-09-02 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -385,7 +393,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6838] 2024-03-11-2024-09-02-company-profile.csv 已包含股票代碼 6838 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6838] 2024-03-11-2024-09-02-financial.csv 已包含股票代碼 6838 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6838] 2024-03-11-2024-09-02-TWSE_TPEX.csv 已包含結束日期 2024-09-02 的數據，跳過 API 請求
------Processed row 48 of 291-----
+-----Processed row 49 of 292-----
 Processing stock 7584 for period 2024-02-19 to 2024-08-14
 文件 stockdata/[7584] 2024-02-19-2024-08-14.csv 已包含結束日期 2024-08-14 的數據，跳過 API 請求
 文件 dividend/[7584] 2024-02-19-2024-08-14-dividend.csv 已包含股票代碼 7584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -393,7 +401,7 @@ Processing stock 7584 for period 2024-02-19 to 2024-08-14
 文件 company-profile/[7584] 2024-02-19-2024-08-14-company-profile.csv 已包含股票代碼 7584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7584] 2024-02-19-2024-08-14-financial.csv 已包含股票代碼 7584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7584] 2024-02-19-2024-08-14-TWSE_TPEX.csv 已包含結束日期 2024-08-14 的數據，跳過 API 請求
------Processed row 49 of 291-----
+-----Processed row 50 of 292-----
 Processing stock 6637 for period 2023-11-01 to 2024-07-08
 文件 stockdata/[6637] 2023-11-01-2024-07-08.csv 已包含結束日期 2024-07-08 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -401,7 +409,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6637] 2023-11-01-2024-07-08-company-profile.csv 已包含股票代碼 6637 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6637] 2023-11-01-2024-07-08-financial.csv 已包含股票代碼 6637 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6637] 2023-11-01-2024-07-08-TWSE_TPEX.csv 已包含結束日期 2024-07-08 的數據，跳過 API 請求
------Processed row 50 of 291-----
+-----Processed row 51 of 292-----
 Processing stock 6952 for period 2023-12-07 to 2024-07-03
 文件 stockdata/[6952] 2023-12-07-2024-07-03.csv 已包含結束日期 2024-07-03 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -409,7 +417,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6952] 2023-12-07-2024-07-03-company-profile.csv 已包含股票代碼 6952 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6952] 2023-12-07-2024-07-03-financial.csv 已包含股票代碼 6952 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6952] 2023-12-07-2024-07-03-TWSE_TPEX.csv 已包含結束日期 2024-07-03 的數據，跳過 API 請求
------Processed row 51 of 291-----
+-----Processed row 52 of 292-----
 Processing stock 6903 for period 2023-11-29 to 2024-07-02
 文件 stockdata/[6903] 2023-11-29-2024-07-02.csv 已包含結束日期 2024-07-02 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -417,7 +425,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6903] 2023-11-29-2024-07-02-company-profile.csv 已包含股票代碼 6903 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6903] 2023-11-29-2024-07-02-financial.csv 已包含股票代碼 6903 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6903] 2023-11-29-2024-07-02-TWSE_TPEX.csv 已包含結束日期 2024-07-02 的數據，跳過 API 請求
------Processed row 52 of 291-----
+-----Processed row 53 of 292-----
 Processing stock 6881 for period 2023-12-01 to 2024-06-10
 Data successfully written to stockdata/[6881] 2023-12-01-2024-06-10.csv
 No data returned for the given parameters on dividend.
@@ -425,7 +433,7 @@ Data successfully written to PER_PBR/[6881] 2023-12-01-2024-06-10-PER_PBR.csv
 文件 company-profile/[6881] 2023-12-01-2024-06-10-company-profile.csv 已包含股票代碼 6881 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6881] 2023-12-01-2024-06-10-financial.csv 已包含股票代碼 6881 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6881] 2023-12-01-2024-06-10-TWSE_TPEX.csv
------Processed row 53 of 291-----
+-----Processed row 54 of 292-----
 Processing stock 6928 for period 2023-11-27 to 2024-06-05
 文件 stockdata/[6928] 2023-11-27-2024-06-05.csv 已包含結束日期 2024-06-05 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -433,7 +441,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6928] 2023-11-27-2024-06-05-company-profile.csv 已包含股票代碼 6928 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6928] 2023-11-27-2024-06-05-financial.csv 已包含股票代碼 6928 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6928] 2023-11-27-2024-06-05-TWSE_TPEX.csv 已包含結束日期 2024-06-05 的數據，跳過 API 請求
------Processed row 54 of 291-----
+-----Processed row 55 of 292-----
 Processing stock 1563 for period 2023-11-28 to 2024-05-31
 文件 stockdata/[1563] 2023-11-28-2024-05-31.csv 已包含結束日期 2024-05-31 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -441,7 +449,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[1563] 2023-11-28-2024-05-31-company-profile.csv 已包含股票代碼 1563 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1563] 2023-11-28-2024-05-31-financial.csv 已包含股票代碼 1563 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1563] 2023-11-28-2024-05-31-TWSE_TPEX.csv 已包含結束日期 2024-05-31 的數據，跳過 API 請求
------Processed row 55 of 291-----
+-----Processed row 56 of 292-----
 Processing stock 6953 for period 2023-12-08 to 2024-05-31
 文件 stockdata/[6953] 2023-12-08-2024-05-31.csv 已包含結束日期 2024-05-31 的數據，跳過 API 請求
 文件 dividend/[6953] 2023-12-08-2024-05-31-dividend.csv 已包含股票代碼 6953 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -449,7 +457,7 @@ Processing stock 6953 for period 2023-12-08 to 2024-05-31
 文件 company-profile/[6953] 2023-12-08-2024-05-31-company-profile.csv 已包含股票代碼 6953 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6953] 2023-12-08-2024-05-31-financial.csv 已包含股票代碼 6953 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6953] 2023-12-08-2024-05-31-TWSE_TPEX.csv 已包含結束日期 2024-05-31 的數據，跳過 API 請求
------Processed row 56 of 291-----
+-----Processed row 57 of 292-----
 Processing stock 4949 for period 2023-10-31 to 2024-05-29
 文件 stockdata/[4949] 2023-10-31-2024-05-29.csv 已包含結束日期 2024-05-29 的數據，跳過 API 請求
 文件 dividend/[4949] 2023-10-31-2024-05-29-dividend.csv 已包含股票代碼 4949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -457,7 +465,7 @@ Processing stock 4949 for period 2023-10-31 to 2024-05-29
 文件 company-profile/[4949] 2023-10-31-2024-05-29-company-profile.csv 已包含股票代碼 4949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4949] 2023-10-31-2024-05-29-financial.csv 已包含股票代碼 4949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4949] 2023-10-31-2024-05-29-TWSE_TPEX.csv 已包含結束日期 2024-05-29 的數據，跳過 API 請求
------Processed row 57 of 291-----
+-----Processed row 58 of 292-----
 Processing stock 6914 for period 2023-08-28 to 2024-05-23
 文件 stockdata/[6914] 2023-08-28-2024-05-23.csv 已包含結束日期 2024-05-23 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -465,7 +473,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6914] 2023-08-28-2024-05-23-company-profile.csv 已包含股票代碼 6914 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6914] 2023-08-28-2024-05-23-financial.csv 已包含股票代碼 6914 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6914] 2023-08-28-2024-05-23-TWSE_TPEX.csv 已包含結束日期 2024-05-23 的數據，跳過 API 請求
------Processed row 58 of 291-----
+-----Processed row 59 of 292-----
 Processing stock 6899 for period 2023-08-30 to 2024-04-26
 文件 stockdata/[6899] 2023-08-30-2024-04-26.csv 已包含結束日期 2024-04-26 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -473,7 +481,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6899] 2023-08-30-2024-04-26-company-profile.csv 已包含股票代碼 6899 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6899] 2023-08-30-2024-04-26-financial.csv 已包含股票代碼 6899 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6899] 2023-08-30-2024-04-26-TWSE_TPEX.csv 已包含結束日期 2024-04-26 的數據，跳過 API 請求
------Processed row 59 of 291-----
+-----Processed row 60 of 292-----
 Processing stock 6929 for period 2023-08-25 to 2024-04-17
 文件 stockdata/[6929] 2023-08-25-2024-04-17.csv 已包含結束日期 2024-04-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -481,7 +489,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6929] 2023-08-25-2024-04-17-company-profile.csv 已包含股票代碼 6929 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6929] 2023-08-25-2024-04-17-financial.csv 已包含股票代碼 6929 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6929] 2023-08-25-2024-04-17-TWSE_TPEX.csv 已包含結束日期 2024-04-17 的數據，跳過 API 請求
------Processed row 60 of 291-----
+-----Processed row 61 of 292-----
 Processing stock 6875 for period 2023-09-06 to 2024-04-15
 文件 stockdata/[6875] 2023-09-06-2024-04-15.csv 已包含結束日期 2024-04-15 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -489,7 +497,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6875] 2023-09-06-2024-04-15-company-profile.csv 已包含股票代碼 6875 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6875] 2023-09-06-2024-04-15-financial.csv 已包含股票代碼 6875 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6875] 2023-09-06-2024-04-15-TWSE_TPEX.csv 已包含結束日期 2024-04-15 的數據，跳過 API 請求
------Processed row 61 of 291-----
+-----Processed row 62 of 292-----
 Processing stock 3168 for period 2023-10-02 to 2024-04-15
 文件 stockdata/[3168] 2023-10-02-2024-04-15.csv 已包含結束日期 2024-04-15 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -497,7 +505,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[3168] 2023-10-02-2024-04-15-company-profile.csv 已包含股票代碼 3168 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3168] 2023-10-02-2024-04-15-financial.csv 已包含股票代碼 3168 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3168] 2023-10-02-2024-04-15-TWSE_TPEX.csv 已包含結束日期 2024-04-15 的數據，跳過 API 請求
------Processed row 62 of 291-----
+-----Processed row 63 of 292-----
 Processing stock 2941 for period 2023-09-22 to 2024-04-09
 文件 stockdata/[2941] 2023-09-22-2024-04-09.csv 已包含結束日期 2024-04-09 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -505,7 +513,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2941] 2023-09-22-2024-04-09-company-profile.csv 已包含股票代碼 2941 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2941] 2023-09-22-2024-04-09-financial.csv 已包含股票代碼 2941 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2941] 2023-09-22-2024-04-09-TWSE_TPEX.csv 已包含結束日期 2024-04-09 的數據，跳過 API 請求
------Processed row 63 of 291-----
+-----Processed row 64 of 292-----
 Processing stock 5548 for period 2023-09-22 to 2024-04-05
 Data successfully written to stockdata/[5548] 2023-09-22-2024-04-05.csv
 No data returned for the given parameters on dividend.
@@ -513,7 +521,7 @@ Data successfully written to PER_PBR/[5548] 2023-09-22-2024-04-05-PER_PBR.csv
 文件 company-profile/[5548] 2023-09-22-2024-04-05-company-profile.csv 已包含股票代碼 5548 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5548] 2023-09-22-2024-04-05-financial.csv 已包含股票代碼 5548 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[5548] 2023-09-22-2024-04-05-TWSE_TPEX.csv
------Processed row 64 of 291-----
+-----Processed row 65 of 292-----
 Processing stock 4771 for period 2023-09-29 to 2024-04-05
 Data successfully written to stockdata/[4771] 2023-09-29-2024-04-05.csv
 No data returned for the given parameters on dividend.
@@ -521,7 +529,7 @@ Data successfully written to PER_PBR/[4771] 2023-09-29-2024-04-05-PER_PBR.csv
 文件 company-profile/[4771] 2023-09-29-2024-04-05-company-profile.csv 已包含股票代碼 4771 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4771] 2023-09-29-2024-04-05-financial.csv 已包含股票代碼 4771 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4771] 2023-09-29-2024-04-05-TWSE_TPEX.csv
------Processed row 65 of 291-----
+-----Processed row 66 of 292-----
 Processing stock 6844 for period 2023-07-10 to 2024-03-28
 文件 stockdata/[6844] 2023-07-10-2024-03-28.csv 已包含結束日期 2024-03-28 的數據，跳過 API 請求
 文件 dividend/[6844] 2023-07-10-2024-03-28-dividend.csv 已包含股票代碼 6844 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -529,7 +537,7 @@ Processing stock 6844 for period 2023-07-10 to 2024-03-28
 文件 company-profile/[6844] 2023-07-10-2024-03-28-company-profile.csv 已包含股票代碼 6844 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6844] 2023-07-10-2024-03-28-financial.csv 已包含股票代碼 6844 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6844] 2023-07-10-2024-03-28-TWSE_TPEX.csv 已包含結束日期 2024-03-28 的數據，跳過 API 請求
------Processed row 66 of 291-----
+-----Processed row 67 of 292-----
 Processing stock 6692 for period 2023-05-23 to 2024-02-22
 文件 stockdata/[6692] 2023-05-23-2024-02-22.csv 已包含結束日期 2024-02-22 的數據，跳過 API 請求
 文件 dividend/[6692] 2023-05-23-2024-02-22-dividend.csv 已包含股票代碼 6692 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -537,7 +545,7 @@ Processing stock 6692 for period 2023-05-23 to 2024-02-22
 文件 company-profile/[6692] 2023-05-23-2024-02-22-company-profile.csv 已包含股票代碼 6692 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6692] 2023-05-23-2024-02-22-financial.csv 已包含股票代碼 6692 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6692] 2023-05-23-2024-02-22-TWSE_TPEX.csv 已包含結束日期 2024-02-22 的數據，跳過 API 請求
------Processed row 67 of 291-----
+-----Processed row 68 of 292-----
 Processing stock 4588 for period 2023-09-08 to 2024-02-16
 文件 stockdata/[4588] 2023-09-08-2024-02-16.csv 已包含結束日期 2024-02-16 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -545,7 +553,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4588] 2023-09-08-2024-02-16-company-profile.csv 已包含股票代碼 4588 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4588] 2023-09-08-2024-02-16-financial.csv 已包含股票代碼 4588 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4588] 2023-09-08-2024-02-16-TWSE_TPEX.csv 已包含結束日期 2024-02-16 的數據，跳過 API 請求
------Processed row 68 of 291-----
+-----Processed row 69 of 292-----
 Processing stock 6906 for period 2023-07-11 to 2024-02-02
 文件 stockdata/[6906] 2023-07-11-2024-02-02.csv 已包含結束日期 2024-02-02 的數據，跳過 API 請求
 文件 dividend/[6906] 2023-07-11-2024-02-02-dividend.csv 已包含股票代碼 6906 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -553,7 +561,7 @@ Processing stock 6906 for period 2023-07-11 to 2024-02-02
 文件 company-profile/[6906] 2023-07-11-2024-02-02-company-profile.csv 已包含股票代碼 6906 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6906] 2023-07-11-2024-02-02-financial.csv 已包含股票代碼 6906 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6906] 2023-07-11-2024-02-02-TWSE_TPEX.csv 已包含結束日期 2024-02-02 的數據，跳過 API 請求
------Processed row 69 of 291-----
+-----Processed row 70 of 292-----
 Processing stock 2949 for period 2023-06-23 to 2024-01-04
 文件 stockdata/[2949] 2023-06-23-2024-01-04.csv 已包含結束日期 2024-01-04 的數據，跳過 API 請求
 文件 dividend/[2949] 2023-06-23-2024-01-04-dividend.csv 已包含股票代碼 2949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -561,7 +569,7 @@ Processing stock 2949 for period 2023-06-23 to 2024-01-04
 文件 company-profile/[2949] 2023-06-23-2024-01-04-company-profile.csv 已包含股票代碼 2949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2949] 2023-06-23-2024-01-04-financial.csv 已包含股票代碼 2949 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2949] 2023-06-23-2024-01-04-TWSE_TPEX.csv 已包含結束日期 2024-01-04 的數據，跳過 API 請求
------Processed row 70 of 291-----
+-----Processed row 71 of 292-----
 Processing stock 6937 for period 2023-07-10 to 2024-01-01
 Data successfully written to stockdata/[6937] 2023-07-10-2024-01-01.csv
 文件 dividend/[6937] 2023-07-10-2024-01-01-dividend.csv 已包含股票代碼 6937 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -569,7 +577,7 @@ Data successfully written to PER_PBR/[6937] 2023-07-10-2024-01-01-PER_PBR.csv
 文件 company-profile/[6937] 2023-07-10-2024-01-01-company-profile.csv 已包含股票代碼 6937 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6937] 2023-07-10-2024-01-01-financial.csv 已包含股票代碼 6937 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6937] 2023-07-10-2024-01-01-TWSE_TPEX.csv
------Processed row 71 of 291-----
+-----Processed row 72 of 292-----
 Processing stock 2948 for period 2023-07-11 to 2024-01-01
 Data successfully written to stockdata/[2948] 2023-07-11-2024-01-01.csv
 文件 dividend/[2948] 2023-07-11-2024-01-01-dividend.csv 已包含股票代碼 2948 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -577,7 +585,7 @@ Data successfully written to PER_PBR/[2948] 2023-07-11-2024-01-01-PER_PBR.csv
 文件 company-profile/[2948] 2023-07-11-2024-01-01-company-profile.csv 已包含股票代碼 2948 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2948] 2023-07-11-2024-01-01-financial.csv 已包含股票代碼 2948 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[2948] 2023-07-11-2024-01-01-TWSE_TPEX.csv
------Processed row 72 of 291-----
+-----Processed row 73 of 292-----
 Processing stock 6904 for period 2023-06-07 to 2023-12-25
 文件 stockdata/[6904] 2023-06-07-2023-12-25.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
 文件 dividend/[6904] 2023-06-07-2023-12-25-dividend.csv 已包含股票代碼 6904 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -585,7 +593,7 @@ Processing stock 6904 for period 2023-06-07 to 2023-12-25
 文件 company-profile/[6904] 2023-06-07-2023-12-25-company-profile.csv 已包含股票代碼 6904 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6904] 2023-06-07-2023-12-25-financial.csv 已包含股票代碼 6904 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6904] 2023-06-07-2023-12-25-TWSE_TPEX.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
------Processed row 73 of 291-----
+-----Processed row 74 of 292-----
 Processing stock 6742 for period 2023-04-10 to 2023-12-25
 文件 stockdata/[6742] 2023-04-10-2023-12-25.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
 文件 dividend/[6742] 2023-04-10-2023-12-25-dividend.csv 已包含股票代碼 6742 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -593,7 +601,7 @@ Processing stock 6742 for period 2023-04-10 to 2023-12-25
 文件 company-profile/[6742] 2023-04-10-2023-12-25-company-profile.csv 已包含股票代碼 6742 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6742] 2023-04-10-2023-12-25-financial.csv 已包含股票代碼 6742 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6742] 2023-04-10-2023-12-25-TWSE_TPEX.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
------Processed row 74 of 291-----
+-----Processed row 75 of 292-----
 Processing stock 6916 for period 2023-07-11 to 2023-12-25
 文件 stockdata/[6916] 2023-07-11-2023-12-25.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -601,7 +609,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6916] 2023-07-11-2023-12-25-company-profile.csv 已包含股票代碼 6916 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6916] 2023-07-11-2023-12-25-financial.csv 已包含股票代碼 6916 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6916] 2023-07-11-2023-12-25-TWSE_TPEX.csv 已包含結束日期 2023-12-25 的數據，跳過 API 請求
------Processed row 75 of 291-----
+-----Processed row 76 of 292-----
 Processing stock 6894 for period 2023-05-16 to 2023-12-19
 文件 stockdata/[6894] 2023-05-16-2023-12-19.csv 已包含結束日期 2023-12-19 的數據，跳過 API 請求
 文件 dividend/[6894] 2023-05-16-2023-12-19-dividend.csv 已包含股票代碼 6894 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -609,7 +617,7 @@ Processing stock 6894 for period 2023-05-16 to 2023-12-19
 文件 company-profile/[6894] 2023-05-16-2023-12-19-company-profile.csv 已包含股票代碼 6894 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6894] 2023-05-16-2023-12-19-financial.csv 已包含股票代碼 6894 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6894] 2023-05-16-2023-12-19-TWSE_TPEX.csv 已包含結束日期 2023-12-19 的數據，跳過 API 請求
------Processed row 76 of 291-----
+-----Processed row 77 of 292-----
 Processing stock 5292 for period 2023-06-12 to 2023-12-11
 文件 stockdata/[5292] 2023-06-12-2023-12-11.csv 已包含結束日期 2023-12-11 的數據，跳過 API 請求
 文件 dividend/[5292] 2023-06-12-2023-12-11-dividend.csv 已包含股票代碼 5292 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -617,7 +625,7 @@ Processing stock 5292 for period 2023-06-12 to 2023-12-11
 文件 company-profile/[5292] 2023-06-12-2023-12-11-company-profile.csv 已包含股票代碼 5292 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5292] 2023-06-12-2023-12-11-financial.csv 已包含股票代碼 5292 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5292] 2023-06-12-2023-12-11-TWSE_TPEX.csv 已包含結束日期 2023-12-11 的數據，跳過 API 請求
------Processed row 77 of 291-----
+-----Processed row 78 of 292-----
 Processing stock 6922 for period 2023-04-06 to 2023-11-29
 文件 stockdata/[6922] 2023-04-06-2023-11-29.csv 已包含結束日期 2023-11-29 的數據，跳過 API 請求
 文件 dividend/[6922] 2023-04-06-2023-11-29-dividend.csv 已包含股票代碼 6922 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -625,7 +633,7 @@ Processing stock 6922 for period 2023-04-06 to 2023-11-29
 文件 company-profile/[6922] 2023-04-06-2023-11-29-company-profile.csv 已包含股票代碼 6922 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6922] 2023-04-06-2023-11-29-financial.csv 已包含股票代碼 6922 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6922] 2023-04-06-2023-11-29-TWSE_TPEX.csv 已包含結束日期 2023-11-29 的數據，跳過 API 請求
------Processed row 78 of 291-----
+-----Processed row 79 of 292-----
 Processing stock 6805 for period 2023-03-07 to 2023-11-29
 文件 stockdata/[6805] 2023-03-07-2023-11-29.csv 已包含結束日期 2023-11-29 的數據，跳過 API 請求
 文件 dividend/[6805] 2023-03-07-2023-11-29-dividend.csv 已包含股票代碼 6805 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -633,7 +641,7 @@ Processing stock 6805 for period 2023-03-07 to 2023-11-29
 文件 company-profile/[6805] 2023-03-07-2023-11-29-company-profile.csv 已包含股票代碼 6805 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6805] 2023-03-07-2023-11-29-financial.csv 已包含股票代碼 6805 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6805] 2023-03-07-2023-11-29-TWSE_TPEX.csv 已包含結束日期 2023-11-29 的數據，跳過 API 請求
------Processed row 79 of 291-----
+-----Processed row 80 of 292-----
 Processing stock 6658 for period 2023-04-06 to 2023-11-22
 文件 stockdata/[6658] 2023-04-06-2023-11-22.csv 已包含結束日期 2023-11-22 的數據，跳過 API 請求
 文件 dividend/[6658] 2023-04-06-2023-11-22-dividend.csv 已包含股票代碼 6658 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -641,7 +649,7 @@ Processing stock 6658 for period 2023-04-06 to 2023-11-22
 文件 company-profile/[6658] 2023-04-06-2023-11-22-company-profile.csv 已包含股票代碼 6658 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6658] 2023-04-06-2023-11-22-financial.csv 已包含股票代碼 6658 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6658] 2023-04-06-2023-11-22-TWSE_TPEX.csv 已包含結束日期 2023-11-22 的數據，跳過 API 請求
------Processed row 80 of 291-----
+-----Processed row 81 of 292-----
 Processing stock 6856 for period 2023-05-11 to 2023-11-16
 文件 stockdata/[6856] 2023-05-11-2023-11-16.csv 已包含結束日期 2023-11-16 的數據，跳過 API 請求
 文件 dividend/[6856] 2023-05-11-2023-11-16-dividend.csv 已包含股票代碼 6856 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -649,7 +657,7 @@ Processing stock 6856 for period 2023-05-11 to 2023-11-16
 文件 company-profile/[6856] 2023-05-11-2023-11-16-company-profile.csv 已包含股票代碼 6856 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6856] 2023-05-11-2023-11-16-financial.csv 已包含股票代碼 6856 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6856] 2023-05-11-2023-11-16-TWSE_TPEX.csv 已包含結束日期 2023-11-16 的數據，跳過 API 請求
------Processed row 81 of 291-----
+-----Processed row 82 of 292-----
 Processing stock 6526 for period 2022-12-07 to 2023-11-08
 文件 stockdata/[6526] 2022-12-07-2023-11-08.csv 已包含結束日期 2023-11-08 的數據，跳過 API 請求
 文件 dividend/[6526] 2022-12-07-2023-11-08-dividend.csv 已包含股票代碼 6526 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -657,7 +665,7 @@ Processing stock 6526 for period 2022-12-07 to 2023-11-08
 文件 company-profile/[6526] 2022-12-07-2023-11-08-company-profile.csv 已包含股票代碼 6526 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6526] 2022-12-07-2023-11-08-financial.csv 已包含股票代碼 6526 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6526] 2022-12-07-2023-11-08-TWSE_TPEX.csv 已包含結束日期 2023-11-08 的數據，跳過 API 請求
------Processed row 82 of 291-----
+-----Processed row 83 of 292-----
 Processing stock 6901 for period 2023-03-07 to 2023-10-09
 Data successfully written to stockdata/[6901] 2023-03-07-2023-10-09.csv
 文件 dividend/[6901] 2023-03-07-2023-10-09-dividend.csv 已包含股票代碼 6901 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -665,7 +673,7 @@ Data successfully written to PER_PBR/[6901] 2023-03-07-2023-10-09-PER_PBR.csv
 文件 company-profile/[6901] 2023-03-07-2023-10-09-company-profile.csv 已包含股票代碼 6901 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6901] 2023-03-07-2023-10-09-financial.csv 已包含股票代碼 6901 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6901] 2023-03-07-2023-10-09-TWSE_TPEX.csv
------Processed row 83 of 291-----
+-----Processed row 84 of 292-----
 Processing stock 6870 for period 2023-04-07 to 2023-10-04
 文件 stockdata/[6870] 2023-04-07-2023-10-04.csv 已包含結束日期 2023-10-04 的數據，跳過 API 請求
 文件 dividend/[6870] 2023-04-07-2023-10-04-dividend.csv 已包含股票代碼 6870 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -673,7 +681,7 @@ Processing stock 6870 for period 2023-04-07 to 2023-10-04
 文件 company-profile/[6870] 2023-04-07-2023-10-04-company-profile.csv 已包含股票代碼 6870 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6870] 2023-04-07-2023-10-04-financial.csv 已包含股票代碼 6870 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6870] 2023-04-07-2023-10-04-TWSE_TPEX.csv 已包含結束日期 2023-10-04 的數據，跳過 API 請求
------Processed row 84 of 291-----
+-----Processed row 85 of 292-----
 Processing stock 6895 for period 2023-03-10 to 2023-09-11
 文件 stockdata/[6895] 2023-03-10-2023-09-11.csv 已包含結束日期 2023-09-11 的數據，跳過 API 請求
 文件 dividend/[6895] 2023-03-10-2023-09-11-dividend.csv 已包含股票代碼 6895 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -681,7 +689,7 @@ Processing stock 6895 for period 2023-03-10 to 2023-09-11
 文件 company-profile/[6895] 2023-03-10-2023-09-11-company-profile.csv 已包含股票代碼 6895 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6895] 2023-03-10-2023-09-11-financial.csv 已包含股票代碼 6895 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6895] 2023-03-10-2023-09-11-TWSE_TPEX.csv 已包含結束日期 2023-09-11 的數據，跳過 API 請求
------Processed row 85 of 291-----
+-----Processed row 86 of 292-----
 Processing stock 2073 for period 2022-10-11 to 2023-07-11
 文件 stockdata/[2073] 2022-10-11-2023-07-11.csv 已包含結束日期 2023-07-11 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -689,7 +697,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2073] 2022-10-11-2023-07-11-company-profile.csv 已包含股票代碼 2073 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2073] 2022-10-11-2023-07-11-financial.csv 已包含股票代碼 2073 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2073] 2022-10-11-2023-07-11-TWSE_TPEX.csv 已包含結束日期 2023-07-11 的數據，跳過 API 請求
------Processed row 86 of 291-----
+-----Processed row 87 of 292-----
 Processing stock 6877 for period 2022-10-06 to 2023-07-06
 文件 stockdata/[6877] 2022-10-06-2023-07-06.csv 已包含結束日期 2023-07-06 的數據，跳過 API 請求
 文件 dividend/[6877] 2022-10-06-2023-07-06-dividend.csv 已包含股票代碼 6877 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -697,7 +705,7 @@ Processing stock 6877 for period 2022-10-06 to 2023-07-06
 文件 company-profile/[6877] 2022-10-06-2023-07-06-company-profile.csv 已包含股票代碼 6877 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6877] 2022-10-06-2023-07-06-financial.csv 已包含股票代碼 6877 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6877] 2022-10-06-2023-07-06-TWSE_TPEX.csv 已包含結束日期 2023-07-06 的數據，跳過 API 請求
------Processed row 87 of 291-----
+-----Processed row 88 of 292-----
 Processing stock 6657 for period 2022-11-30 to 2023-06-30
 文件 stockdata/[6657] 2022-11-30-2023-06-30.csv 已包含結束日期 2023-06-30 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -705,7 +713,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6657] 2022-11-30-2023-06-30-company-profile.csv 已包含股票代碼 6657 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6657] 2022-11-30-2023-06-30-financial.csv 已包含股票代碼 6657 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6657] 2022-11-30-2023-06-30-TWSE_TPEX.csv 已包含結束日期 2023-06-30 的數據，跳過 API 請求
------Processed row 88 of 291-----
+-----Processed row 89 of 292-----
 Processing stock 6821 for period 2022-10-28 to 2023-06-09
 文件 stockdata/[6821] 2022-10-28-2023-06-09.csv 已包含結束日期 2023-06-09 的數據，跳過 API 請求
 文件 dividend/[6821] 2022-10-28-2023-06-09-dividend.csv 已包含股票代碼 6821 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -713,7 +721,7 @@ Processing stock 6821 for period 2022-10-28 to 2023-06-09
 文件 company-profile/[6821] 2022-10-28-2023-06-09-company-profile.csv 已包含股票代碼 6821 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6821] 2022-10-28-2023-06-09-financial.csv 已包含股票代碼 6821 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6821] 2022-10-28-2023-06-09-TWSE_TPEX.csv 已包含結束日期 2023-06-09 的數據，跳過 API 請求
------Processed row 89 of 291-----
+-----Processed row 90 of 292-----
 Processing stock 6584 for period 2022-09-12 to 2023-06-07
 文件 stockdata/[6584] 2022-09-12-2023-06-07.csv 已包含結束日期 2023-06-07 的數據，跳過 API 請求
 文件 dividend/[6584] 2022-09-12-2023-06-07-dividend.csv 已包含股票代碼 6584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -721,7 +729,7 @@ Processing stock 6584 for period 2022-09-12 to 2023-06-07
 文件 company-profile/[6584] 2022-09-12-2023-06-07-company-profile.csv 已包含股票代碼 6584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6584] 2022-09-12-2023-06-07-financial.csv 已包含股票代碼 6584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6584] 2022-09-12-2023-06-07-TWSE_TPEX.csv 已包含結束日期 2023-06-07 的數據，跳過 API 請求
------Processed row 90 of 291-----
+-----Processed row 91 of 292-----
 Processing stock 6846 for period 2022-10-06 to 2023-06-02
 文件 stockdata/[6846] 2022-10-06-2023-06-02.csv 已包含結束日期 2023-06-02 的數據，跳過 API 請求
 文件 dividend/[6846] 2022-10-06-2023-06-02-dividend.csv 已包含股票代碼 6846 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -729,7 +737,7 @@ Processing stock 6846 for period 2022-10-06 to 2023-06-02
 文件 company-profile/[6846] 2022-10-06-2023-06-02-company-profile.csv 已包含股票代碼 6846 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6846] 2022-10-06-2023-06-02-financial.csv 已包含股票代碼 6846 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6846] 2022-10-06-2023-06-02-TWSE_TPEX.csv 已包含結束日期 2023-06-02 的數據，跳過 API 請求
------Processed row 91 of 291-----
+-----Processed row 92 of 292-----
 Processing stock 6861 for period 2022-07-05 to 2023-04-14
 文件 stockdata/[6861] 2022-07-05-2023-04-14.csv 已包含結束日期 2023-04-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -737,7 +745,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6861] 2022-07-05-2023-04-14-company-profile.csv 已包含股票代碼 6861 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6861] 2022-07-05-2023-04-14-financial.csv 已包含股票代碼 6861 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6861] 2022-07-05-2023-04-14-TWSE_TPEX.csv 已包含結束日期 2023-04-14 的數據，跳過 API 請求
------Processed row 92 of 291-----
+-----Processed row 93 of 292-----
 Processing stock 6840 for period 2022-08-11 to 2023-04-13
 文件 stockdata/[6840] 2022-08-11-2023-04-13.csv 已包含結束日期 2023-04-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -745,7 +753,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6840] 2022-08-11-2023-04-13-company-profile.csv 已包含股票代碼 6840 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6840] 2022-08-11-2023-04-13-financial.csv 已包含股票代碼 6840 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6840] 2022-08-11-2023-04-13-TWSE_TPEX.csv 已包含結束日期 2023-04-13 的數據，跳過 API 請求
------Processed row 93 of 291-----
+-----Processed row 94 of 292-----
 Processing stock 6606 for period 2022-09-12 to 2023-04-13
 文件 stockdata/[6606] 2022-09-12-2023-04-13.csv 已包含結束日期 2023-04-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -753,7 +761,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6606] 2022-09-12-2023-04-13-company-profile.csv 已包含股票代碼 6606 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6606] 2022-09-12-2023-04-13-financial.csv 已包含股票代碼 6606 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6606] 2022-09-12-2023-04-13-TWSE_TPEX.csv 已包含結束日期 2023-04-13 的數據，跳過 API 請求
------Processed row 94 of 291-----
+-----Processed row 95 of 292-----
 Processing stock 2645 for period 2022-09-01 to 2023-04-03
 Data successfully written to stockdata/[2645] 2022-09-01-2023-04-03.csv
 No data returned for the given parameters on dividend.
@@ -761,7 +769,7 @@ Data successfully written to PER_PBR/[2645] 2022-09-01-2023-04-03-PER_PBR.csv
 文件 company-profile/[2645] 2022-09-01-2023-04-03-company-profile.csv 已包含股票代碼 2645 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2645] 2022-09-01-2023-04-03-financial.csv 已包含股票代碼 2645 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[2645] 2022-09-01-2023-04-03-TWSE_TPEX.csv
------Processed row 95 of 291-----
+-----Processed row 96 of 292-----
 Processing stock 6753 for period 2022-09-07 to 2023-03-30
 文件 stockdata/[6753] 2022-09-07-2023-03-30.csv 已包含結束日期 2023-03-30 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -769,7 +777,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6753] 2022-09-07-2023-03-30-company-profile.csv 已包含股票代碼 6753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6753] 2022-09-07-2023-03-30-financial.csv 已包含股票代碼 6753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6753] 2022-09-07-2023-03-30-TWSE_TPEX.csv 已包含結束日期 2023-03-30 的數據，跳過 API 請求
------Processed row 96 of 291-----
+-----Processed row 97 of 292-----
 Processing stock 6865 for period 2022-08-17 to 2023-01-31
 文件 stockdata/[6865] 2022-08-17-2023-01-31.csv 已包含結束日期 2023-01-31 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -777,7 +785,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6865] 2022-08-17-2023-01-31-company-profile.csv 已包含股票代碼 6865 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6865] 2022-08-17-2023-01-31-financial.csv 已包含股票代碼 6865 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6865] 2022-08-17-2023-01-31-TWSE_TPEX.csv 已包含結束日期 2023-01-31 的數據，跳過 API 請求
------Processed row 97 of 291-----
+-----Processed row 98 of 292-----
 Processing stock 6708 for period 2022-06-30 to 2023-01-18
 Data successfully written to stockdata/[6708] 2022-06-30-2023-01-18.csv
 文件 dividend/[6708] 2022-06-30-2023-01-18-dividend.csv 已包含股票代碼 6708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -785,7 +793,7 @@ Data successfully written to PER_PBR/[6708] 2022-06-30-2023-01-18-PER_PBR.csv
 文件 company-profile/[6708] 2022-06-30-2023-01-18-company-profile.csv 已包含股票代碼 6708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6708] 2022-06-30-2023-01-18-financial.csv 已包含股票代碼 6708 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6708] 2022-06-30-2023-01-18-TWSE_TPEX.csv
------Processed row 98 of 291-----
+-----Processed row 99 of 292-----
 Processing stock 8227 for period 2022-07-01 to 2023-01-09
 文件 stockdata/[8227] 2022-07-01-2023-01-09.csv 已包含結束日期 2023-01-09 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -793,7 +801,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8227] 2022-07-01-2023-01-09-company-profile.csv 已包含股票代碼 8227 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8227] 2022-07-01-2023-01-09-financial.csv 已包含股票代碼 8227 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8227] 2022-07-01-2023-01-09-TWSE_TPEX.csv 已包含結束日期 2023-01-09 的數據，跳過 API 請求
------Processed row 99 of 291-----
+-----Processed row 100 of 292-----
 Processing stock 6517 for period 2022-07-01 to 2023-01-04
 文件 stockdata/[6517] 2022-07-01-2023-01-04.csv 已包含結束日期 2023-01-04 的數據，跳過 API 請求
 文件 dividend/[6517] 2022-07-01-2023-01-04-dividend.csv 已包含股票代碼 6517 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -801,7 +809,7 @@ Processing stock 6517 for period 2022-07-01 to 2023-01-04
 文件 company-profile/[6517] 2022-07-01-2023-01-04-company-profile.csv 已包含股票代碼 6517 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6517] 2022-07-01-2023-01-04-financial.csv 已包含股票代碼 6517 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6517] 2022-07-01-2023-01-04-TWSE_TPEX.csv 已包含結束日期 2023-01-04 的數據，跳過 API 請求
------Processed row 100 of 291-----
+-----Processed row 101 of 292-----
 Processing stock 3447 for period 2022-07-05 to 2023-01-04
 文件 stockdata/[3447] 2022-07-05-2023-01-04.csv 已包含結束日期 2023-01-04 的數據，跳過 API 請求
 文件 dividend/[3447] 2022-07-05-2023-01-04-dividend.csv 已包含股票代碼 3447 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -809,7 +817,7 @@ Processing stock 3447 for period 2022-07-05 to 2023-01-04
 文件 company-profile/[3447] 2022-07-05-2023-01-04-company-profile.csv 已包含股票代碼 3447 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3447] 2022-07-05-2023-01-04-financial.csv 已包含股票代碼 3447 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3447] 2022-07-05-2023-01-04-TWSE_TPEX.csv 已包含結束日期 2023-01-04 的數據，跳過 API 請求
------Processed row 101 of 291-----
+-----Processed row 102 of 292-----
 Processing stock 6874 for period 2022-07-11 to 2023-01-03
 文件 stockdata/[6874] 2022-07-11-2023-01-03.csv 已包含結束日期 2023-01-03 的數據，跳過 API 請求
 文件 dividend/[6874] 2022-07-11-2023-01-03-dividend.csv 已包含股票代碼 6874 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -817,7 +825,7 @@ Processing stock 6874 for period 2022-07-11 to 2023-01-03
 文件 company-profile/[6874] 2022-07-11-2023-01-03-company-profile.csv 已包含股票代碼 6874 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6874] 2022-07-11-2023-01-03-financial.csv 已包含股票代碼 6874 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6874] 2022-07-11-2023-01-03-TWSE_TPEX.csv 已包含結束日期 2023-01-03 的數據，跳過 API 請求
------Processed row 102 of 291-----
+-----Processed row 103 of 292-----
 Processing stock 6859 for period 2022-06-23 to 2022-12-16
 文件 stockdata/[6859] 2022-06-23-2022-12-16.csv 已包含結束日期 2022-12-16 的數據，跳過 API 請求
 文件 dividend/[6859] 2022-06-23-2022-12-16-dividend.csv 已包含股票代碼 6859 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -825,7 +833,7 @@ Processing stock 6859 for period 2022-06-23 to 2022-12-16
 文件 company-profile/[6859] 2022-06-23-2022-12-16-company-profile.csv 已包含股票代碼 6859 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6859] 2022-06-23-2022-12-16-financial.csv 已包含股票代碼 6859 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6859] 2022-06-23-2022-12-16-TWSE_TPEX.csv 已包含結束日期 2022-12-16 的數據，跳過 API 請求
------Processed row 103 of 291-----
+-----Processed row 104 of 292-----
 Processing stock 6782 for period 2022-07-01 to 2022-12-16
 文件 stockdata/[6782] 2022-07-01-2022-12-16.csv 已包含結束日期 2022-12-16 的數據，跳過 API 請求
 文件 dividend/[6782] 2022-07-01-2022-12-16-dividend.csv 已包含股票代碼 6782 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -833,7 +841,7 @@ Processing stock 6782 for period 2022-07-01 to 2022-12-16
 文件 company-profile/[6782] 2022-07-01-2022-12-16-company-profile.csv 已包含股票代碼 6782 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6782] 2022-07-01-2022-12-16-financial.csv 已包含股票代碼 6782 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6782] 2022-07-01-2022-12-16-TWSE_TPEX.csv 已包含結束日期 2022-12-16 的數據，跳過 API 請求
------Processed row 104 of 291-----
+-----Processed row 105 of 292-----
 Processing stock 6843 for period 2022-04-25 to 2022-12-09
 文件 stockdata/[6843] 2022-04-25-2022-12-09.csv 已包含結束日期 2022-12-09 的數據，跳過 API 請求
 文件 dividend/[6843] 2022-04-25-2022-12-09-dividend.csv 已包含股票代碼 6843 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -841,7 +849,7 @@ Processing stock 6843 for period 2022-04-25 to 2022-12-09
 文件 company-profile/[6843] 2022-04-25-2022-12-09-company-profile.csv 已包含股票代碼 6843 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6843] 2022-04-25-2022-12-09-financial.csv 已包含股票代碼 6843 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6843] 2022-04-25-2022-12-09-TWSE_TPEX.csv 已包含結束日期 2022-12-09 的數據，跳過 API 請求
------Processed row 105 of 291-----
+-----Processed row 106 of 292-----
 Processing stock 6791 for period 2022-06-10 to 2022-12-02
 文件 stockdata/[6791] 2022-06-10-2022-12-02.csv 已包含結束日期 2022-12-02 的數據，跳過 API 請求
 文件 dividend/[6791] 2022-06-10-2022-12-02-dividend.csv 已包含股票代碼 6791 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -849,7 +857,7 @@ Processing stock 6791 for period 2022-06-10 to 2022-12-02
 文件 company-profile/[6791] 2022-06-10-2022-12-02-company-profile.csv 已包含股票代碼 6791 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6791] 2022-06-10-2022-12-02-financial.csv 已包含股票代碼 6791 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6791] 2022-06-10-2022-12-02-TWSE_TPEX.csv 已包含結束日期 2022-12-02 的數據，跳過 API 請求
------Processed row 106 of 291-----
+-----Processed row 107 of 292-----
 Processing stock 6835 for period 2022-06-10 to 2022-11-30
 文件 stockdata/[6835] 2022-06-10-2022-11-30.csv 已包含結束日期 2022-11-30 的數據，跳過 API 請求
 文件 dividend/[6835] 2022-06-10-2022-11-30-dividend.csv 已包含股票代碼 6835 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -857,7 +865,7 @@ Processing stock 6835 for period 2022-06-10 to 2022-11-30
 文件 company-profile/[6835] 2022-06-10-2022-11-30-company-profile.csv 已包含股票代碼 6835 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6835] 2022-06-10-2022-11-30-financial.csv 已包含股票代碼 6835 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6835] 2022-06-10-2022-11-30-TWSE_TPEX.csv 已包含結束日期 2022-11-30 的數據，跳過 API 請求
------Processed row 107 of 291-----
+-----Processed row 108 of 292-----
 Processing stock 6695 for period 2022-06-10 to 2022-11-24
 文件 stockdata/[6695] 2022-06-10-2022-11-24.csv 已包含結束日期 2022-11-24 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -865,7 +873,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6695] 2022-06-10-2022-11-24-company-profile.csv 已包含股票代碼 6695 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6695] 2022-06-10-2022-11-24-financial.csv 已包含股票代碼 6695 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6695] 2022-06-10-2022-11-24-TWSE_TPEX.csv 已包含結束日期 2022-11-24 的數據，跳過 API 請求
------Processed row 108 of 291-----
+-----Processed row 109 of 292-----
 Processing stock 4951 for period 2022-05-11 to 2022-11-23
 文件 stockdata/[4951] 2022-05-11-2022-11-23.csv 已包含結束日期 2022-11-23 的數據，跳過 API 請求
 文件 dividend/[4951] 2022-05-11-2022-11-23-dividend.csv 已包含股票代碼 4951 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -873,7 +881,7 @@ Processing stock 4951 for period 2022-05-11 to 2022-11-23
 文件 company-profile/[4951] 2022-05-11-2022-11-23-company-profile.csv 已包含股票代碼 4951 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4951] 2022-05-11-2022-11-23-financial.csv 已包含股票代碼 4951 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4951] 2022-05-11-2022-11-23-TWSE_TPEX.csv 已包含結束日期 2022-11-23 的數據，跳過 API 請求
------Processed row 109 of 291-----
+-----Processed row 110 of 292-----
 Processing stock 6855 for period 2022-04-08 to 2022-10-26
 文件 stockdata/[6855] 2022-04-08-2022-10-26.csv 已包含結束日期 2022-10-26 的數據，跳過 API 請求
 文件 dividend/[6855] 2022-04-08-2022-10-26-dividend.csv 已包含股票代碼 6855 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -881,7 +889,7 @@ Processing stock 6855 for period 2022-04-08 to 2022-10-26
 文件 company-profile/[6855] 2022-04-08-2022-10-26-company-profile.csv 已包含股票代碼 6855 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6855] 2022-04-08-2022-10-26-financial.csv 已包含股票代碼 6855 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6855] 2022-04-08-2022-10-26-TWSE_TPEX.csv 已包含結束日期 2022-10-26 的數據，跳過 API 請求
------Processed row 110 of 291-----
+-----Processed row 111 of 292-----
 Processing stock 4584 for period 2022-04-08 to 2022-10-25
 文件 stockdata/[4584] 2022-04-08-2022-10-25.csv 已包含結束日期 2022-10-25 的數據，跳過 API 請求
 文件 dividend/[4584] 2022-04-08-2022-10-25-dividend.csv 已包含股票代碼 4584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -889,7 +897,7 @@ Processing stock 4584 for period 2022-04-08 to 2022-10-25
 文件 company-profile/[4584] 2022-04-08-2022-10-25-company-profile.csv 已包含股票代碼 4584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4584] 2022-04-08-2022-10-25-financial.csv 已包含股票代碼 4584 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4584] 2022-04-08-2022-10-25-TWSE_TPEX.csv 已包含結束日期 2022-10-25 的數據，跳過 API 請求
------Processed row 111 of 291-----
+-----Processed row 112 of 292-----
 Processing stock 6689 for period 2022-04-14 to 2022-10-03
 文件 stockdata/[6689] 2022-04-14-2022-10-03.csv 已包含結束日期 2022-10-03 的數據，跳過 API 請求
 文件 dividend/[6689] 2022-04-14-2022-10-03-dividend.csv 已包含股票代碼 6689 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -897,7 +905,7 @@ Processing stock 6689 for period 2022-04-14 to 2022-10-03
 文件 company-profile/[6689] 2022-04-14-2022-10-03-company-profile.csv 已包含股票代碼 6689 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6689] 2022-04-14-2022-10-03-financial.csv 已包含股票代碼 6689 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6689] 2022-04-14-2022-10-03-TWSE_TPEX.csv 已包含結束日期 2022-10-03 的數據，跳過 API 請求
------Processed row 112 of 291-----
+-----Processed row 113 of 292-----
 Processing stock 3430 for period 2022-04-11 to 2022-09-28
 文件 stockdata/[3430] 2022-04-11-2022-09-28.csv 已包含結束日期 2022-09-28 的數據，跳過 API 請求
 文件 dividend/[3430] 2022-04-11-2022-09-28-dividend.csv 已包含股票代碼 3430 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -905,7 +913,7 @@ Processing stock 3430 for period 2022-04-11 to 2022-09-28
 文件 company-profile/[3430] 2022-04-11-2022-09-28-company-profile.csv 已包含股票代碼 3430 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3430] 2022-04-11-2022-09-28-financial.csv 已包含股票代碼 3430 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3430] 2022-04-11-2022-09-28-TWSE_TPEX.csv 已包含結束日期 2022-09-28 的數據，跳過 API 請求
------Processed row 113 of 291-----
+-----Processed row 114 of 292-----
 Processing stock 6834 for period 2022-03-18 to 2022-09-21
 文件 stockdata/[6834] 2022-03-18-2022-09-21.csv 已包含結束日期 2022-09-21 的數據，跳過 API 請求
 文件 dividend/[6834] 2022-03-18-2022-09-21-dividend.csv 已包含股票代碼 6834 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -913,7 +921,7 @@ Processing stock 6834 for period 2022-03-18 to 2022-09-21
 文件 company-profile/[6834] 2022-03-18-2022-09-21-company-profile.csv 已包含股票代碼 6834 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6834] 2022-03-18-2022-09-21-financial.csv 已包含股票代碼 6834 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6834] 2022-03-18-2022-09-21-TWSE_TPEX.csv 已包含結束日期 2022-09-21 的數據，跳過 API 請求
------Processed row 114 of 291-----
+-----Processed row 115 of 292-----
 Processing stock 6830 for period 2022-03-30 to 2022-09-20
 文件 stockdata/[6830] 2022-03-30-2022-09-20.csv 已包含結束日期 2022-09-20 的數據，跳過 API 請求
 文件 dividend/[6830] 2022-03-30-2022-09-20-dividend.csv 已包含股票代碼 6830 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -921,7 +929,7 @@ Processing stock 6830 for period 2022-03-30 to 2022-09-20
 文件 company-profile/[6830] 2022-03-30-2022-09-20-company-profile.csv 已包含股票代碼 6830 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6830] 2022-03-30-2022-09-20-financial.csv 已包含股票代碼 6830 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6830] 2022-03-30-2022-09-20-TWSE_TPEX.csv 已包含結束日期 2022-09-20 的數據，跳過 API 請求
------Processed row 115 of 291-----
+-----Processed row 116 of 292-----
 Processing stock 6811 for period 2022-03-11 to 2022-08-29
 文件 stockdata/[6811] 2022-03-11-2022-08-29.csv 已包含結束日期 2022-08-29 的數據，跳過 API 請求
 文件 dividend/[6811] 2022-03-11-2022-08-29-dividend.csv 已包含股票代碼 6811 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -929,7 +937,7 @@ Processing stock 6811 for period 2022-03-11 to 2022-08-29
 文件 company-profile/[6811] 2022-03-11-2022-08-29-company-profile.csv 已包含股票代碼 6811 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6811] 2022-03-11-2022-08-29-financial.csv 已包含股票代碼 6811 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6811] 2022-03-11-2022-08-29-TWSE_TPEX.csv 已包含結束日期 2022-08-29 的數據，跳過 API 請求
------Processed row 116 of 291-----
+-----Processed row 117 of 292-----
 Processing stock 6823 for period 2021-12-07 to 2022-07-20
 文件 stockdata/[6823] 2021-12-07-2022-07-20.csv 已包含結束日期 2022-07-20 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -937,7 +945,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6823] 2021-12-07-2022-07-20-company-profile.csv 已包含股票代碼 6823 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6823] 2021-12-07-2022-07-20-financial.csv 已包含股票代碼 6823 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6823] 2021-12-07-2022-07-20-TWSE_TPEX.csv 已包含結束日期 2022-07-20 的數據，跳過 API 請求
------Processed row 117 of 291-----
+-----Processed row 118 of 292-----
 Processing stock 6789 for period 2021-12-09 to 2022-07-20
 文件 stockdata/[6789] 2021-12-09-2022-07-20.csv 已包含結束日期 2022-07-20 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -945,7 +953,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6789] 2021-12-09-2022-07-20-company-profile.csv 已包含股票代碼 6789 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6789] 2021-12-09-2022-07-20-financial.csv 已包含股票代碼 6789 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6789] 2021-12-09-2022-07-20-TWSE_TPEX.csv 已包含結束日期 2022-07-20 的數據，跳過 API 請求
------Processed row 118 of 291-----
+-----Processed row 119 of 292-----
 Processing stock 4577 for period 2021-11-22 to 2022-07-04
 文件 stockdata/[4577] 2021-11-22-2022-07-04.csv 已包含結束日期 2022-07-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -953,7 +961,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4577] 2021-11-22-2022-07-04-company-profile.csv 已包含股票代碼 4577 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4577] 2021-11-22-2022-07-04-financial.csv 已包含股票代碼 4577 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4577] 2021-11-22-2022-07-04-TWSE_TPEX.csv 已包含結束日期 2022-07-04 的數據，跳過 API 請求
------Processed row 119 of 291-----
+-----Processed row 120 of 292-----
 Processing stock 6796 for period 2021-11-18 to 2022-06-21
 文件 stockdata/[6796] 2021-11-18-2022-06-21.csv 已包含結束日期 2022-06-21 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -961,7 +969,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6796] 2021-11-18-2022-06-21-company-profile.csv 已包含股票代碼 6796 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6796] 2021-11-18-2022-06-21-financial.csv 已包含股票代碼 6796 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6796] 2021-11-18-2022-06-21-TWSE_TPEX.csv 已包含結束日期 2022-06-21 的數據，跳過 API 請求
------Processed row 120 of 291-----
+-----Processed row 121 of 292-----
 Processing stock 6546 for period 2021-12-10 to 2022-06-13
 文件 stockdata/[6546] 2021-12-10-2022-06-13.csv 已包含結束日期 2022-06-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -969,7 +977,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6546] 2021-12-10-2022-06-13-company-profile.csv 已包含股票代碼 6546 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6546] 2021-12-10-2022-06-13-financial.csv 已包含股票代碼 6546 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6546] 2021-12-10-2022-06-13-TWSE_TPEX.csv 已包含結束日期 2022-06-13 的數據，跳過 API 請求
------Processed row 121 of 291-----
+-----Processed row 122 of 292-----
 Processing stock 5228 for period 2021-11-26 to 2022-06-09
 文件 stockdata/[5228] 2021-11-26-2022-06-09.csv 已包含結束日期 2022-06-09 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -977,7 +985,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[5228] 2021-11-26-2022-06-09-company-profile.csv 已包含股票代碼 5228 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5228] 2021-11-26-2022-06-09-financial.csv 已包含股票代碼 5228 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5228] 2021-11-26-2022-06-09-TWSE_TPEX.csv 已包含結束日期 2022-06-09 的數據，跳過 API 請求
------Processed row 122 of 291-----
+-----Processed row 123 of 292-----
 Processing stock 6585 for period 2021-11-05 to 2022-06-09
 文件 stockdata/[6585] 2021-11-05-2022-06-09.csv 已包含結束日期 2022-06-09 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -985,7 +993,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6585] 2021-11-05-2022-06-09-company-profile.csv 已包含股票代碼 6585 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6585] 2021-11-05-2022-06-09-financial.csv 已包含股票代碼 6585 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6585] 2021-11-05-2022-06-09-TWSE_TPEX.csv 已包含結束日期 2022-06-09 的數據，跳過 API 請求
------Processed row 123 of 291-----
+-----Processed row 124 of 292-----
 Processing stock 6799 for period 2021-11-02 to 2022-06-01
 文件 stockdata/[6799] 2021-11-02-2022-06-01.csv 已包含結束日期 2022-06-01 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -993,7 +1001,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6799] 2021-11-02-2022-06-01-company-profile.csv 已包含股票代碼 6799 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6799] 2021-11-02-2022-06-01-financial.csv 已包含股票代碼 6799 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6799] 2021-11-02-2022-06-01-TWSE_TPEX.csv 已包含結束日期 2022-06-01 的數據，跳過 API 請求
------Processed row 124 of 291-----
+-----Processed row 125 of 292-----
 Processing stock 4583 for period 2021-09-07 to 2022-05-27
 文件 stockdata/[4583] 2021-09-07-2022-05-27.csv 已包含結束日期 2022-05-27 的數據，跳過 API 請求
 文件 dividend/[4583] 2021-09-07-2022-05-27-dividend.csv 已包含股票代碼 4583 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1001,7 +1009,7 @@ Processing stock 4583 for period 2021-09-07 to 2022-05-27
 文件 company-profile/[4583] 2021-09-07-2022-05-27-company-profile.csv 已包含股票代碼 4583 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4583] 2021-09-07-2022-05-27-financial.csv 已包含股票代碼 4583 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4583] 2021-09-07-2022-05-27-TWSE_TPEX.csv 已包含結束日期 2022-05-27 的數據，跳過 API 請求
------Processed row 125 of 291-----
+-----Processed row 126 of 292-----
 Processing stock 6721 for period 2021-09-23 to 2022-05-19
 文件 stockdata/[6721] 2021-09-23-2022-05-19.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1009,7 +1017,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6721] 2021-09-23-2022-05-19-company-profile.csv 已包含股票代碼 6721 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6721] 2021-09-23-2022-05-19-financial.csv 已包含股票代碼 6721 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6721] 2021-09-23-2022-05-19-TWSE_TPEX.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
------Processed row 126 of 291-----
+-----Processed row 127 of 292-----
 Processing stock 6735 for period 2021-11-04 to 2022-05-19
 文件 stockdata/[6735] 2021-11-04-2022-05-19.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1017,7 +1025,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6735] 2021-11-04-2022-05-19-company-profile.csv 已包含股票代碼 6735 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6735] 2021-11-04-2022-05-19-financial.csv 已包含股票代碼 6735 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6735] 2021-11-04-2022-05-19-TWSE_TPEX.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
------Processed row 127 of 291-----
+-----Processed row 128 of 292-----
 Processing stock 4768 for period 2021-09-09 to 2022-05-03
 文件 stockdata/[4768] 2021-09-09-2022-05-03.csv 已包含結束日期 2022-05-03 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1025,7 +1033,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4768] 2021-09-09-2022-05-03-company-profile.csv 已包含股票代碼 4768 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4768] 2021-09-09-2022-05-03-financial.csv 已包含股票代碼 4768 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4768] 2021-09-09-2022-05-03-TWSE_TPEX.csv 已包含結束日期 2022-05-03 的數據，跳過 API 請求
------Processed row 128 of 291-----
+-----Processed row 129 of 292-----
 Processing stock 6804 for period 2021-09-20 to 2022-04-20
 文件 stockdata/[6804] 2021-09-20-2022-04-20.csv 已包含結束日期 2022-04-20 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1033,7 +1041,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6804] 2021-09-20-2022-04-20-company-profile.csv 已包含股票代碼 6804 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6804] 2021-09-20-2022-04-20-financial.csv 已包含股票代碼 6804 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6804] 2021-09-20-2022-04-20-TWSE_TPEX.csv 已包含結束日期 2022-04-20 的數據，跳過 API 請求
------Processed row 129 of 291-----
+-----Processed row 130 of 292-----
 Processing stock 3349 for period 2021-09-23 to 2022-04-12
 文件 stockdata/[3349] 2021-09-23-2022-04-12.csv 已包含結束日期 2022-04-12 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1041,7 +1049,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[3349] 2021-09-23-2022-04-12-company-profile.csv 已包含股票代碼 3349 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3349] 2021-09-23-2022-04-12-financial.csv 已包含股票代碼 3349 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3349] 2021-09-23-2022-04-12-TWSE_TPEX.csv 已包含結束日期 2022-04-12 的數據，跳過 API 請求
------Processed row 130 of 291-----
+-----Processed row 131 of 292-----
 Processing stock 4558 for period 2021-10-08 to 2022-04-06
 文件 stockdata/[4558] 2021-10-08-2022-04-06.csv 已包含結束日期 2022-04-06 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1049,7 +1057,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4558] 2021-10-08-2022-04-06-company-profile.csv 已包含股票代碼 4558 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4558] 2021-10-08-2022-04-06-financial.csv 已包含股票代碼 4558 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4558] 2021-10-08-2022-04-06-TWSE_TPEX.csv 已包含結束日期 2022-04-06 的數據，跳過 API 請求
------Processed row 131 of 291-----
+-----Processed row 132 of 292-----
 Processing stock 6763 for period 2021-10-07 to 2022-04-04
 Data successfully written to stockdata/[6763] 2021-10-07-2022-04-04.csv
 文件 dividend/[6763] 2021-10-07-2022-04-04-dividend.csv 已包含股票代碼 6763 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1057,7 +1065,7 @@ Data successfully written to PER_PBR/[6763] 2021-10-07-2022-04-04-PER_PBR.csv
 文件 company-profile/[6763] 2021-10-07-2022-04-04-company-profile.csv 已包含股票代碼 6763 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6763] 2021-10-07-2022-04-04-financial.csv 已包含股票代碼 6763 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6763] 2021-10-07-2022-04-04-TWSE_TPEX.csv
------Processed row 132 of 291-----
+-----Processed row 133 of 292-----
 Processing stock 4923 for period 2021-09-10 to 2022-04-01
 文件 stockdata/[4923] 2021-09-10-2022-04-01.csv 已包含結束日期 2022-04-01 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1065,7 +1073,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4923] 2021-09-10-2022-04-01-company-profile.csv 已包含股票代碼 4923 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4923] 2021-09-10-2022-04-01-financial.csv 已包含股票代碼 4923 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4923] 2021-09-10-2022-04-01-TWSE_TPEX.csv 已包含結束日期 2022-04-01 的數據，跳過 API 請求
------Processed row 133 of 291-----
+-----Processed row 134 of 292-----
 Processing stock 8438 for period 2021-10-11 to 2022-03-31
 文件 stockdata/[8438] 2021-10-11-2022-03-31.csv 已包含結束日期 2022-03-31 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1073,7 +1081,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8438] 2021-10-11-2022-03-31-company-profile.csv 已包含股票代碼 8438 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8438] 2021-10-11-2022-03-31-financial.csv 已包含股票代碼 8438 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8438] 2021-10-11-2022-03-31-TWSE_TPEX.csv 已包含結束日期 2022-03-31 的數據，跳過 API 請求
------Processed row 134 of 291-----
+-----Processed row 135 of 292-----
 Processing stock 6829 for period 2021-09-20 to 2022-03-31
 文件 stockdata/[6829] 2021-09-20-2022-03-31.csv 已包含結束日期 2022-03-31 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1081,7 +1089,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6829] 2021-09-20-2022-03-31-company-profile.csv 已包含股票代碼 6829 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6829] 2021-09-20-2022-03-31-financial.csv 已包含股票代碼 6829 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6829] 2021-09-20-2022-03-31-TWSE_TPEX.csv 已包含結束日期 2022-03-31 的數據，跳過 API 請求
------Processed row 135 of 291-----
+-----Processed row 136 of 292-----
 Processing stock 6693 for period 2021-09-09 to 2022-03-21
 文件 stockdata/[6693] 2021-09-09-2022-03-21.csv 已包含結束日期 2022-03-21 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1089,7 +1097,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6693] 2021-09-09-2022-03-21-company-profile.csv 已包含股票代碼 6693 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6693] 2021-09-09-2022-03-21-financial.csv 已包含股票代碼 6693 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6693] 2021-09-09-2022-03-21-TWSE_TPEX.csv 已包含結束日期 2022-03-21 的數據，跳過 API 請求
------Processed row 136 of 291-----
+-----Processed row 137 of 292-----
 Processing stock 2756 for period 2021-07-12 to 2022-02-03
 Data successfully written to stockdata/[2756] 2021-07-12-2022-02-03.csv
 文件 dividend/[2756] 2021-07-12-2022-02-03-dividend.csv 已包含股票代碼 2756 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1097,7 +1105,7 @@ Data successfully written to PER_PBR/[2756] 2021-07-12-2022-02-03-PER_PBR.csv
 文件 company-profile/[2756] 2021-07-12-2022-02-03-company-profile.csv 已包含股票代碼 2756 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2756] 2021-07-12-2022-02-03-financial.csv 已包含股票代碼 2756 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[2756] 2021-07-12-2022-02-03-TWSE_TPEX.csv
------Processed row 137 of 291-----
+-----Processed row 138 of 292-----
 Processing stock 6719 for period 2021-08-25 to 2022-02-02
 Data successfully written to stockdata/[6719] 2021-08-25-2022-02-02.csv
 文件 dividend/[6719] 2021-08-25-2022-02-02-dividend.csv 已包含股票代碼 6719 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1105,7 +1113,7 @@ Data successfully written to PER_PBR/[6719] 2021-08-25-2022-02-02-PER_PBR.csv
 文件 company-profile/[6719] 2021-08-25-2022-02-02-company-profile.csv 已包含股票代碼 6719 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6719] 2021-08-25-2022-02-02-financial.csv 已包含股票代碼 6719 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6719] 2021-08-25-2022-02-02-TWSE_TPEX.csv
------Processed row 138 of 291-----
+-----Processed row 139 of 292-----
 Processing stock 3592 for period 2021-08-03 to 2022-01-27
 Data successfully written to stockdata/[3592] 2021-08-03-2022-01-27.csv
 No data returned for the given parameters on dividend.
@@ -1113,7 +1121,7 @@ Data successfully written to PER_PBR/[3592] 2021-08-03-2022-01-27-PER_PBR.csv
 文件 company-profile/[3592] 2021-08-03-2022-01-27-company-profile.csv 已包含股票代碼 3592 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3592] 2021-08-03-2022-01-27-financial.csv 已包含股票代碼 3592 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[3592] 2021-08-03-2022-01-27-TWSE_TPEX.csv
------Processed row 139 of 291-----
+-----Processed row 140 of 292-----
 Processing stock 6691 for period 2021-07-26 to 2022-01-21
 文件 stockdata/[6691] 2021-07-26-2022-01-21.csv 已包含結束日期 2022-01-21 的數據，跳過 API 請求
 文件 dividend/[6691] 2021-07-26-2022-01-21-dividend.csv 已包含股票代碼 6691 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1121,7 +1129,7 @@ Processing stock 6691 for period 2021-07-26 to 2022-01-21
 文件 company-profile/[6691] 2021-07-26-2022-01-21-company-profile.csv 已包含股票代碼 6691 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6691] 2021-07-26-2022-01-21-financial.csv 已包含股票代碼 6691 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6691] 2021-07-26-2022-01-21-TWSE_TPEX.csv 已包含結束日期 2022-01-21 的數據，跳過 API 請求
------Processed row 140 of 291-----
+-----Processed row 141 of 292-----
 Processing stock 4770 for period 2021-07-14 to 2022-01-11
 文件 stockdata/[4770] 2021-07-14-2022-01-11.csv 已包含結束日期 2022-01-11 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1129,7 +1137,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4770] 2021-07-14-2022-01-11-company-profile.csv 已包含股票代碼 4770 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4770] 2021-07-14-2022-01-11-financial.csv 已包含股票代碼 4770 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4770] 2021-07-14-2022-01-11-TWSE_TPEX.csv 已包含結束日期 2022-01-11 的數據，跳過 API 請求
------Processed row 141 of 291-----
+-----Processed row 142 of 292-----
 Processing stock 6792 for period 2021-07-09 to 2021-12-28
 文件 stockdata/[6792] 2021-07-09-2021-12-28.csv 已包含結束日期 2021-12-28 的數據，跳過 API 請求
 文件 dividend/[6792] 2021-07-09-2021-12-28-dividend.csv 已包含股票代碼 6792 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1137,7 +1145,7 @@ Processing stock 6792 for period 2021-07-09 to 2021-12-28
 文件 company-profile/[6792] 2021-07-09-2021-12-28-company-profile.csv 已包含股票代碼 6792 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6792] 2021-07-09-2021-12-28-financial.csv 已包含股票代碼 6792 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6792] 2021-07-09-2021-12-28-TWSE_TPEX.csv 已包含結束日期 2021-12-28 的數據，跳過 API 請求
------Processed row 142 of 291-----
+-----Processed row 143 of 292-----
 Processing stock 6770 for period 2021-07-12 to 2021-12-24
 文件 stockdata/[6770] 2021-07-12-2021-12-24.csv 已包含結束日期 2021-12-24 的數據，跳過 API 請求
 文件 dividend/[6770] 2021-07-12-2021-12-24-dividend.csv 已包含股票代碼 6770 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1145,7 +1153,7 @@ Processing stock 6770 for period 2021-07-12 to 2021-12-24
 文件 company-profile/[6770] 2021-07-12-2021-12-24-company-profile.csv 已包含股票代碼 6770 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6770] 2021-07-12-2021-12-24-financial.csv 已包含股票代碼 6770 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6770] 2021-07-12-2021-12-24-TWSE_TPEX.csv 已包含結束日期 2021-12-24 的數據，跳過 API 請求
------Processed row 143 of 291-----
+-----Processed row 144 of 292-----
 Processing stock 2945 for period 2021-03-23 to 2021-12-20
 文件 stockdata/[2945] 2021-03-23-2021-12-20.csv 已包含結束日期 2021-12-20 的數據，跳過 API 請求
 文件 dividend/[2945] 2021-03-23-2021-12-20-dividend.csv 已包含股票代碼 2945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1153,7 +1161,7 @@ Processing stock 2945 for period 2021-03-23 to 2021-12-20
 文件 company-profile/[2945] 2021-03-23-2021-12-20-company-profile.csv 已包含股票代碼 2945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2945] 2021-03-23-2021-12-20-financial.csv 已包含股票代碼 2945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2945] 2021-03-23-2021-12-20-TWSE_TPEX.csv 已包含結束日期 2021-12-20 的數據，跳過 API 請求
------Processed row 144 of 291-----
+-----Processed row 145 of 292-----
 Processing stock 6806 for period 2021-06-10 to 2021-12-03
 文件 stockdata/[6806] 2021-06-10-2021-12-03.csv 已包含結束日期 2021-12-03 的數據，跳過 API 請求
 文件 dividend/[6806] 2021-06-10-2021-12-03-dividend.csv 已包含股票代碼 6806 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1161,7 +1169,7 @@ Processing stock 6806 for period 2021-06-10 to 2021-12-03
 文件 company-profile/[6806] 2021-06-10-2021-12-03-company-profile.csv 已包含股票代碼 6806 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6806] 2021-06-10-2021-12-03-financial.csv 已包含股票代碼 6806 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6806] 2021-06-10-2021-12-03-TWSE_TPEX.csv 已包含結束日期 2021-12-03 的數據，跳過 API 請求
------Processed row 145 of 291-----
+-----Processed row 146 of 292-----
 Processing stock 6761 for period 2021-05-18 to 2021-11-26
 文件 stockdata/[6761] 2021-05-18-2021-11-26.csv 已包含結束日期 2021-11-26 的數據，跳過 API 請求
 文件 dividend/[6761] 2021-05-18-2021-11-26-dividend.csv 已包含股票代碼 6761 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1169,7 +1177,7 @@ Processing stock 6761 for period 2021-05-18 to 2021-11-26
 文件 company-profile/[6761] 2021-05-18-2021-11-26-company-profile.csv 已包含股票代碼 6761 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6761] 2021-05-18-2021-11-26-financial.csv 已包含股票代碼 6761 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6761] 2021-05-18-2021-11-26-TWSE_TPEX.csv 已包含結束日期 2021-11-26 的數據，跳過 API 請求
------Processed row 146 of 291-----
+-----Processed row 147 of 292-----
 Processing stock 5222 for period 2021-05-18 to 2021-11-12
 文件 stockdata/[5222] 2021-05-18-2021-11-12.csv 已包含結束日期 2021-11-12 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1177,7 +1185,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[5222] 2021-05-18-2021-11-12-company-profile.csv 已包含股票代碼 5222 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5222] 2021-05-18-2021-11-12-financial.csv 已包含股票代碼 5222 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5222] 2021-05-18-2021-11-12-TWSE_TPEX.csv 已包含結束日期 2021-11-12 的數據，跳過 API 請求
------Processed row 147 of 291-----
+-----Processed row 148 of 292-----
 Processing stock 4440 for period 2021-06-15 to 2021-11-12
 文件 stockdata/[4440] 2021-06-15-2021-11-12.csv 已包含結束日期 2021-11-12 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1185,7 +1193,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4440] 2021-06-15-2021-11-12-company-profile.csv 已包含股票代碼 4440 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4440] 2021-06-15-2021-11-12-financial.csv 已包含股票代碼 4440 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4440] 2021-06-15-2021-11-12-TWSE_TPEX.csv 已包含結束日期 2021-11-12 的數據，跳過 API 請求
------Processed row 148 of 291-----
+-----Processed row 149 of 292-----
 Processing stock 2947 for period 2021-04-09 to 2021-10-26
 文件 stockdata/[2947] 2021-04-09-2021-10-26.csv 已包含結束日期 2021-10-26 的數據，跳過 API 請求
 文件 dividend/[2947] 2021-04-09-2021-10-26-dividend.csv 已包含股票代碼 2947 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1193,7 +1201,7 @@ Processing stock 2947 for period 2021-04-09 to 2021-10-26
 文件 company-profile/[2947] 2021-04-09-2021-10-26-company-profile.csv 已包含股票代碼 2947 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2947] 2021-04-09-2021-10-26-financial.csv 已包含股票代碼 2947 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2947] 2021-04-09-2021-10-26-TWSE_TPEX.csv 已包含結束日期 2021-10-26 的數據，跳過 API 請求
------Processed row 149 of 291-----
+-----Processed row 150 of 292-----
 Processing stock 6790 for period 2021-04-09 to 2021-10-19
 文件 stockdata/[6790] 2021-04-09-2021-10-19.csv 已包含結束日期 2021-10-19 的數據，跳過 API 請求
 文件 dividend/[6790] 2021-04-09-2021-10-19-dividend.csv 已包含股票代碼 6790 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1201,7 +1209,7 @@ Processing stock 6790 for period 2021-04-09 to 2021-10-19
 文件 company-profile/[6790] 2021-04-09-2021-10-19-company-profile.csv 已包含股票代碼 6790 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6790] 2021-04-09-2021-10-19-financial.csv 已包含股票代碼 6790 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6790] 2021-04-09-2021-10-19-TWSE_TPEX.csv 已包含結束日期 2021-10-19 的數據，跳過 API 請求
------Processed row 150 of 291-----
+-----Processed row 151 of 292-----
 Processing stock 6788 for period 2021-04-08 to 2021-10-19
 文件 stockdata/[6788] 2021-04-08-2021-10-19.csv 已包含結束日期 2021-10-19 的數據，跳過 API 請求
 文件 dividend/[6788] 2021-04-08-2021-10-19-dividend.csv 已包含股票代碼 6788 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1209,7 +1217,7 @@ Processing stock 6788 for period 2021-04-08 to 2021-10-19
 文件 company-profile/[6788] 2021-04-08-2021-10-19-company-profile.csv 已包含股票代碼 6788 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6788] 2021-04-08-2021-10-19-financial.csv 已包含股票代碼 6788 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6788] 2021-04-08-2021-10-19-TWSE_TPEX.csv 已包含結束日期 2021-10-19 的數據，跳過 API 請求
------Processed row 151 of 291-----
+-----Processed row 152 of 292-----
 Processing stock 2753 for period 2021-04-08 to 2021-09-29
 文件 stockdata/[2753] 2021-04-08-2021-09-29.csv 已包含結束日期 2021-09-29 的數據，跳過 API 請求
 文件 dividend/[2753] 2021-04-08-2021-09-29-dividend.csv 已包含股票代碼 2753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1217,7 +1225,7 @@ Processing stock 2753 for period 2021-04-08 to 2021-09-29
 文件 company-profile/[2753] 2021-04-08-2021-09-29-company-profile.csv 已包含股票代碼 2753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2753] 2021-04-08-2021-09-29-financial.csv 已包含股票代碼 2753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2753] 2021-04-08-2021-09-29-TWSE_TPEX.csv 已包含結束日期 2021-09-29 的數據，跳過 API 請求
------Processed row 152 of 291-----
+-----Processed row 153 of 292-----
 Processing stock 6684 for period 2021-03-11 to 2021-08-31
 文件 stockdata/[6684] 2021-03-11-2021-08-31.csv 已包含結束日期 2021-08-31 的數據，跳過 API 請求
 文件 dividend/[6684] 2021-03-11-2021-08-31-dividend.csv 已包含股票代碼 6684 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1225,7 +1233,7 @@ Processing stock 6684 for period 2021-03-11 to 2021-08-31
 文件 company-profile/[6684] 2021-03-11-2021-08-31-company-profile.csv 已包含股票代碼 6684 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6684] 2021-03-11-2021-08-31-financial.csv 已包含股票代碼 6684 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6684] 2021-03-11-2021-08-31-TWSE_TPEX.csv 已包含結束日期 2021-08-31 的數據，跳過 API 請求
------Processed row 153 of 291-----
+-----Processed row 154 of 292-----
 Processing stock 5236 for period 2021-03-04 to 2021-08-18
 文件 stockdata/[5236] 2021-03-04-2021-08-18.csv 已包含結束日期 2021-08-18 的數據，跳過 API 請求
 文件 dividend/[5236] 2021-03-04-2021-08-18-dividend.csv 已包含股票代碼 5236 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1233,7 +1241,7 @@ Processing stock 5236 for period 2021-03-04 to 2021-08-18
 文件 company-profile/[5236] 2021-03-04-2021-08-18-company-profile.csv 已包含股票代碼 5236 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5236] 2021-03-04-2021-08-18-financial.csv 已包含股票代碼 5236 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5236] 2021-03-04-2021-08-18-TWSE_TPEX.csv 已包含結束日期 2021-08-18 的數據，跳過 API 請求
------Processed row 154 of 291-----
+-----Processed row 155 of 292-----
 Processing stock 3357 for period 2020-10-30 to 2021-05-17
 文件 stockdata/[3357] 2020-10-30-2021-05-17.csv 已包含結束日期 2021-05-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1241,7 +1249,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[3357] 2020-10-30-2021-05-17-company-profile.csv 已包含股票代碼 3357 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3357] 2020-10-30-2021-05-17-financial.csv 已包含股票代碼 3357 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3357] 2020-10-30-2021-05-17-TWSE_TPEX.csv 已包含結束日期 2021-05-17 的數據，跳過 API 請求
------Processed row 155 of 291-----
+-----Processed row 156 of 292-----
 Processing stock 2211 for period 2020-08-10 to 2021-04-30
 Data successfully written to stockdata/[2211] 2020-08-10-2021-04-30.csv
 文件 dividend/[2211] 2020-08-10-2021-04-30-dividend.csv 已包含股票代碼 2211 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1249,7 +1257,7 @@ Data successfully written to PER_PBR/[2211] 2020-08-10-2021-04-30-PER_PBR.csv
 文件 company-profile/[2211] 2020-08-10-2021-04-30-company-profile.csv 已包含股票代碼 2211 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2211] 2020-08-10-2021-04-30-financial.csv 已包含股票代碼 2211 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[2211] 2020-08-10-2021-04-30-TWSE_TPEX.csv
------Processed row 156 of 291-----
+-----Processed row 157 of 292-----
 Processing stock 6776 for period 2020-10-05 to 2021-04-20
 文件 stockdata/[6776] 2020-10-05-2021-04-20.csv 已包含結束日期 2021-04-20 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1257,7 +1265,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6776] 2020-10-05-2021-04-20-company-profile.csv 已包含股票代碼 6776 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6776] 2020-10-05-2021-04-20-financial.csv 已包含股票代碼 6776 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6776] 2020-10-05-2021-04-20-TWSE_TPEX.csv 已包含結束日期 2021-04-20 的數據，跳過 API 請求
------Processed row 157 of 291-----
+-----Processed row 158 of 292-----
 Processing stock 6651 for period 2020-09-03 to 2021-02-19
 文件 stockdata/[6651] 2020-09-03-2021-02-19.csv 已包含結束日期 2021-02-19 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1265,7 +1273,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6651] 2020-09-03-2021-02-19-company-profile.csv 已包含股票代碼 6651 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6651] 2020-09-03-2021-02-19-financial.csv 已包含股票代碼 6651 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6651] 2020-09-03-2021-02-19-TWSE_TPEX.csv 已包含結束日期 2021-02-19 的數據，跳過 API 請求
------Processed row 158 of 291-----
+-----Processed row 159 of 292-----
 Processing stock 6733 for period 2020-08-11 to 2021-02-17
 文件 stockdata/[6733] 2020-08-11-2021-02-17.csv 已包含結束日期 2021-02-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1273,7 +1281,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6733] 2020-08-11-2021-02-17-company-profile.csv 已包含股票代碼 6733 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6733] 2020-08-11-2021-02-17-financial.csv 已包含股票代碼 6733 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6733] 2020-08-11-2021-02-17-TWSE_TPEX.csv 已包含結束日期 2021-02-17 的數據，跳過 API 請求
------Processed row 159 of 291-----
+-----Processed row 160 of 292-----
 Processing stock 6661 for period 2020-08-25 to 2021-02-16
 Data successfully written to stockdata/[6661] 2020-08-25-2021-02-16.csv
 No data returned for the given parameters on dividend.
@@ -1281,7 +1289,7 @@ Data successfully written to PER_PBR/[6661] 2020-08-25-2021-02-16-PER_PBR.csv
 文件 company-profile/[6661] 2020-08-25-2021-02-16-company-profile.csv 已包含股票代碼 6661 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6661] 2020-08-25-2021-02-16-financial.csv 已包含股票代碼 6661 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6661] 2020-08-25-2021-02-16-TWSE_TPEX.csv
------Processed row 160 of 291-----
+-----Processed row 161 of 292-----
 Processing stock 6767 for period 2020-08-18 to 2021-02-12
 Data successfully written to stockdata/[6767] 2020-08-18-2021-02-12.csv
 No data returned for the given parameters on dividend.
@@ -1289,7 +1297,7 @@ Data successfully written to PER_PBR/[6767] 2020-08-18-2021-02-12-PER_PBR.csv
 文件 company-profile/[6767] 2020-08-18-2021-02-12-company-profile.csv 已包含股票代碼 6767 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6767] 2020-08-18-2021-02-12-financial.csv 已包含股票代碼 6767 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6767] 2020-08-18-2021-02-12-TWSE_TPEX.csv
------Processed row 161 of 291-----
+-----Processed row 162 of 292-----
 Processing stock 6712 for period 2020-08-04 to 2021-01-28
 文件 stockdata/[6712] 2020-08-04-2021-01-28.csv 已包含結束日期 2021-01-28 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1297,7 +1305,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6712] 2020-08-04-2021-01-28-company-profile.csv 已包含股票代碼 6712 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6712] 2020-08-04-2021-01-28-financial.csv 已包含股票代碼 6712 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6712] 2020-08-04-2021-01-28-TWSE_TPEX.csv 已包含結束日期 2021-01-28 的數據，跳過 API 請求
------Processed row 162 of 291-----
+-----Processed row 163 of 292-----
 Processing stock 6751 for period 2020-06-30 to 2021-01-14
 文件 stockdata/[6751] 2020-06-30-2021-01-14.csv 已包含結束日期 2021-01-14 的數據，跳過 API 請求
 文件 dividend/[6751] 2020-06-30-2021-01-14-dividend.csv 已包含股票代碼 6751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1305,7 +1313,7 @@ Processing stock 6751 for period 2020-06-30 to 2021-01-14
 文件 company-profile/[6751] 2020-06-30-2021-01-14-company-profile.csv 已包含股票代碼 6751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6751] 2020-06-30-2021-01-14-financial.csv 已包含股票代碼 6751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6751] 2020-06-30-2021-01-14-TWSE_TPEX.csv 已包含結束日期 2021-01-14 的數據，跳過 API 請求
------Processed row 163 of 291-----
+-----Processed row 164 of 292-----
 Processing stock 6728 for period 2020-04-03 to 2021-01-14
 文件 stockdata/[6728] 2020-04-03-2021-01-14.csv 已包含結束日期 2021-01-14 的數據，跳過 API 請求
 文件 dividend/[6728] 2020-04-03-2021-01-14-dividend.csv 已包含股票代碼 6728 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1313,7 +1321,7 @@ Processing stock 6728 for period 2020-04-03 to 2021-01-14
 文件 company-profile/[6728] 2020-04-03-2021-01-14-company-profile.csv 已包含股票代碼 6728 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6728] 2020-04-03-2021-01-14-financial.csv 已包含股票代碼 6728 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6728] 2020-04-03-2021-01-14-TWSE_TPEX.csv 已包含結束日期 2021-01-14 的數據，跳過 API 請求
------Processed row 164 of 291-----
+-----Processed row 165 of 292-----
 Processing stock 6756 for period 2020-07-16 to 2021-01-13
 文件 stockdata/[6756] 2020-07-16-2021-01-13.csv 已包含結束日期 2021-01-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1321,7 +1329,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6756] 2020-07-16-2021-01-13-company-profile.csv 已包含股票代碼 6756 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6756] 2020-07-16-2021-01-13-financial.csv 已包含股票代碼 6756 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6756] 2020-07-16-2021-01-13-TWSE_TPEX.csv 已包含結束日期 2021-01-13 的數據，跳過 API 請求
------Processed row 165 of 291-----
+-----Processed row 166 of 292-----
 Processing stock 6762 for period 2020-08-10 to 2021-01-07
 文件 stockdata/[6762] 2020-08-10-2021-01-07.csv 已包含結束日期 2021-01-07 的數據，跳過 API 請求
 文件 dividend/[6762] 2020-08-10-2021-01-07-dividend.csv 已包含股票代碼 6762 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1329,7 +1337,7 @@ Processing stock 6762 for period 2020-08-10 to 2021-01-07
 文件 company-profile/[6762] 2020-08-10-2021-01-07-company-profile.csv 已包含股票代碼 6762 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6762] 2020-08-10-2021-01-07-financial.csv 已包含股票代碼 6762 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6762] 2020-08-10-2021-01-07-TWSE_TPEX.csv 已包含結束日期 2021-01-07 的數據，跳過 API 請求
------Processed row 166 of 291-----
+-----Processed row 167 of 292-----
 Processing stock 2755 for period 2020-06-02 to 2021-01-05
 文件 stockdata/[2755] 2020-06-02-2021-01-05.csv 已包含結束日期 2021-01-05 的數據，跳過 API 請求
 文件 dividend/[2755] 2020-06-02-2021-01-05-dividend.csv 已包含股票代碼 2755 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1337,7 +1345,7 @@ Processing stock 2755 for period 2020-06-02 to 2021-01-05
 文件 company-profile/[2755] 2020-06-02-2021-01-05-company-profile.csv 已包含股票代碼 2755 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2755] 2020-06-02-2021-01-05-financial.csv 已包含股票代碼 2755 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2755] 2020-06-02-2021-01-05-TWSE_TPEX.csv 已包含結束日期 2021-01-05 的數據，跳過 API 請求
------Processed row 167 of 291-----
+-----Processed row 168 of 292-----
 Processing stock 6743 for period 2020-08-10 to 2021-01-01
 Data successfully written to stockdata/[6743] 2020-08-10-2021-01-01.csv
 文件 dividend/[6743] 2020-08-10-2021-01-01-dividend.csv 已包含股票代碼 6743 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1345,7 +1353,7 @@ Data successfully written to PER_PBR/[6743] 2020-08-10-2021-01-01-PER_PBR.csv
 文件 company-profile/[6743] 2020-08-10-2021-01-01-company-profile.csv 已包含股票代碼 6743 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6743] 2020-08-10-2021-01-01-financial.csv 已包含股票代碼 6743 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6743] 2020-08-10-2021-01-01-TWSE_TPEX.csv
------Processed row 168 of 291-----
+-----Processed row 169 of 292-----
 Processing stock 3138 for period 2020-07-13 to 2020-12-31
 文件 stockdata/[3138] 2020-07-13-2020-12-31.csv 已包含結束日期 2020-12-31 的數據，跳過 API 請求
 文件 dividend/[3138] 2020-07-13-2020-12-31-dividend.csv 已包含股票代碼 3138 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1353,7 +1361,7 @@ Processing stock 3138 for period 2020-07-13 to 2020-12-31
 文件 company-profile/[3138] 2020-07-13-2020-12-31-company-profile.csv 已包含股票代碼 3138 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3138] 2020-07-13-2020-12-31-financial.csv 已包含股票代碼 3138 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3138] 2020-07-13-2020-12-31-TWSE_TPEX.csv 已包含結束日期 2020-12-31 的數據，跳過 API 請求
------Processed row 169 of 291-----
+-----Processed row 170 of 292-----
 Processing stock 6752 for period 2020-07-09 to 2020-12-30
 文件 stockdata/[6752] 2020-07-09-2020-12-30.csv 已包含結束日期 2020-12-30 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1361,7 +1369,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6752] 2020-07-09-2020-12-30-company-profile.csv 已包含股票代碼 6752 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6752] 2020-07-09-2020-12-30-financial.csv 已包含股票代碼 6752 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6752] 2020-07-09-2020-12-30-TWSE_TPEX.csv 已包含結束日期 2020-12-30 的數據，跳過 API 請求
------Processed row 170 of 291-----
+-----Processed row 171 of 292-----
 Processing stock 6727 for period 2020-07-02 to 2020-12-21
 文件 stockdata/[6727] 2020-07-02-2020-12-21.csv 已包含結束日期 2020-12-21 的數據，跳過 API 請求
 文件 dividend/[6727] 2020-07-02-2020-12-21-dividend.csv 已包含股票代碼 6727 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1369,7 +1377,7 @@ Processing stock 6727 for period 2020-07-02 to 2020-12-21
 文件 company-profile/[6727] 2020-07-02-2020-12-21-company-profile.csv 已包含股票代碼 6727 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6727] 2020-07-02-2020-12-21-financial.csv 已包含股票代碼 6727 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6727] 2020-07-02-2020-12-21-TWSE_TPEX.csv 已包含結束日期 2020-12-21 的數據，跳過 API 請求
------Processed row 171 of 291-----
+-----Processed row 172 of 292-----
 Processing stock 1342 for period 2020-06-04 to 2020-12-14
 文件 stockdata/[1342] 2020-06-04-2020-12-14.csv 已包含結束日期 2020-12-14 的數據，跳過 API 請求
 文件 dividend/[1342] 2020-06-04-2020-12-14-dividend.csv 已包含股票代碼 1342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1377,7 +1385,7 @@ Processing stock 1342 for period 2020-06-04 to 2020-12-14
 文件 company-profile/[1342] 2020-06-04-2020-12-14-company-profile.csv 已包含股票代碼 1342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1342] 2020-06-04-2020-12-14-financial.csv 已包含股票代碼 1342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1342] 2020-06-04-2020-12-14-TWSE_TPEX.csv 已包含結束日期 2020-12-14 的數據，跳過 API 請求
------Processed row 172 of 291-----
+-----Processed row 173 of 292-----
 Processing stock 4945 for period 2020-05-29 to 2020-12-10
 文件 stockdata/[4945] 2020-05-29-2020-12-10.csv 已包含結束日期 2020-12-10 的數據，跳過 API 請求
 文件 dividend/[4945] 2020-05-29-2020-12-10-dividend.csv 已包含股票代碼 4945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1385,7 +1393,7 @@ Processing stock 4945 for period 2020-05-29 to 2020-12-10
 文件 company-profile/[4945] 2020-05-29-2020-12-10-company-profile.csv 已包含股票代碼 4945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4945] 2020-05-29-2020-12-10-financial.csv 已包含股票代碼 4945 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4945] 2020-05-29-2020-12-10-TWSE_TPEX.csv 已包含結束日期 2020-12-10 的數據，跳過 API 請求
------Processed row 173 of 291-----
+-----Processed row 174 of 292-----
 Processing stock 7556 for period 2020-06-03 to 2020-11-19
 文件 stockdata/[7556] 2020-06-03-2020-11-19.csv 已包含結束日期 2020-11-19 的數據，跳過 API 請求
 文件 dividend/[7556] 2020-06-03-2020-11-19-dividend.csv 已包含股票代碼 7556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1393,7 +1401,7 @@ Processing stock 7556 for period 2020-06-03 to 2020-11-19
 文件 company-profile/[7556] 2020-06-03-2020-11-19-company-profile.csv 已包含股票代碼 7556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[7556] 2020-06-03-2020-11-19-financial.csv 已包含股票代碼 7556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7556] 2020-06-03-2020-11-19-TWSE_TPEX.csv 已包含結束日期 2020-11-19 的數據，跳過 API 請求
------Processed row 174 of 291-----
+-----Processed row 175 of 292-----
 Processing stock 6703 for period 2020-04-07 to 2020-11-09
 文件 stockdata/[6703] 2020-04-07-2020-11-09.csv 已包含結束日期 2020-11-09 的數據，跳過 API 請求
 文件 dividend/[6703] 2020-04-07-2020-11-09-dividend.csv 已包含股票代碼 6703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1401,7 +1409,7 @@ Processing stock 6703 for period 2020-04-07 to 2020-11-09
 文件 company-profile/[6703] 2020-04-07-2020-11-09-company-profile.csv 已包含股票代碼 6703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6703] 2020-04-07-2020-11-09-financial.csv 已包含股票代碼 6703 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6703] 2020-04-07-2020-11-09-TWSE_TPEX.csv 已包含結束日期 2020-11-09 的數據，跳過 API 請求
------Processed row 175 of 291-----
+-----Processed row 176 of 292-----
 Processing stock 2247 for period 2019-11-05 to 2020-10-30
 文件 stockdata/[2247] 2019-11-05-2020-10-30.csv 已包含結束日期 2020-10-30 的數據，跳過 API 請求
 文件 dividend/[2247] 2019-11-05-2020-10-30-dividend.csv 已包含股票代碼 2247 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1409,7 +1417,7 @@ Processing stock 2247 for period 2019-11-05 to 2020-10-30
 文件 company-profile/[2247] 2019-11-05-2020-10-30-company-profile.csv 已包含股票代碼 2247 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2247] 2019-11-05-2020-10-30-financial.csv 已包含股票代碼 2247 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2247] 2019-11-05-2020-10-30-TWSE_TPEX.csv 已包含結束日期 2020-10-30 的數據，跳過 API 請求
------Processed row 176 of 291-----
+-----Processed row 177 of 292-----
 Processing stock 8089 for period 2020-04-08 to 2020-10-13
 文件 stockdata/[8089] 2020-04-08-2020-10-13.csv 已包含結束日期 2020-10-13 的數據，跳過 API 請求
 文件 dividend/[8089] 2020-04-08-2020-10-13-dividend.csv 已包含股票代碼 8089 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1417,7 +1425,7 @@ Processing stock 8089 for period 2020-04-08 to 2020-10-13
 文件 company-profile/[8089] 2020-04-08-2020-10-13-company-profile.csv 已包含股票代碼 8089 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8089] 2020-04-08-2020-10-13-financial.csv 已包含股票代碼 8089 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8089] 2020-04-08-2020-10-13-TWSE_TPEX.csv 已包含結束日期 2020-10-13 的數據，跳過 API 請求
------Processed row 177 of 291-----
+-----Processed row 178 of 292-----
 Processing stock 2754 for period 2019-12-10 to 2020-10-07
 文件 stockdata/[2754] 2019-12-10-2020-10-07.csv 已包含結束日期 2020-10-07 的數據，跳過 API 請求
 文件 dividend/[2754] 2019-12-10-2020-10-07-dividend.csv 已包含股票代碼 2754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1425,7 +1433,7 @@ Processing stock 2754 for period 2019-12-10 to 2020-10-07
 文件 company-profile/[2754] 2019-12-10-2020-10-07-company-profile.csv 已包含股票代碼 2754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2754] 2019-12-10-2020-10-07-financial.csv 已包含股票代碼 2754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2754] 2019-12-10-2020-10-07-TWSE_TPEX.csv 已包含結束日期 2020-10-07 的數據，跳過 API 請求
------Processed row 178 of 291-----
+-----Processed row 179 of 292-----
 Processing stock 2241 for period 2020-04-09 to 2020-09-15
 文件 stockdata/[2241] 2020-04-09-2020-09-15.csv 已包含結束日期 2020-09-15 的數據，跳過 API 請求
 文件 dividend/[2241] 2020-04-09-2020-09-15-dividend.csv 已包含股票代碼 2241 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1433,7 +1441,7 @@ Processing stock 2241 for period 2020-04-09 to 2020-09-15
 文件 company-profile/[2241] 2020-04-09-2020-09-15-company-profile.csv 已包含股票代碼 2241 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2241] 2020-04-09-2020-09-15-financial.csv 已包含股票代碼 2241 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2241] 2020-04-09-2020-09-15-TWSE_TPEX.csv 已包含結束日期 2020-09-15 的數據，跳過 API 請求
------Processed row 179 of 291-----
+-----Processed row 180 of 292-----
 Processing stock 6754 for period 2020-04-06 to 2020-09-14
 文件 stockdata/[6754] 2020-04-06-2020-09-14.csv 已包含結束日期 2020-09-14 的數據，跳過 API 請求
 文件 dividend/[6754] 2020-04-06-2020-09-14-dividend.csv 已包含股票代碼 6754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1441,7 +1449,7 @@ Processing stock 6754 for period 2020-04-06 to 2020-09-14
 文件 company-profile/[6754] 2020-04-06-2020-09-14-company-profile.csv 已包含股票代碼 6754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6754] 2020-04-06-2020-09-14-financial.csv 已包含股票代碼 6754 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6754] 2020-04-06-2020-09-14-TWSE_TPEX.csv 已包含結束日期 2020-09-14 的數據，跳過 API 請求
------Processed row 180 of 291-----
+-----Processed row 181 of 292-----
 Processing stock 6588 for period 2019-11-06 to 2020-07-21
 文件 stockdata/[6588] 2019-11-06-2020-07-21.csv 已包含結束日期 2020-07-21 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1449,7 +1457,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6588] 2019-11-06-2020-07-21-company-profile.csv 已包含股票代碼 6588 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6588] 2019-11-06-2020-07-21-financial.csv 已包含股票代碼 6588 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6588] 2019-11-06-2020-07-21-TWSE_TPEX.csv 已包含結束日期 2020-07-21 的數據，跳過 API 請求
------Processed row 181 of 291-----
+-----Processed row 182 of 292-----
 Processing stock 6732 for period 2019-11-29 to 2020-06-26
 Data successfully written to stockdata/[6732] 2019-11-29-2020-06-26.csv
 No data returned for the given parameters on dividend.
@@ -1457,7 +1465,7 @@ Data successfully written to PER_PBR/[6732] 2019-11-29-2020-06-26-PER_PBR.csv
 文件 company-profile/[6732] 2019-11-29-2020-06-26-company-profile.csv 已包含股票代碼 6732 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6732] 2019-11-29-2020-06-26-financial.csv 已包含股票代碼 6732 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6732] 2019-11-29-2020-06-26-TWSE_TPEX.csv
------Processed row 182 of 291-----
+-----Processed row 183 of 292-----
 Processing stock 8284 for period 2019-11-15 to 2020-06-05
 文件 stockdata/[8284] 2019-11-15-2020-06-05.csv 已包含結束日期 2020-06-05 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1465,7 +1473,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8284] 2019-11-15-2020-06-05-company-profile.csv 已包含股票代碼 8284 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8284] 2019-11-15-2020-06-05-financial.csv 已包含股票代碼 8284 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8284] 2019-11-15-2020-06-05-TWSE_TPEX.csv 已包含結束日期 2020-06-05 的數據，跳過 API 請求
------Processed row 183 of 291-----
+-----Processed row 184 of 292-----
 Processing stock 3543 for period 2019-10-31 to 2020-05-05
 文件 stockdata/[3543] 2019-10-31-2020-05-05.csv 已包含結束日期 2020-05-05 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1473,7 +1481,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[3543] 2019-10-31-2020-05-05-company-profile.csv 已包含股票代碼 3543 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3543] 2019-10-31-2020-05-05-financial.csv 已包含股票代碼 3543 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3543] 2019-10-31-2020-05-05-TWSE_TPEX.csv 已包含結束日期 2020-05-05 的數據，跳過 API 請求
------Processed row 184 of 291-----
+-----Processed row 185 of 292-----
 Processing stock 6716 for period 2019-10-10 to 2020-04-16
 文件 stockdata/[6716] 2019-10-10-2020-04-16.csv 已包含結束日期 2020-04-16 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1481,7 +1489,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6716] 2019-10-10-2020-04-16-company-profile.csv 已包含股票代碼 6716 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6716] 2019-10-10-2020-04-16-financial.csv 已包含股票代碼 6716 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6716] 2019-10-10-2020-04-16-TWSE_TPEX.csv 已包含結束日期 2020-04-16 的數據，跳過 API 請求
------Processed row 185 of 291-----
+-----Processed row 186 of 292-----
 Processing stock 2743 for period 2019-09-17 to 2020-03-27
 文件 stockdata/[2743] 2019-09-17-2020-03-27.csv 已包含結束日期 2020-03-27 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1489,7 +1497,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2743] 2019-09-17-2020-03-27-company-profile.csv 已包含股票代碼 2743 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2743] 2019-09-17-2020-03-27-financial.csv 已包含股票代碼 2743 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2743] 2019-09-17-2020-03-27-TWSE_TPEX.csv 已包含結束日期 2020-03-27 的數據，跳過 API 請求
------Processed row 186 of 291-----
+-----Processed row 187 of 292-----
 Processing stock 3597 for period 2019-09-05 to 2020-03-27
 文件 stockdata/[3597] 2019-09-05-2020-03-27.csv 已包含結束日期 2020-03-27 的數據，跳過 API 請求
 文件 dividend/[3597] 2019-09-05-2020-03-27-dividend.csv 已包含股票代碼 3597 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1497,7 +1505,7 @@ Processing stock 3597 for period 2019-09-05 to 2020-03-27
 文件 company-profile/[3597] 2019-09-05-2020-03-27-company-profile.csv 已包含股票代碼 3597 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3597] 2019-09-05-2020-03-27-financial.csv 已包含股票代碼 3597 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3597] 2019-09-05-2020-03-27-TWSE_TPEX.csv 已包含結束日期 2020-03-27 的數據，跳過 API 請求
------Processed row 187 of 291-----
+-----Processed row 188 of 292-----
 Processing stock 4580 for period 2019-08-14 to 2020-01-24
 Data successfully written to stockdata/[4580] 2019-08-14-2020-01-24.csv
 文件 dividend/[4580] 2019-08-14-2020-01-24-dividend.csv 已包含股票代碼 4580 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1505,7 +1513,7 @@ Data successfully written to PER_PBR/[4580] 2019-08-14-2020-01-24-PER_PBR.csv
 文件 company-profile/[4580] 2019-08-14-2020-01-24-company-profile.csv 已包含股票代碼 4580 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4580] 2019-08-14-2020-01-24-financial.csv 已包含股票代碼 4580 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4580] 2019-08-14-2020-01-24-TWSE_TPEX.csv
------Processed row 188 of 291-----
+-----Processed row 189 of 292-----
 Processing stock 6697 for period 2019-08-05 to 2020-01-15
 文件 stockdata/[6697] 2019-08-05-2020-01-15.csv 已包含結束日期 2020-01-15 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1513,7 +1521,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6697] 2019-08-05-2020-01-15-company-profile.csv 已包含股票代碼 6697 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6697] 2019-08-05-2020-01-15-financial.csv 已包含股票代碼 6697 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6697] 2019-08-05-2020-01-15-TWSE_TPEX.csv 已包含結束日期 2020-01-15 的數據，跳過 API 請求
------Processed row 189 of 291-----
+-----Processed row 190 of 292-----
 Processing stock 6527 for period 2019-08-09 to 2020-01-14
 文件 stockdata/[6527] 2019-08-09-2020-01-14.csv 已包含結束日期 2020-01-14 的數據，跳過 API 請求
 文件 dividend/[6527] 2019-08-09-2020-01-14-dividend.csv 已包含股票代碼 6527 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1521,7 +1529,7 @@ Processing stock 6527 for period 2019-08-09 to 2020-01-14
 文件 company-profile/[6527] 2019-08-09-2020-01-14-company-profile.csv 已包含股票代碼 6527 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6527] 2019-08-09-2020-01-14-financial.csv 已包含股票代碼 6527 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6527] 2019-08-09-2020-01-14-TWSE_TPEX.csv 已包含結束日期 2020-01-14 的數據，跳過 API 請求
------Processed row 190 of 291-----
+-----Processed row 191 of 292-----
 Processing stock 6706 for period 2019-09-05 to 2020-01-08
 文件 stockdata/[6706] 2019-09-05-2020-01-08.csv 已包含結束日期 2020-01-08 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1529,7 +1537,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6706] 2019-09-05-2020-01-08-company-profile.csv 已包含股票代碼 6706 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6706] 2019-09-05-2020-01-08-financial.csv 已包含股票代碼 6706 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6706] 2019-09-05-2020-01-08-TWSE_TPEX.csv 已包含結束日期 2020-01-08 的數據，跳過 API 請求
------Processed row 191 of 291-----
+-----Processed row 192 of 292-----
 Processing stock 6715 for period 2019-06-21 to 2020-01-01
 Data successfully written to stockdata/[6715] 2019-06-21-2020-01-01.csv
 文件 dividend/[6715] 2019-06-21-2020-01-01-dividend.csv 已包含股票代碼 6715 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1537,7 +1545,7 @@ Data successfully written to PER_PBR/[6715] 2019-06-21-2020-01-01-PER_PBR.csv
 文件 company-profile/[6715] 2019-06-21-2020-01-01-company-profile.csv 已包含股票代碼 6715 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6715] 2019-06-21-2020-01-01-financial.csv 已包含股票代碼 6715 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6715] 2019-06-21-2020-01-01-TWSE_TPEX.csv
------Processed row 192 of 291-----
+-----Processed row 193 of 292-----
 Processing stock 6592 for period 2019-09-11 to 2019-12-27
 文件 stockdata/[6592] 2019-09-11-2019-12-27.csv 已包含結束日期 2019-12-27 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1545,7 +1553,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6592] 2019-09-11-2019-12-27-company-profile.csv 已包含股票代碼 6592 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6592] 2019-09-11-2019-12-27-financial.csv 已包含股票代碼 6592 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6592] 2019-09-11-2019-12-27-TWSE_TPEX.csv 已包含結束日期 2019-12-27 的數據，跳過 API 請求
------Processed row 193 of 291-----
+-----Processed row 194 of 292-----
 Processing stock 6698 for period 2019-06-05 to 2019-12-13
 文件 stockdata/[6698] 2019-06-05-2019-12-13.csv 已包含結束日期 2019-12-13 的數據，跳過 API 請求
 文件 dividend/[6698] 2019-06-05-2019-12-13-dividend.csv 已包含股票代碼 6698 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1553,7 +1561,7 @@ Processing stock 6698 for period 2019-06-05 to 2019-12-13
 文件 company-profile/[6698] 2019-06-05-2019-12-13-company-profile.csv 已包含股票代碼 6698 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6698] 2019-06-05-2019-12-13-financial.csv 已包含股票代碼 6698 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6698] 2019-06-05-2019-12-13-TWSE_TPEX.csv 已包含結束日期 2019-12-13 的數據，跳過 API 請求
------Processed row 194 of 291-----
+-----Processed row 195 of 292-----
 Processing stock 6690 for period 2019-06-10 to 2019-11-19
 文件 stockdata/[6690] 2019-06-10-2019-11-19.csv 已包含結束日期 2019-11-19 的數據，跳過 API 請求
 文件 dividend/[6690] 2019-06-10-2019-11-19-dividend.csv 已包含股票代碼 6690 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1561,7 +1569,7 @@ Processing stock 6690 for period 2019-06-10 to 2019-11-19
 文件 company-profile/[6690] 2019-06-10-2019-11-19-company-profile.csv 已包含股票代碼 6690 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6690] 2019-06-10-2019-11-19-financial.csv 已包含股票代碼 6690 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6690] 2019-06-10-2019-11-19-TWSE_TPEX.csv 已包含結束日期 2019-11-19 的數據，跳過 API 請求
------Processed row 195 of 291-----
+-----Processed row 196 of 292-----
 Processing stock 6491 for period 2019-05-13 to 2019-10-25
 文件 stockdata/[6491] 2019-05-13-2019-10-25.csv 已包含結束日期 2019-10-25 的數據，跳過 API 請求
 文件 dividend/[6491] 2019-05-13-2019-10-25-dividend.csv 已包含股票代碼 6491 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1569,7 +1577,7 @@ Processing stock 6491 for period 2019-05-13 to 2019-10-25
 文件 company-profile/[6491] 2019-05-13-2019-10-25-company-profile.csv 已包含股票代碼 6491 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6491] 2019-05-13-2019-10-25-financial.csv 已包含股票代碼 6491 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6491] 2019-05-13-2019-10-25-TWSE_TPEX.csv 已包含結束日期 2019-10-25 的數據，跳過 API 請求
------Processed row 196 of 291-----
+-----Processed row 197 of 292-----
 Processing stock 2752 for period 2019-05-08 to 2019-10-15
 文件 stockdata/[2752] 2019-05-08-2019-10-15.csv 已包含結束日期 2019-10-15 的數據，跳過 API 請求
 文件 dividend/[2752] 2019-05-08-2019-10-15-dividend.csv 已包含股票代碼 2752 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1577,7 +1585,7 @@ Processing stock 2752 for period 2019-05-08 to 2019-10-15
 文件 company-profile/[2752] 2019-05-08-2019-10-15-company-profile.csv 已包含股票代碼 2752 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2752] 2019-05-08-2019-10-15-financial.csv 已包含股票代碼 2752 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2752] 2019-05-08-2019-10-15-TWSE_TPEX.csv 已包含結束日期 2019-10-15 的數據，跳過 API 請求
------Processed row 197 of 291-----
+-----Processed row 198 of 292-----
 Processing stock 6642 for period 2019-03-22 to 2019-10-11
 Data successfully written to stockdata/[6642] 2019-03-22-2019-10-11.csv
 文件 dividend/[6642] 2019-03-22-2019-10-11-dividend.csv 已包含股票代碼 6642 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1585,7 +1593,7 @@ Data successfully written to PER_PBR/[6642] 2019-03-22-2019-10-11-PER_PBR.csv
 文件 company-profile/[6642] 2019-03-22-2019-10-11-company-profile.csv 已包含股票代碼 6642 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6642] 2019-03-22-2019-10-11-financial.csv 已包含股票代碼 6642 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6642] 2019-03-22-2019-10-11-TWSE_TPEX.csv
------Processed row 198 of 291-----
+-----Processed row 199 of 292-----
 Processing stock 4931 for period 2019-04-08 to 2019-10-07
 文件 stockdata/[4931] 2019-04-08-2019-10-07.csv 已包含結束日期 2019-10-07 的數據，跳過 API 請求
 文件 dividend/[4931] 2019-04-08-2019-10-07-dividend.csv 已包含股票代碼 4931 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1593,7 +1601,7 @@ Processing stock 4931 for period 2019-04-08 to 2019-10-07
 文件 company-profile/[4931] 2019-04-08-2019-10-07-company-profile.csv 已包含股票代碼 4931 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4931] 2019-04-08-2019-10-07-financial.csv 已包含股票代碼 4931 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4931] 2019-04-08-2019-10-07-TWSE_TPEX.csv 已包含結束日期 2019-10-07 的數據，跳過 API 請求
------Processed row 199 of 291-----
+-----Processed row 200 of 292-----
 Processing stock 6680 for period 2019-03-22 to 2019-10-04
 文件 stockdata/[6680] 2019-03-22-2019-10-04.csv 已包含結束日期 2019-10-04 的數據，跳過 API 請求
 文件 dividend/[6680] 2019-03-22-2019-10-04-dividend.csv 已包含股票代碼 6680 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1601,7 +1609,7 @@ Processing stock 6680 for period 2019-03-22 to 2019-10-04
 文件 company-profile/[6680] 2019-03-22-2019-10-04-company-profile.csv 已包含股票代碼 6680 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6680] 2019-03-22-2019-10-04-financial.csv 已包含股票代碼 6680 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6680] 2019-03-22-2019-10-04-TWSE_TPEX.csv 已包含結束日期 2019-10-04 的數據，跳過 API 請求
------Processed row 200 of 291-----
+-----Processed row 201 of 292-----
 Processing stock 4572 for period 2019-03-28 to 2019-09-30
 Data successfully written to stockdata/[4572] 2019-03-28-2019-09-30.csv
 文件 dividend/[4572] 2019-03-28-2019-09-30-dividend.csv 已包含股票代碼 4572 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1609,7 +1617,7 @@ Data successfully written to PER_PBR/[4572] 2019-03-28-2019-09-30-PER_PBR.csv
 文件 company-profile/[4572] 2019-03-28-2019-09-30-company-profile.csv 已包含股票代碼 4572 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4572] 2019-03-28-2019-09-30-financial.csv 已包含股票代碼 4572 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4572] 2019-03-28-2019-09-30-TWSE_TPEX.csv
------Processed row 201 of 291-----
+-----Processed row 202 of 292-----
 Processing stock 4576 for period 2019-04-10 to 2019-09-24
 文件 stockdata/[4576] 2019-04-10-2019-09-24.csv 已包含結束日期 2019-09-24 的數據，跳過 API 請求
 文件 dividend/[4576] 2019-04-10-2019-09-24-dividend.csv 已包含股票代碼 4576 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1617,7 +1625,7 @@ Processing stock 4576 for period 2019-04-10 to 2019-09-24
 文件 company-profile/[4576] 2019-04-10-2019-09-24-company-profile.csv 已包含股票代碼 4576 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4576] 2019-04-10-2019-09-24-financial.csv 已包含股票代碼 4576 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4576] 2019-04-10-2019-09-24-TWSE_TPEX.csv 已包含結束日期 2019-09-24 的數據，跳過 API 請求
------Processed row 202 of 291-----
+-----Processed row 203 of 292-----
 Processing stock 6589 for period 2018-11-28 to 2019-07-18
 文件 stockdata/[6589] 2018-11-28-2019-07-18.csv 已包含結束日期 2019-07-18 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1625,7 +1633,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6589] 2018-11-28-2019-07-18-company-profile.csv 已包含股票代碼 6589 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6589] 2018-11-28-2019-07-18-financial.csv 已包含股票代碼 6589 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6589] 2018-11-28-2019-07-18-TWSE_TPEX.csv 已包含結束日期 2019-07-18 的數據，跳過 API 請求
------Processed row 203 of 291-----
+-----Processed row 204 of 292-----
 Processing stock 6649 for period 2018-11-12 to 2019-06-25
 文件 stockdata/[6649] 2018-11-12-2019-06-25.csv 已包含結束日期 2019-06-25 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1633,7 +1641,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6649] 2018-11-12-2019-06-25-company-profile.csv 已包含股票代碼 6649 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6649] 2018-11-12-2019-06-25-financial.csv 已包含股票代碼 6649 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6649] 2018-11-12-2019-06-25-TWSE_TPEX.csv 已包含結束日期 2019-06-25 的數據，跳過 API 請求
------Processed row 204 of 291-----
+-----Processed row 205 of 292-----
 Processing stock 6624 for period 2018-11-15 to 2019-06-17
 文件 stockdata/[6624] 2018-11-15-2019-06-17.csv 已包含結束日期 2019-06-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1641,7 +1649,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6624] 2018-11-15-2019-06-17-company-profile.csv 已包含股票代碼 6624 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6624] 2018-11-15-2019-06-17-financial.csv 已包含股票代碼 6624 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6624] 2018-11-15-2019-06-17-TWSE_TPEX.csv 已包含結束日期 2019-06-17 的數據，跳過 API 請求
------Processed row 205 of 291-----
+-----Processed row 206 of 292-----
 Processing stock 5283 for period 2018-10-22 to 2019-06-13
 文件 stockdata/[5283] 2018-10-22-2019-06-13.csv 已包含結束日期 2019-06-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1649,7 +1657,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[5283] 2018-10-22-2019-06-13-company-profile.csv 已包含股票代碼 5283 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5283] 2018-10-22-2019-06-13-financial.csv 已包含股票代碼 5283 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5283] 2018-10-22-2019-06-13-TWSE_TPEX.csv 已包含結束日期 2019-06-13 的數據，跳過 API 請求
------Processed row 206 of 291-----
+-----Processed row 207 of 292-----
 Processing stock 6679 for period 2018-11-06 to 2019-05-29
 文件 stockdata/[6679] 2018-11-06-2019-05-29.csv 已包含結束日期 2019-05-29 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1657,7 +1665,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6679] 2018-11-06-2019-05-29-company-profile.csv 已包含股票代碼 6679 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6679] 2018-11-06-2019-05-29-financial.csv 已包含股票代碼 6679 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6679] 2018-11-06-2019-05-29-TWSE_TPEX.csv 已包含結束日期 2019-05-29 的數據，跳過 API 請求
------Processed row 207 of 291-----
+-----Processed row 208 of 292-----
 Processing stock 6516 for period 2018-11-02 to 2019-05-24
 文件 stockdata/[6516] 2018-11-02-2019-05-24.csv 已包含結束日期 2019-05-24 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1665,7 +1673,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6516] 2018-11-02-2019-05-24-company-profile.csv 已包含股票代碼 6516 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6516] 2018-11-02-2019-05-24-financial.csv 已包含股票代碼 6516 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6516] 2018-11-02-2019-05-24-TWSE_TPEX.csv 已包含結束日期 2019-05-24 的數據，跳過 API 請求
------Processed row 208 of 291-----
+-----Processed row 209 of 292-----
 Processing stock 6683 for period 2018-11-21 to 2019-05-13
 文件 stockdata/[6683] 2018-11-21-2019-05-13.csv 已包含結束日期 2019-05-13 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1673,7 +1681,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6683] 2018-11-21-2019-05-13-company-profile.csv 已包含股票代碼 6683 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6683] 2018-11-21-2019-05-13-financial.csv 已包含股票代碼 6683 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6683] 2018-11-21-2019-05-13-TWSE_TPEX.csv 已包含結束日期 2019-05-13 的數據，跳過 API 請求
------Processed row 209 of 291-----
+-----Processed row 210 of 292-----
 Processing stock 6669 for period 2018-07-11 to 2019-04-16
 文件 stockdata/[6669] 2018-07-11-2019-04-16.csv 已包含結束日期 2019-04-16 的數據，跳過 API 請求
 文件 dividend/[6669] 2018-07-11-2019-04-16-dividend.csv 已包含股票代碼 6669 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1681,7 +1689,7 @@ Processing stock 6669 for period 2018-07-11 to 2019-04-16
 文件 company-profile/[6669] 2018-07-11-2019-04-16-company-profile.csv 已包含股票代碼 6669 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6669] 2018-07-11-2019-04-16-financial.csv 已包含股票代碼 6669 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6669] 2018-07-11-2019-04-16-TWSE_TPEX.csv 已包含結束日期 2019-04-16 的數據，跳過 API 請求
------Processed row 210 of 291-----
+-----Processed row 211 of 292-----
 Processing stock 6662 for period 2018-09-19 to 2019-04-15
 文件 stockdata/[6662] 2018-09-19-2019-04-15.csv 已包含結束日期 2019-04-15 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1689,7 +1697,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6662] 2018-09-19-2019-04-15-company-profile.csv 已包含股票代碼 6662 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6662] 2018-09-19-2019-04-15-financial.csv 已包含股票代碼 6662 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6662] 2018-09-19-2019-04-15-TWSE_TPEX.csv 已包含結束日期 2019-04-15 的數據，跳過 API 請求
------Processed row 211 of 291-----
+-----Processed row 212 of 292-----
 Processing stock 4760 for period 2018-09-26 to 2019-04-10
 文件 stockdata/[4760] 2018-09-26-2019-04-10.csv 已包含結束日期 2019-04-10 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1697,7 +1705,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4760] 2018-09-26-2019-04-10-company-profile.csv 已包含股票代碼 4760 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4760] 2018-09-26-2019-04-10-financial.csv 已包含股票代碼 4760 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4760] 2018-09-26-2019-04-10-TWSE_TPEX.csv 已包含結束日期 2019-04-10 的數據，跳過 API 請求
------Processed row 212 of 291-----
+-----Processed row 213 of 292-----
 Processing stock 4564 for period 2018-09-26 to 2019-03-27
 文件 stockdata/[4564] 2018-09-26-2019-03-27.csv 已包含結束日期 2019-03-27 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1705,7 +1713,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4564] 2018-09-26-2019-03-27-company-profile.csv 已包含股票代碼 4564 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4564] 2018-09-26-2019-03-27-financial.csv 已包含股票代碼 4564 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4564] 2018-09-26-2019-03-27-TWSE_TPEX.csv 已包含結束日期 2019-03-27 的數據，跳過 API 請求
------Processed row 213 of 291-----
+-----Processed row 214 of 292-----
 Processing stock 6418 for period 2018-09-06 to 2019-03-08
 文件 stockdata/[6418] 2018-09-06-2019-03-08.csv 已包含結束日期 2019-03-08 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1713,7 +1721,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6418] 2018-09-06-2019-03-08-company-profile.csv 已包含股票代碼 6418 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6418] 2018-09-06-2019-03-08-financial.csv 已包含股票代碼 6418 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6418] 2018-09-06-2019-03-08-TWSE_TPEX.csv 已包含結束日期 2019-03-08 的數據，跳過 API 請求
------Processed row 214 of 291-----
+-----Processed row 215 of 292-----
 Processing stock 6643 for period 2018-07-06 to 2019-02-12
 文件 stockdata/[6643] 2018-07-06-2019-02-12.csv 已包含結束日期 2019-02-12 的數據，跳過 API 請求
 文件 dividend/[6643] 2018-07-06-2019-02-12-dividend.csv 已包含股票代碼 6643 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1721,7 +1729,7 @@ Processing stock 6643 for period 2018-07-06 to 2019-02-12
 文件 company-profile/[6643] 2018-07-06-2019-02-12-company-profile.csv 已包含股票代碼 6643 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6643] 2018-07-06-2019-02-12-financial.csv 已包含股票代碼 6643 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6643] 2018-07-06-2019-02-12-TWSE_TPEX.csv 已包含結束日期 2019-02-12 的數據，跳過 API 請求
------Processed row 215 of 291-----
+-----Processed row 216 of 292-----
 Processing stock 4538 for period 2018-07-11 to 2019-02-04
 Data successfully written to stockdata/[4538] 2018-07-11-2019-02-04.csv
 文件 dividend/[4538] 2018-07-11-2019-02-04-dividend.csv 已包含股票代碼 4538 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1729,7 +1737,7 @@ Data successfully written to PER_PBR/[4538] 2018-07-11-2019-02-04-PER_PBR.csv
 文件 company-profile/[4538] 2018-07-11-2019-02-04-company-profile.csv 已包含股票代碼 4538 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4538] 2018-07-11-2019-02-04-financial.csv 已包含股票代碼 4538 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4538] 2018-07-11-2019-02-04-TWSE_TPEX.csv
------Processed row 216 of 291-----
+-----Processed row 217 of 292-----
 Processing stock 4967 for period 2018-08-21 to 2019-02-01
 Data successfully written to stockdata/[4967] 2018-08-21-2019-02-01.csv
 No data returned for the given parameters on dividend.
@@ -1737,7 +1745,7 @@ Data successfully written to PER_PBR/[4967] 2018-08-21-2019-02-01-PER_PBR.csv
 文件 company-profile/[4967] 2018-08-21-2019-02-01-company-profile.csv 已包含股票代碼 4967 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4967] 2018-08-21-2019-02-01-financial.csv 已包含股票代碼 4967 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[4967] 2018-08-21-2019-02-01-TWSE_TPEX.csv
------Processed row 217 of 291-----
+-----Processed row 218 of 292-----
 Processing stock 6590 for period 2018-07-11 to 2019-01-11
 文件 stockdata/[6590] 2018-07-11-2019-01-11.csv 已包含結束日期 2019-01-11 的數據，跳過 API 請求
 文件 dividend/[6590] 2018-07-11-2019-01-11-dividend.csv 已包含股票代碼 6590 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1745,7 +1753,7 @@ Processing stock 6590 for period 2018-07-11 to 2019-01-11
 文件 company-profile/[6590] 2018-07-11-2019-01-11-company-profile.csv 已包含股票代碼 6590 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6590] 2018-07-11-2019-01-11-financial.csv 已包含股票代碼 6590 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6590] 2018-07-11-2019-01-11-TWSE_TPEX.csv 已包含結束日期 2019-01-11 的數據，跳過 API 請求
------Processed row 218 of 291-----
+-----Processed row 219 of 292-----
 Processing stock 6670 for period 2018-07-02 to 2019-01-07
 文件 stockdata/[6670] 2018-07-02-2019-01-07.csv 已包含結束日期 2019-01-07 的數據，跳過 API 請求
 文件 dividend/[6670] 2018-07-02-2019-01-07-dividend.csv 已包含股票代碼 6670 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1753,7 +1761,7 @@ Processing stock 6670 for period 2018-07-02 to 2019-01-07
 文件 company-profile/[6670] 2018-07-02-2019-01-07-company-profile.csv 已包含股票代碼 6670 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6670] 2018-07-02-2019-01-07-financial.csv 已包含股票代碼 6670 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6670] 2018-07-02-2019-01-07-TWSE_TPEX.csv 已包含結束日期 2019-01-07 的數據，跳過 API 請求
------Processed row 219 of 291-----
+-----Processed row 220 of 292-----
 Processing stock 2070 for period 2018-07-09 to 2019-01-04
 文件 stockdata/[2070] 2018-07-09-2019-01-04.csv 已包含結束日期 2019-01-04 的數據，跳過 API 請求
 文件 dividend/[2070] 2018-07-09-2019-01-04-dividend.csv 已包含股票代碼 2070 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1761,7 +1769,7 @@ Processing stock 2070 for period 2018-07-09 to 2019-01-04
 文件 company-profile/[2070] 2018-07-09-2019-01-04-company-profile.csv 已包含股票代碼 2070 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2070] 2018-07-09-2019-01-04-financial.csv 已包含股票代碼 2070 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2070] 2018-07-09-2019-01-04-TWSE_TPEX.csv 已包含結束日期 2019-01-04 的數據，跳過 API 請求
------Processed row 220 of 291-----
+-----Processed row 221 of 292-----
 Processing stock 6668 for period 2018-08-03 to 2019-01-01
 Data successfully written to stockdata/[6668] 2018-08-03-2019-01-01.csv
 文件 dividend/[6668] 2018-08-03-2019-01-01-dividend.csv 已包含股票代碼 6668 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1769,7 +1777,7 @@ Data successfully written to PER_PBR/[6668] 2018-08-03-2019-01-01-PER_PBR.csv
 文件 company-profile/[6668] 2018-08-03-2019-01-01-company-profile.csv 已包含股票代碼 6668 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6668] 2018-08-03-2019-01-01-financial.csv 已包含股票代碼 6668 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6668] 2018-08-03-2019-01-01-TWSE_TPEX.csv
------Processed row 221 of 291-----
+-----Processed row 222 of 292-----
 Processing stock 6671 for period 2018-06-05 to 2018-12-31
 Data successfully written to stockdata/[6671] 2018-06-05-2018-12-31.csv
 No data returned for the given parameters on dividend.
@@ -1777,7 +1785,7 @@ Data successfully written to PER_PBR/[6671] 2018-06-05-2018-12-31-PER_PBR.csv
 文件 company-profile/[6671] 2018-06-05-2018-12-31-company-profile.csv 已包含股票代碼 6671 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6671] 2018-06-05-2018-12-31-financial.csv 已包含股票代碼 6671 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6671] 2018-06-05-2018-12-31-TWSE_TPEX.csv
------Processed row 222 of 291-----
+-----Processed row 223 of 292-----
 Processing stock 6558 for period 2018-07-09 to 2018-12-25
 文件 stockdata/[6558] 2018-07-09-2018-12-25.csv 已包含結束日期 2018-12-25 的數據，跳過 API 請求
 文件 dividend/[6558] 2018-07-09-2018-12-25-dividend.csv 已包含股票代碼 6558 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1785,7 +1793,7 @@ Processing stock 6558 for period 2018-07-09 to 2018-12-25
 文件 company-profile/[6558] 2018-07-09-2018-12-25-company-profile.csv 已包含股票代碼 6558 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6558] 2018-07-09-2018-12-25-financial.csv 已包含股票代碼 6558 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6558] 2018-07-09-2018-12-25-TWSE_TPEX.csv 已包含結束日期 2018-12-25 的數據，跳過 API 請求
------Processed row 223 of 291-----
+-----Processed row 224 of 292-----
 Processing stock 4766 for period 2018-06-28 to 2018-12-18
 文件 stockdata/[4766] 2018-06-28-2018-12-18.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
 文件 dividend/[4766] 2018-06-28-2018-12-18-dividend.csv 已包含股票代碼 4766 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1793,7 +1801,7 @@ Processing stock 4766 for period 2018-06-28 to 2018-12-18
 文件 company-profile/[4766] 2018-06-28-2018-12-18-company-profile.csv 已包含股票代碼 4766 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4766] 2018-06-28-2018-12-18-financial.csv 已包含股票代碼 4766 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4766] 2018-06-28-2018-12-18-TWSE_TPEX.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
------Processed row 224 of 291-----
+-----Processed row 225 of 292-----
 Processing stock 6674 for period 2018-06-28 to 2018-12-18
 文件 stockdata/[6674] 2018-06-28-2018-12-18.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
 文件 dividend/[6674] 2018-06-28-2018-12-18-dividend.csv 已包含股票代碼 6674 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1801,7 +1809,7 @@ Processing stock 6674 for period 2018-06-28 to 2018-12-18
 文件 company-profile/[6674] 2018-06-28-2018-12-18-company-profile.csv 已包含股票代碼 6674 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6674] 2018-06-28-2018-12-18-financial.csv 已包含股票代碼 6674 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6674] 2018-06-28-2018-12-18-TWSE_TPEX.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
------Processed row 225 of 291-----
+-----Processed row 226 of 292-----
 Processing stock 6655 for period 2018-06-11 to 2018-12-18
 文件 stockdata/[6655] 2018-06-11-2018-12-18.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
 文件 dividend/[6655] 2018-06-11-2018-12-18-dividend.csv 已包含股票代碼 6655 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1809,7 +1817,7 @@ Processing stock 6655 for period 2018-06-11 to 2018-12-18
 文件 company-profile/[6655] 2018-06-11-2018-12-18-company-profile.csv 已包含股票代碼 6655 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6655] 2018-06-11-2018-12-18-financial.csv 已包含股票代碼 6655 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6655] 2018-06-11-2018-12-18-TWSE_TPEX.csv 已包含結束日期 2018-12-18 的數據，跳過 API 請求
------Processed row 226 of 291-----
+-----Processed row 227 of 292-----
 Processing stock 3178 for period 2018-04-06 to 2018-12-07
 文件 stockdata/[3178] 2018-04-06-2018-12-07.csv 已包含結束日期 2018-12-07 的數據，跳過 API 請求
 文件 dividend/[3178] 2018-04-06-2018-12-07-dividend.csv 已包含股票代碼 3178 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1817,7 +1825,7 @@ Processing stock 3178 for period 2018-04-06 to 2018-12-07
 文件 company-profile/[3178] 2018-04-06-2018-12-07-company-profile.csv 已包含股票代碼 3178 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3178] 2018-04-06-2018-12-07-financial.csv 已包含股票代碼 3178 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3178] 2018-04-06-2018-12-07-TWSE_TPEX.csv 已包含結束日期 2018-12-07 的數據，跳過 API 請求
------Processed row 227 of 291-----
+-----Processed row 228 of 292-----
 Processing stock 6667 for period 2018-06-06 to 2018-12-03
 文件 stockdata/[6667] 2018-06-06-2018-12-03.csv 已包含結束日期 2018-12-03 的數據，跳過 API 請求
 文件 dividend/[6667] 2018-06-06-2018-12-03-dividend.csv 已包含股票代碼 6667 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1825,7 +1833,7 @@ Processing stock 6667 for period 2018-06-06 to 2018-12-03
 文件 company-profile/[6667] 2018-06-06-2018-12-03-company-profile.csv 已包含股票代碼 6667 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6667] 2018-06-06-2018-12-03-financial.csv 已包含股票代碼 6667 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6667] 2018-06-06-2018-12-03-TWSE_TPEX.csv 已包含結束日期 2018-12-03 的數據，跳過 API 請求
------Processed row 228 of 291-----
+-----Processed row 229 of 292-----
 Processing stock 4767 for period 2018-05-22 to 2018-11-16
 文件 stockdata/[4767] 2018-05-22-2018-11-16.csv 已包含結束日期 2018-11-16 的數據，跳過 API 請求
 文件 dividend/[4767] 2018-05-22-2018-11-16-dividend.csv 已包含股票代碼 4767 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1833,7 +1841,7 @@ Processing stock 4767 for period 2018-05-22 to 2018-11-16
 文件 company-profile/[4767] 2018-05-22-2018-11-16-company-profile.csv 已包含股票代碼 4767 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4767] 2018-05-22-2018-11-16-financial.csv 已包含股票代碼 4767 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4767] 2018-05-22-2018-11-16-TWSE_TPEX.csv 已包含結束日期 2018-11-16 的數據，跳過 API 請求
------Processed row 229 of 291-----
+-----Processed row 230 of 292-----
 Processing stock 6654 for period 2018-05-15 to 2018-11-12
 文件 stockdata/[6654] 2018-05-15-2018-11-12.csv 已包含結束日期 2018-11-12 的數據，跳過 API 請求
 文件 dividend/[6654] 2018-05-15-2018-11-12-dividend.csv 已包含股票代碼 6654 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1841,7 +1849,7 @@ Processing stock 6654 for period 2018-05-15 to 2018-11-12
 文件 company-profile/[6654] 2018-05-15-2018-11-12-company-profile.csv 已包含股票代碼 6654 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6654] 2018-05-15-2018-11-12-financial.csv 已包含股票代碼 6654 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6654] 2018-05-15-2018-11-12-TWSE_TPEX.csv 已包含結束日期 2018-11-12 的數據，跳過 API 請求
------Processed row 230 of 291-----
+-----Processed row 231 of 292-----
 Processing stock 6640 for period 2018-06-15 to 2018-11-12
 文件 stockdata/[6640] 2018-06-15-2018-11-12.csv 已包含結束日期 2018-11-12 的數據，跳過 API 請求
 文件 dividend/[6640] 2018-06-15-2018-11-12-dividend.csv 已包含股票代碼 6640 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1849,7 +1857,7 @@ Processing stock 6640 for period 2018-06-15 to 2018-11-12
 文件 company-profile/[6640] 2018-06-15-2018-11-12-company-profile.csv 已包含股票代碼 6640 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6640] 2018-06-15-2018-11-12-financial.csv 已包含股票代碼 6640 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6640] 2018-06-15-2018-11-12-TWSE_TPEX.csv 已包含結束日期 2018-11-12 的數據，跳過 API 請求
------Processed row 231 of 291-----
+-----Processed row 232 of 292-----
 Processing stock 5876 for period 2018-04-06 to 2018-11-08
 文件 stockdata/[5876] 2018-04-06-2018-11-08.csv 已包含結束日期 2018-11-08 的數據，跳過 API 請求
 文件 dividend/[5876] 2018-04-06-2018-11-08-dividend.csv 已包含股票代碼 5876 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1857,7 +1865,7 @@ Processing stock 5876 for period 2018-04-06 to 2018-11-08
 文件 company-profile/[5876] 2018-04-06-2018-11-08-company-profile.csv 已包含股票代碼 5876 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5876] 2018-04-06-2018-11-08-financial.csv 已包含股票代碼 5876 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5876] 2018-04-06-2018-11-08-TWSE_TPEX.csv 已包含結束日期 2018-11-08 的數據，跳過 API 請求
------Processed row 232 of 291-----
+-----Processed row 233 of 292-----
 Processing stock 4961 for period 2018-06-14 to 2018-11-06
 文件 stockdata/[4961] 2018-06-14-2018-11-06.csv 已包含結束日期 2018-11-06 的數據，跳過 API 請求
 文件 dividend/[4961] 2018-06-14-2018-11-06-dividend.csv 已包含股票代碼 4961 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1865,7 +1873,7 @@ Processing stock 4961 for period 2018-06-14 to 2018-11-06
 文件 company-profile/[4961] 2018-06-14-2018-11-06-company-profile.csv 已包含股票代碼 4961 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4961] 2018-06-14-2018-11-06-financial.csv 已包含股票代碼 4961 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4961] 2018-06-14-2018-11-06-TWSE_TPEX.csv 已包含結束日期 2018-11-06 的數據，跳過 API 請求
------Processed row 233 of 291-----
+-----Processed row 234 of 292-----
 Processing stock 4568 for period 2018-05-10 to 2018-10-23
 文件 stockdata/[4568] 2018-05-10-2018-10-23.csv 已包含結束日期 2018-10-23 的數據，跳過 API 請求
 文件 dividend/[4568] 2018-05-10-2018-10-23-dividend.csv 已包含股票代碼 4568 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1873,7 +1881,7 @@ Processing stock 4568 for period 2018-05-10 to 2018-10-23
 文件 company-profile/[4568] 2018-05-10-2018-10-23-company-profile.csv 已包含股票代碼 4568 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4568] 2018-05-10-2018-10-23-financial.csv 已包含股票代碼 4568 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4568] 2018-05-10-2018-10-23-TWSE_TPEX.csv 已包含結束日期 2018-10-23 的數據，跳過 API 請求
------Processed row 234 of 291-----
+-----Processed row 235 of 292-----
 Processing stock 6578 for period 2018-03-21 to 2018-10-08
 文件 stockdata/[6578] 2018-03-21-2018-10-08.csv 已包含結束日期 2018-10-08 的數據，跳過 API 請求
 文件 dividend/[6578] 2018-03-21-2018-10-08-dividend.csv 已包含股票代碼 6578 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1881,7 +1889,7 @@ Processing stock 6578 for period 2018-03-21 to 2018-10-08
 文件 company-profile/[6578] 2018-03-21-2018-10-08-company-profile.csv 已包含股票代碼 6578 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6578] 2018-03-21-2018-10-08-financial.csv 已包含股票代碼 6578 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6578] 2018-03-21-2018-10-08-TWSE_TPEX.csv 已包含結束日期 2018-10-08 的數據，跳過 API 請求
------Processed row 235 of 291-----
+-----Processed row 236 of 292-----
 Processing stock 6664 for period 2018-04-06 to 2018-10-02
 文件 stockdata/[6664] 2018-04-06-2018-10-02.csv 已包含結束日期 2018-10-02 的數據，跳過 API 請求
 文件 dividend/[6664] 2018-04-06-2018-10-02-dividend.csv 已包含股票代碼 6664 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1889,7 +1897,7 @@ Processing stock 6664 for period 2018-04-06 to 2018-10-02
 文件 company-profile/[6664] 2018-04-06-2018-10-02-company-profile.csv 已包含股票代碼 6664 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6664] 2018-04-06-2018-10-02-financial.csv 已包含股票代碼 6664 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6664] 2018-04-06-2018-10-02-TWSE_TPEX.csv 已包含結束日期 2018-10-02 的數據，跳過 API 請求
------Processed row 236 of 291-----
+-----Processed row 237 of 292-----
 Processing stock 8367 for period 2018-03-27 to 2018-10-02
 文件 stockdata/[8367] 2018-03-27-2018-10-02.csv 已包含結束日期 2018-10-02 的數據，跳過 API 請求
 文件 dividend/[8367] 2018-03-27-2018-10-02-dividend.csv 已包含股票代碼 8367 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1897,7 +1905,7 @@ Processing stock 8367 for period 2018-03-27 to 2018-10-02
 文件 company-profile/[8367] 2018-03-27-2018-10-02-company-profile.csv 已包含股票代碼 8367 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8367] 2018-03-27-2018-10-02-financial.csv 已包含股票代碼 8367 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8367] 2018-03-27-2018-10-02-TWSE_TPEX.csv 已包含結束日期 2018-10-02 的數據，跳過 API 請求
------Processed row 237 of 291-----
+-----Processed row 238 of 292-----
 Processing stock 4540 for period 2018-04-06 to 2018-09-04
 文件 stockdata/[4540] 2018-04-06-2018-09-04.csv 已包含結束日期 2018-09-04 的數據，跳過 API 請求
 文件 dividend/[4540] 2018-04-06-2018-09-04-dividend.csv 已包含股票代碼 4540 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1905,7 +1913,7 @@ Processing stock 4540 for period 2018-04-06 to 2018-09-04
 文件 company-profile/[4540] 2018-04-06-2018-09-04-company-profile.csv 已包含股票代碼 4540 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4540] 2018-04-06-2018-09-04-financial.csv 已包含股票代碼 4540 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4540] 2018-04-06-2018-09-04-TWSE_TPEX.csv 已包含結束日期 2018-09-04 的數據，跳過 API 請求
------Processed row 238 of 291-----
+-----Processed row 239 of 292-----
 Processing stock 1240 for period 2018-03-06 to 2018-08-28
 文件 stockdata/[1240] 2018-03-06-2018-08-28.csv 已包含結束日期 2018-08-28 的數據，跳過 API 請求
 文件 dividend/[1240] 2018-03-06-2018-08-28-dividend.csv 已包含股票代碼 1240 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1913,7 +1921,7 @@ Processing stock 1240 for period 2018-03-06 to 2018-08-28
 文件 company-profile/[1240] 2018-03-06-2018-08-28-company-profile.csv 已包含股票代碼 1240 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1240] 2018-03-06-2018-08-28-financial.csv 已包含股票代碼 1240 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1240] 2018-03-06-2018-08-28-TWSE_TPEX.csv 已包含結束日期 2018-08-28 的數據，跳過 API 請求
------Processed row 239 of 291-----
+-----Processed row 240 of 292-----
 Processing stock 6612 for period 2017-12-04 to 2018-08-07
 文件 stockdata/[6612] 2017-12-04-2018-08-07.csv 已包含結束日期 2018-08-07 的數據，跳過 API 請求
 文件 dividend/[6612] 2017-12-04-2018-08-07-dividend.csv 已包含股票代碼 6612 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1921,7 +1929,7 @@ Processing stock 6612 for period 2017-12-04 to 2018-08-07
 文件 company-profile/[6612] 2017-12-04-2018-08-07-company-profile.csv 已包含股票代碼 6612 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6612] 2017-12-04-2018-08-07-financial.csv 已包含股票代碼 6612 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6612] 2017-12-04-2018-08-07-TWSE_TPEX.csv 已包含結束日期 2018-08-07 的數據，跳過 API 請求
------Processed row 240 of 291-----
+-----Processed row 241 of 292-----
 Processing stock 3530 for period 2017-12-08 to 2018-08-03
 文件 stockdata/[3530] 2017-12-08-2018-08-03.csv 已包含結束日期 2018-08-03 的數據，跳過 API 請求
 文件 dividend/[3530] 2017-12-08-2018-08-03-dividend.csv 已包含股票代碼 3530 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1929,7 +1937,7 @@ Processing stock 3530 for period 2017-12-08 to 2018-08-03
 文件 company-profile/[3530] 2017-12-08-2018-08-03-company-profile.csv 已包含股票代碼 3530 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3530] 2017-12-08-2018-08-03-financial.csv 已包含股票代碼 3530 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3530] 2017-12-08-2018-08-03-TWSE_TPEX.csv 已包含結束日期 2018-08-03 的數據，跳過 API 請求
------Processed row 241 of 291-----
+-----Processed row 242 of 292-----
 Processing stock 4744 for period 2018-02-07 to 2018-08-01
 文件 stockdata/[4744] 2018-02-07-2018-08-01.csv 已包含結束日期 2018-08-01 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1937,7 +1945,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4744] 2018-02-07-2018-08-01-company-profile.csv 已包含股票代碼 4744 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4744] 2018-02-07-2018-08-01-financial.csv 已包含股票代碼 4744 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4744] 2018-02-07-2018-08-01-TWSE_TPEX.csv 已包含結束日期 2018-08-01 的數據，跳過 API 請求
------Processed row 242 of 291-----
+-----Processed row 243 of 292-----
 Processing stock 4563 for period 2017-12-04 to 2018-08-01
 文件 stockdata/[4563] 2017-12-04-2018-08-01.csv 已包含結束日期 2018-08-01 的數據，跳過 API 請求
 文件 dividend/[4563] 2017-12-04-2018-08-01-dividend.csv 已包含股票代碼 4563 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1945,7 +1953,7 @@ Processing stock 4563 for period 2017-12-04 to 2018-08-01
 文件 company-profile/[4563] 2017-12-04-2018-08-01-company-profile.csv 已包含股票代碼 4563 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4563] 2017-12-04-2018-08-01-financial.csv 已包含股票代碼 4563 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4563] 2017-12-04-2018-08-01-TWSE_TPEX.csv 已包含結束日期 2018-08-01 的數據，跳過 API 請求
------Processed row 243 of 291-----
+-----Processed row 244 of 292-----
 Processing stock 8028 for period 2017-12-08 to 2018-07-30
 文件 stockdata/[8028] 2017-12-08-2018-07-30.csv 已包含結束日期 2018-07-30 的數據，跳過 API 請求
 文件 dividend/[8028] 2017-12-08-2018-07-30-dividend.csv 已包含股票代碼 8028 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -1953,7 +1961,7 @@ Processing stock 8028 for period 2017-12-08 to 2018-07-30
 文件 company-profile/[8028] 2017-12-08-2018-07-30-company-profile.csv 已包含股票代碼 8028 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8028] 2017-12-08-2018-07-30-financial.csv 已包含股票代碼 8028 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8028] 2017-12-08-2018-07-30-TWSE_TPEX.csv 已包含結束日期 2018-07-30 的數據，跳過 API 請求
------Processed row 244 of 291-----
+-----Processed row 245 of 292-----
 Processing stock 6576 for period 2017-08-15 to 2018-07-19
 文件 stockdata/[6576] 2017-08-15-2018-07-19.csv 已包含結束日期 2018-07-19 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1961,7 +1969,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6576] 2017-08-15-2018-07-19-company-profile.csv 已包含股票代碼 6576 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6576] 2017-08-15-2018-07-19-financial.csv 已包含股票代碼 6576 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6576] 2017-08-15-2018-07-19-TWSE_TPEX.csv 已包含結束日期 2018-07-19 的數據，跳過 API 請求
------Processed row 245 of 291-----
+-----Processed row 246 of 292-----
 Processing stock 4989 for period 2017-12-07 to 2018-07-18
 文件 stockdata/[4989] 2017-12-07-2018-07-18.csv 已包含結束日期 2018-07-18 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1969,7 +1977,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4989] 2017-12-07-2018-07-18-company-profile.csv 已包含股票代碼 4989 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4989] 2017-12-07-2018-07-18-financial.csv 已包含股票代碼 4989 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4989] 2017-12-07-2018-07-18-TWSE_TPEX.csv 已包含結束日期 2018-07-18 的數據，跳過 API 請求
------Processed row 246 of 291-----
+-----Processed row 247 of 292-----
 Processing stock 4561 for period 2017-11-08 to 2018-06-29
 文件 stockdata/[4561] 2017-11-08-2018-06-29.csv 已包含結束日期 2018-06-29 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1977,7 +1985,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4561] 2017-11-08-2018-06-29-company-profile.csv 已包含股票代碼 4561 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4561] 2017-11-08-2018-06-29-financial.csv 已包含股票代碼 4561 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4561] 2017-11-08-2018-06-29-TWSE_TPEX.csv 已包含結束日期 2018-06-29 的數據，跳過 API 請求
------Processed row 247 of 291-----
+-----Processed row 248 of 292-----
 Processing stock 6561 for period 2017-12-11 to 2018-06-25
 文件 stockdata/[6561] 2017-12-11-2018-06-25.csv 已包含結束日期 2018-06-25 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -1985,7 +1993,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6561] 2017-12-11-2018-06-25-company-profile.csv 已包含股票代碼 6561 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6561] 2017-12-11-2018-06-25-financial.csv 已包含股票代碼 6561 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6561] 2017-12-11-2018-06-25-TWSE_TPEX.csv 已包含結束日期 2018-06-25 的數據，跳過 API 請求
------Processed row 248 of 291-----
+-----Processed row 249 of 292-----
 Processing stock 3147 for period 2017-12-08 to 2018-06-18
 Data successfully written to stockdata/[3147] 2017-12-08-2018-06-18.csv
 No data returned for the given parameters on dividend.
@@ -1993,7 +2001,7 @@ Data successfully written to PER_PBR/[3147] 2017-12-08-2018-06-18-PER_PBR.csv
 文件 company-profile/[3147] 2017-12-08-2018-06-18-company-profile.csv 已包含股票代碼 3147 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[3147] 2017-12-08-2018-06-18-financial.csv 已包含股票代碼 3147 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[3147] 2017-12-08-2018-06-18-TWSE_TPEX.csv
------Processed row 249 of 291-----
+-----Processed row 250 of 292-----
 Processing stock 6288 for period 2017-08-15 to 2018-05-29
 文件 stockdata/[6288] 2017-08-15-2018-05-29.csv 已包含結束日期 2018-05-29 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2001,7 +2009,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6288] 2017-08-15-2018-05-29-company-profile.csv 已包含股票代碼 6288 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6288] 2017-08-15-2018-05-29-financial.csv 已包含股票代碼 6288 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6288] 2017-08-15-2018-05-29-TWSE_TPEX.csv 已包含結束日期 2018-05-29 的數據，跳過 API 請求
------Processed row 250 of 291-----
+-----Processed row 251 of 292-----
 Processing stock 5220 for period 2017-09-29 to 2018-05-16
 文件 stockdata/[5220] 2017-09-29-2018-05-16.csv 已包含結束日期 2018-05-16 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2009,7 +2017,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[5220] 2017-09-29-2018-05-16-company-profile.csv 已包含股票代碼 5220 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5220] 2017-09-29-2018-05-16-financial.csv 已包含股票代碼 5220 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5220] 2017-09-29-2018-05-16-TWSE_TPEX.csv 已包含結束日期 2018-05-16 的數據，跳過 API 請求
------Processed row 251 of 291-----
+-----Processed row 252 of 292-----
 Processing stock 1587 for period 2017-09-06 to 2018-05-04
 文件 stockdata/[1587] 2017-09-06-2018-05-04.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2017,7 +2025,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[1587] 2017-09-06-2018-05-04-company-profile.csv 已包含股票代碼 1587 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1587] 2017-09-06-2018-05-04-financial.csv 已包含股票代碼 1587 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1587] 2017-09-06-2018-05-04-TWSE_TPEX.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
------Processed row 252 of 291-----
+-----Processed row 253 of 292-----
 Processing stock 6416 for period 2017-11-10 to 2018-05-04
 文件 stockdata/[6416] 2017-11-10-2018-05-04.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2025,7 +2033,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6416] 2017-11-10-2018-05-04-company-profile.csv 已包含股票代碼 6416 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6416] 2017-11-10-2018-05-04-financial.csv 已包含股票代碼 6416 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6416] 2017-11-10-2018-05-04-TWSE_TPEX.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
------Processed row 253 of 291-----
+-----Processed row 254 of 292-----
 Processing stock 2745 for period 2017-09-26 to 2018-05-04
 文件 stockdata/[2745] 2017-09-26-2018-05-04.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2033,7 +2041,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2745] 2017-09-26-2018-05-04-company-profile.csv 已包含股票代碼 2745 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2745] 2017-09-26-2018-05-04-financial.csv 已包含股票代碼 2745 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2745] 2017-09-26-2018-05-04-TWSE_TPEX.csv 已包含結束日期 2018-05-04 的數據，跳過 API 請求
------Processed row 254 of 291-----
+-----Processed row 255 of 292-----
 Processing stock 6547 for period 2017-07-28 to 2018-05-07
 文件 stockdata/[6547] 2017-07-28-2018-05-07.csv 已包含結束日期 2018-05-07 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2041,7 +2049,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6547] 2017-07-28-2018-05-07-company-profile.csv 已包含股票代碼 6547 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6547] 2017-07-28-2018-05-07-financial.csv 已包含股票代碼 6547 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6547] 2017-07-28-2018-05-07-TWSE_TPEX.csv 已包含結束日期 2018-05-07 的數據，跳過 API 請求
------Processed row 255 of 291-----
+-----Processed row 256 of 292-----
 Processing stock 5864 for period 2017-09-28 to 2018-04-20
 文件 stockdata/[5864] 2017-09-28-2018-04-20.csv 已包含結束日期 2018-04-20 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2049,7 +2057,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[5864] 2017-09-28-2018-04-20-company-profile.csv 已包含股票代碼 5864 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5864] 2017-09-28-2018-04-20-financial.csv 已包含股票代碼 5864 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5864] 2017-09-28-2018-04-20-TWSE_TPEX.csv 已包含結束日期 2018-04-20 的數據，跳過 API 請求
------Processed row 256 of 291-----
+-----Processed row 257 of 292-----
 Processing stock 8440 for period 2017-09-01 to 2018-04-17
 文件 stockdata/[8440] 2017-09-01-2018-04-17.csv 已包含結束日期 2018-04-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2057,7 +2065,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8440] 2017-09-01-2018-04-17-company-profile.csv 已包含股票代碼 8440 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8440] 2017-09-01-2018-04-17-financial.csv 已包含股票代碼 8440 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8440] 2017-09-01-2018-04-17-TWSE_TPEX.csv 已包含結束日期 2018-04-17 的數據，跳過 API 請求
------Processed row 257 of 291-----
+-----Processed row 258 of 292-----
 Processing stock 6461 for period 2017-07-26 to 2018-04-17
 文件 stockdata/[6461] 2017-07-26-2018-04-17.csv 已包含結束日期 2018-04-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2065,7 +2073,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6461] 2017-07-26-2018-04-17-company-profile.csv 已包含股票代碼 6461 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6461] 2017-07-26-2018-04-17-financial.csv 已包含股票代碼 6461 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6461] 2017-07-26-2018-04-17-TWSE_TPEX.csv 已包含結束日期 2018-04-17 的數據，跳過 API 請求
------Processed row 258 of 291-----
+-----Processed row 259 of 292-----
 Processing stock 8497 for period 2017-07-11 to 2018-04-12
 文件 stockdata/[8497] 2017-07-11-2018-04-12.csv 已包含結束日期 2018-04-12 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2073,7 +2081,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8497] 2017-07-11-2018-04-12-company-profile.csv 已包含股票代碼 8497 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8497] 2017-07-11-2018-04-12-financial.csv 已包含股票代碼 8497 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8497] 2017-07-11-2018-04-12-TWSE_TPEX.csv 已包含結束日期 2018-04-12 的數據，跳過 API 請求
------Processed row 259 of 291-----
+-----Processed row 260 of 292-----
 Processing stock 2630 for period 2017-09-07 to 2018-03-14
 文件 stockdata/[2630] 2017-09-07-2018-03-14.csv 已包含結束日期 2018-03-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2081,7 +2089,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2630] 2017-09-07-2018-03-14-company-profile.csv 已包含股票代碼 2630 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2630] 2017-09-07-2018-03-14-financial.csv 已包含股票代碼 2630 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2630] 2017-09-07-2018-03-14-TWSE_TPEX.csv 已包含結束日期 2018-03-14 的數據，跳過 API 請求
------Processed row 260 of 291-----
+-----Processed row 261 of 292-----
 Processing stock 6625 for period 2017-09-12 to 2018-02-27
 文件 stockdata/[6625] 2017-09-12-2018-02-27.csv 已包含結束日期 2018-02-27 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2089,7 +2097,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6625] 2017-09-12-2018-02-27-company-profile.csv 已包含股票代碼 6625 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6625] 2017-09-12-2018-02-27-financial.csv 已包含股票代碼 6625 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6625] 2017-09-12-2018-02-27-TWSE_TPEX.csv 已包含結束日期 2018-02-27 的數據，跳過 API 請求
------Processed row 261 of 291-----
+-----Processed row 262 of 292-----
 Processing stock 4566 for period 2017-09-15 to 2018-02-23
 文件 stockdata/[4566] 2017-09-15-2018-02-23.csv 已包含結束日期 2018-02-23 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2097,7 +2105,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[4566] 2017-09-15-2018-02-23-company-profile.csv 已包含股票代碼 4566 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4566] 2017-09-15-2018-02-23-financial.csv 已包含股票代碼 4566 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4566] 2017-09-15-2018-02-23-TWSE_TPEX.csv 已包含結束日期 2018-02-23 的數據，跳過 API 請求
------Processed row 262 of 291-----
+-----Processed row 263 of 292-----
 Processing stock 6581 for period 2017-07-10 to 2018-02-19
 Data successfully written to stockdata/[6581] 2017-07-10-2018-02-19.csv
 No data returned for the given parameters on dividend.
@@ -2105,7 +2113,7 @@ Data successfully written to PER_PBR/[6581] 2017-07-10-2018-02-19-PER_PBR.csv
 文件 company-profile/[6581] 2017-07-10-2018-02-19-company-profile.csv 已包含股票代碼 6581 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6581] 2017-07-10-2018-02-19-financial.csv 已包含股票代碼 6581 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 Data successfully written to TWSE_TPEX/[6581] 2017-07-10-2018-02-19-TWSE_TPEX.csv
------Processed row 263 of 291-----
+-----Processed row 264 of 292-----
 Processing stock 1760 for period 2017-08-03 to 2018-02-12
 文件 stockdata/[1760] 2017-08-03-2018-02-12.csv 已包含結束日期 2018-02-12 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2113,7 +2121,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[1760] 2017-08-03-2018-02-12-company-profile.csv 已包含股票代碼 1760 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1760] 2017-08-03-2018-02-12-financial.csv 已包含股票代碼 1760 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1760] 2017-08-03-2018-02-12-TWSE_TPEX.csv 已包含結束日期 2018-02-12 的數據，跳過 API 請求
------Processed row 264 of 291-----
+-----Processed row 265 of 292-----
 Processing stock 5299 for period 2017-08-15 to 2018-02-12
 文件 stockdata/[5299] 2017-08-15-2018-02-12.csv 已包含結束日期 2018-02-12 的數據，跳過 API 請求
 文件 dividend/[5299] 2017-08-15-2018-02-12-dividend.csv 已包含股票代碼 5299 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2121,7 +2129,7 @@ Processing stock 5299 for period 2017-08-15 to 2018-02-12
 文件 company-profile/[5299] 2017-08-15-2018-02-12-company-profile.csv 已包含股票代碼 5299 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[5299] 2017-08-15-2018-02-12-financial.csv 已包含股票代碼 5299 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[5299] 2017-08-15-2018-02-12-TWSE_TPEX.csv 已包含結束日期 2018-02-12 的數據，跳過 API 請求
------Processed row 265 of 291-----
+-----Processed row 266 of 292-----
 Processing stock 1796 for period 2017-04-10 to 2018-02-09
 文件 stockdata/[1796] 2017-04-10-2018-02-09.csv 已包含結束日期 2018-02-09 的數據，跳過 API 請求
 文件 dividend/[1796] 2017-04-10-2018-02-09-dividend.csv 已包含股票代碼 1796 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2129,7 +2137,7 @@ Processing stock 1796 for period 2017-04-10 to 2018-02-09
 文件 company-profile/[1796] 2017-04-10-2018-02-09-company-profile.csv 已包含股票代碼 1796 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1796] 2017-04-10-2018-02-09-financial.csv 已包含股票代碼 1796 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1796] 2017-04-10-2018-02-09-TWSE_TPEX.csv 已包含結束日期 2018-02-09 的數據，跳過 API 請求
------Processed row 266 of 291-----
+-----Processed row 267 of 292-----
 Processing stock 6596 for period 2017-06-21 to 2018-01-24
 文件 stockdata/[6596] 2017-06-21-2018-01-24.csv 已包含結束日期 2018-01-24 的數據，跳過 API 請求
 文件 dividend/[6596] 2017-06-21-2018-01-24-dividend.csv 已包含股票代碼 6596 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2137,7 +2145,7 @@ Processing stock 6596 for period 2017-06-21 to 2018-01-24
 文件 company-profile/[6596] 2017-06-21-2018-01-24-company-profile.csv 已包含股票代碼 6596 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6596] 2017-06-21-2018-01-24-financial.csv 已包含股票代碼 6596 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6596] 2017-06-21-2018-01-24-TWSE_TPEX.csv 已包含結束日期 2018-01-24 的數據，跳過 API 請求
------Processed row 267 of 291-----
+-----Processed row 268 of 292-----
 Processing stock 4764 for period 2017-07-07 to 2018-01-24
 文件 stockdata/[4764] 2017-07-07-2018-01-24.csv 已包含結束日期 2018-01-24 的數據，跳過 API 請求
 文件 dividend/[4764] 2017-07-07-2018-01-24-dividend.csv 已包含股票代碼 4764 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2145,7 +2153,7 @@ Processing stock 4764 for period 2017-07-07 to 2018-01-24
 文件 company-profile/[4764] 2017-07-07-2018-01-24-company-profile.csv 已包含股票代碼 4764 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4764] 2017-07-07-2018-01-24-financial.csv 已包含股票代碼 4764 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4764] 2017-07-07-2018-01-24-TWSE_TPEX.csv 已包含結束日期 2018-01-24 的數據，跳過 API 請求
------Processed row 268 of 291-----
+-----Processed row 269 of 292-----
 Processing stock 6613 for period 2017-07-06 to 2018-01-17
 文件 stockdata/[6613] 2017-07-06-2018-01-17.csv 已包含結束日期 2018-01-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2153,7 +2161,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6613] 2017-07-06-2018-01-17-company-profile.csv 已包含股票代碼 6613 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6613] 2017-07-06-2018-01-17-financial.csv 已包含股票代碼 6613 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6613] 2017-07-06-2018-01-17-TWSE_TPEX.csv 已包含結束日期 2018-01-17 的數據，跳過 API 請求
------Processed row 269 of 291-----
+-----Processed row 270 of 292-----
 Processing stock 6570 for period 2017-06-26 to 2017-12-29
 文件 stockdata/[6570] 2017-06-26-2017-12-29.csv 已包含結束日期 2017-12-29 的數據，跳過 API 請求
 文件 dividend/[6570] 2017-06-26-2017-12-29-dividend.csv 已包含股票代碼 6570 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2161,7 +2169,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[6570] 2017-06-26-2017-12-29-company-profile.csv 已包含股票代碼 6570 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6570] 2017-06-26-2017-12-29-financial.csv 已包含股票代碼 6570 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6570] 2017-06-26-2017-12-29-TWSE_TPEX.csv 已包含結束日期 2017-12-29 的數據，跳過 API 請求
------Processed row 270 of 291-----
+-----Processed row 271 of 292-----
 Processing stock 8478 for period 2017-07-06 to 2017-12-29
 文件 stockdata/[8478] 2017-07-06-2017-12-29.csv 已包含結束日期 2017-12-29 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2169,7 +2177,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[8478] 2017-07-06-2017-12-29-company-profile.csv 已包含股票代碼 8478 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8478] 2017-07-06-2017-12-29-financial.csv 已包含股票代碼 8478 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8478] 2017-07-06-2017-12-29-TWSE_TPEX.csv 已包含結束日期 2017-12-29 的數據，跳過 API 請求
------Processed row 271 of 291-----
+-----Processed row 272 of 292-----
 Processing stock 4155 for period 2017-03-09 to 2017-12-25
 文件 stockdata/[4155] 2017-03-09-2017-12-25.csv 已包含結束日期 2017-12-25 的數據，跳過 API 請求
 文件 dividend/[4155] 2017-03-09-2017-12-25-dividend.csv 已包含股票代碼 4155 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2177,7 +2185,7 @@ Processing stock 4155 for period 2017-03-09 to 2017-12-25
 文件 company-profile/[4155] 2017-03-09-2017-12-25-company-profile.csv 已包含股票代碼 4155 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4155] 2017-03-09-2017-12-25-financial.csv 已包含股票代碼 4155 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4155] 2017-03-09-2017-12-25-TWSE_TPEX.csv 已包含結束日期 2017-12-25 的數據，跳過 API 請求
------Processed row 272 of 291-----
+-----Processed row 273 of 292-----
 Processing stock 8342 for period 2017-02-24 to 2017-12-13
 文件 stockdata/[8342] 2017-02-24-2017-12-13.csv 已包含結束日期 2017-12-13 的數據，跳過 API 請求
 文件 dividend/[8342] 2017-02-24-2017-12-13-dividend.csv 已包含股票代碼 8342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2185,7 +2193,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[8342] 2017-02-24-2017-12-13-company-profile.csv 已包含股票代碼 8342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[8342] 2017-02-24-2017-12-13-financial.csv 已包含股票代碼 8342 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[8342] 2017-02-24-2017-12-13-TWSE_TPEX.csv 已包含結束日期 2017-12-13 的數據，跳過 API 請求
------Processed row 273 of 291-----
+-----Processed row 274 of 292-----
 Processing stock 6593 for period 2017-04-05 to 2017-11-23
 文件 stockdata/[6593] 2017-04-05-2017-11-23.csv 已包含結束日期 2017-11-23 的數據，跳過 API 請求
 文件 dividend/[6593] 2017-04-05-2017-11-23-dividend.csv 已包含股票代碼 6593 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2193,7 +2201,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[6593] 2017-04-05-2017-11-23-company-profile.csv 已包含股票代碼 6593 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6593] 2017-04-05-2017-11-23-financial.csv 已包含股票代碼 6593 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6593] 2017-04-05-2017-11-23-TWSE_TPEX.csv 已包含結束日期 2017-11-23 的數據，跳過 API 請求
------Processed row 274 of 291-----
+-----Processed row 275 of 292-----
 Processing stock 6556 for period 2016-12-08 to 2017-11-20
 文件 stockdata/[6556] 2016-12-08-2017-11-20.csv 已包含結束日期 2017-11-20 的數據，跳過 API 請求
 文件 dividend/[6556] 2016-12-08-2017-11-20-dividend.csv 已包含股票代碼 6556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2201,7 +2209,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[6556] 2016-12-08-2017-11-20-company-profile.csv 已包含股票代碼 6556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6556] 2016-12-08-2017-11-20-financial.csv 已包含股票代碼 6556 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6556] 2016-12-08-2017-11-20-TWSE_TPEX.csv 已包含結束日期 2017-11-20 的數據，跳過 API 請求
------Processed row 275 of 291-----
+-----Processed row 276 of 292-----
 Processing stock 1268 for period 2017-03-13 to 2017-10-17
 文件 stockdata/[1268] 2017-03-13-2017-10-17.csv 已包含結束日期 2017-10-17 的數據，跳過 API 請求
 文件 dividend/[1268] 2017-03-13-2017-10-17-dividend.csv 已包含股票代碼 1268 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2209,7 +2217,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[1268] 2017-03-13-2017-10-17-company-profile.csv 已包含股票代碼 1268 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[1268] 2017-03-13-2017-10-17-financial.csv 已包含股票代碼 1268 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[1268] 2017-03-13-2017-10-17-TWSE_TPEX.csv 已包含結束日期 2017-10-17 的數據，跳過 API 請求
------Processed row 276 of 291-----
+-----Processed row 277 of 292-----
 Processing stock 6441 for period 2017-04-05 to 2017-10-17
 文件 stockdata/[6441] 2017-04-05-2017-10-17.csv 已包含結束日期 2017-10-17 的數據，跳過 API 請求
 文件 dividend/[6441] 2017-04-05-2017-10-17-dividend.csv 已包含股票代碼 6441 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2217,7 +2225,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[6441] 2017-04-05-2017-10-17-company-profile.csv 已包含股票代碼 6441 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6441] 2017-04-05-2017-10-17-financial.csv 已包含股票代碼 6441 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6441] 2017-04-05-2017-10-17-TWSE_TPEX.csv 已包含結束日期 2017-10-17 的數據，跳過 API 請求
------Processed row 277 of 291-----
+-----Processed row 278 of 292-----
 Processing stock 4741 for period 2017-02-24 to 2017-10-16
 文件 stockdata/[4741] 2017-02-24-2017-10-16.csv 已包含結束日期 2017-10-16 的數據，跳過 API 請求
 文件 dividend/[4741] 2017-02-24-2017-10-16-dividend.csv 已包含股票代碼 4741 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2225,7 +2233,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[4741] 2017-02-24-2017-10-16-company-profile.csv 已包含股票代碼 4741 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4741] 2017-02-24-2017-10-16-financial.csv 已包含股票代碼 4741 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4741] 2017-02-24-2017-10-16-TWSE_TPEX.csv 已包含結束日期 2017-10-16 的數據，跳過 API 請求
------Processed row 278 of 291-----
+-----Processed row 279 of 292-----
 Processing stock 6574 for period 2017-03-10 to 2017-09-22
 文件 stockdata/[6574] 2017-03-10-2017-09-22.csv 已包含結束日期 2017-09-22 的數據，跳過 API 請求
 文件 dividend/[6574] 2017-03-10-2017-09-22-dividend.csv 已包含股票代碼 6574 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2233,7 +2241,7 @@ No data returned for the given parameters on PER_PBR.
 文件 company-profile/[6574] 2017-03-10-2017-09-22-company-profile.csv 已包含股票代碼 6574 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6574] 2017-03-10-2017-09-22-financial.csv 已包含股票代碼 6574 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6574] 2017-03-10-2017-09-22-TWSE_TPEX.csv 已包含結束日期 2017-09-22 的數據，跳過 API 請求
------Processed row 279 of 291-----
+-----Processed row 280 of 292-----
 Processing stock 4562 for period 2017-03-20 to 2017-09-08
 文件 stockdata/[4562] 2017-03-20-2017-09-08.csv 已包含結束日期 2017-09-08 的數據，跳過 API 請求
 文件 dividend/[4562] 2017-03-20-2017-09-08-dividend.csv 已包含股票代碼 4562 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
@@ -2241,7 +2249,7 @@ Processing stock 4562 for period 2017-03-20 to 2017-09-08
 文件 company-profile/[4562] 2017-03-20-2017-09-08-company-profile.csv 已包含股票代碼 4562 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[4562] 2017-03-20-2017-09-08-financial.csv 已包含股票代碼 4562 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4562] 2017-03-20-2017-09-08-TWSE_TPEX.csv 已包含結束日期 2017-09-08 的數據，跳過 API 請求
------Processed row 280 of 291-----
+-----Processed row 281 of 292-----
 Processing stock 6579 for period 2017-04-03 to 2017-09-08
 文件 stockdata/[6579] 2017-04-03-2017-09-08.csv 已包含結束日期 2017-09-08 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2249,7 +2257,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6579] 2017-04-03-2017-09-08-company-profile.csv 已包含股票代碼 6579 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6579] 2017-04-03-2017-09-08-financial.csv 已包含股票代碼 6579 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6579] 2017-04-03-2017-09-08-TWSE_TPEX.csv 已包含結束日期 2017-09-08 的數據，跳過 API 請求
------Processed row 281 of 291-----
+-----Processed row 282 of 292-----
 Processing stock 6582 for period 2016-12-12 to 2017-07-04
 文件 stockdata/[6582] 2016-12-12-2017-07-04.csv 已包含結束日期 2017-07-04 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2257,7 +2265,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[6582] 2016-12-12-2017-07-04-company-profile.csv 已包含股票代碼 6582 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6582] 2016-12-12-2017-07-04-financial.csv 已包含股票代碼 6582 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6582] 2016-12-12-2017-07-04-TWSE_TPEX.csv 已包含結束日期 2017-07-04 的數據，跳過 API 請求
------Processed row 282 of 291-----
+-----Processed row 283 of 292-----
 Processing stock 2937 for period 2016-11-08 to 2017-06-28
 文件 stockdata/[2937] 2016-11-08-2017-06-28.csv 已包含結束日期 2017-06-28 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2265,7 +2273,7 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2937] 2016-11-08-2017-06-28-company-profile.csv 已包含股票代碼 2937 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2937] 2016-11-08-2017-06-28-financial.csv 已包含股票代碼 2937 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2937] 2016-11-08-2017-06-28-TWSE_TPEX.csv 已包含結束日期 2017-06-28 的數據，跳過 API 請求
------Processed row 283 of 291-----
+-----Processed row 284 of 292-----
 Processing stock 2897 for period 2016-08-30 to 2017-05-25
 文件 stockdata/[2897] 2016-08-30-2017-05-25.csv 已包含結束日期 2017-05-25 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
@@ -2273,16 +2281,8 @@ No data returned for the given parameters on dividend.
 文件 company-profile/[2897] 2016-08-30-2017-05-25-company-profile.csv 已包含股票代碼 2897 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[2897] 2016-08-30-2017-05-25-financial.csv 已包含股票代碼 2897 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[2897] 2016-08-30-2017-05-25-TWSE_TPEX.csv 已包含結束日期 2017-05-25 的數據，跳過 API 請求
------Processed row 284 of 291-----
-Processing stock 8489 for period 2016-10-07 to 2017-05-17
-文件 stockdata/[8489] 2016-10-07-2017-05-17.csv 已包含結束日期 2017-05-17 的數據，跳過 API 請求
-No data returned for the given parameters on dividend.
-文件 PER_PBR/[8489] 2016-10-07-2017-05-17-PER_PBR.csv 已包含結束日期 2017-05-17 的數據，跳過 API 請求
-文件 company-profile/[8489] 2016-10-07-2017-05-17-company-profile.csv 已包含股票代碼 8489 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
-文件 financial/[8489] 2016-10-07-2017-05-17-financial.csv 已包含股票代碼 8489 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
-文件 TWSE_TPEX/[8489] 2016-10-07-2017-05-17-TWSE_TPEX.csv 已包含結束日期 2017-05-17 的數據，跳過 API 請求
------Processed row 285 of 291-----
-Skipping row 285 id=6438: Invalid stock_id or dates. Row data: 股票代號                  6438
+-----Processed row 285 of 292-----
+Skipping row 285 id=8489: Invalid stock_id or dates. Row data: 股票代號                  8489
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2317,7 +2317,7 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 285, dtype: object
-Skipping row 286 id=6492: Invalid stock_id or dates. Row data: 股票代號                  6492
+Skipping row 286 id=6438: Invalid stock_id or dates. Row data: 股票代號                  6438
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2352,7 +2352,7 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 286, dtype: object
-Skipping row 287 id=2065: Invalid stock_id or dates. Row data: 股票代號                  2065
+Skipping row 287 id=6492: Invalid stock_id or dates. Row data: 股票代號                  6492
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2387,7 +2387,7 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 287, dtype: object
-Skipping row 288 id=6472: Invalid stock_id or dates. Row data: 股票代號                  6472
+Skipping row 288 id=2065: Invalid stock_id or dates. Row data: 股票代號                  2065
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2422,7 +2422,7 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 288, dtype: object
-Skipping row 289 id=6577: Invalid stock_id or dates. Row data: 股票代號                  6577
+Skipping row 289 id=6472: Invalid stock_id or dates. Row data: 股票代號                  6472
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2457,7 +2457,7 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 289, dtype: object
-Skipping row 290 id=6533: Invalid stock_id or dates. Row data: 股票代號                  6533
+Skipping row 290 id=6577: Invalid stock_id or dates. Row data: 股票代號                  6577
 證券名稱                   NaN
 DateStart              NaN
 申請日期                   NaN
@@ -2492,4 +2492,39 @@ DateEnd                NaN
 IPO:股票上櫃買賣日期           NaN
 I-L                    NaN
 Name: 290, dtype: object
+Skipping row 291 id=6533: Invalid stock_id or dates. Row data: 股票代號                  6533
+證券名稱                   NaN
+DateStart              NaN
+申請日期                   NaN
+上櫃審議委員會審議日期            NaN
+櫃買董事會通過上櫃日期            NaN
+櫃買同意上櫃契約日期             NaN
+投標開始日(T-4)             NaN
+投標結束日(T-2)-13          NaN
+投標結束日(T-2)-12          NaN
+投標結束日(T-2)-11          NaN
+投標結束日(T-2)-10          NaN
+投標結束日(T-2)-9           NaN
+投標結束日(T-2)-8           NaN
+投標結束日(T-2)-7           NaN
+投標結束日(T-2)-6           NaN
+投標結束日(T-2)-5           NaN
+投標結束日(T-2)-4           NaN
+投標結束日(T-2)-3           NaN
+投標結束日(T-2)-2           NaN
+投標結束日(T-2)-1           NaN
+投標結束日(T-2)             NaN
+開標日期(T)                NaN
+撥券日(上市上櫃日) (T+7)       NaN
+撥券日(上市上櫃日) (T+7)+1     NaN
+撥券日(上市上櫃日) (T+7)+2     NaN
+撥券日(上市上櫃日) (T+7)+3     NaN
+撥券日(上市上櫃日) (T+7)+4     NaN
+撥券日(上市上櫃日) (T+7)+5     NaN
+撥券日(上市上櫃日) (T+7)+6     NaN
+撥券日(上市上櫃日) (T+7)+7     NaN
+DateEnd                NaN
+IPO:股票上櫃買賣日期           NaN
+I-L                    NaN
+Name: 291, dtype: object
 Processing completed.
