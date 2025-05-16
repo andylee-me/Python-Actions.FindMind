@@ -134,8 +134,8 @@ Processing stock 7709 for period 2024-08-16 to 2025-03-17
 文件 stockdata/[7709] 2024-08-16-2025-03-17.csv 已包含結束日期 2025-03-17 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[7709] 2024-08-16-2025-03-17-PER_PBR.csv 已包含結束日期 2025-03-17 的數據，跳過 API 請求
-Data successfully written to company-profile/[7709] 2024-08-16-2025-03-17-company-profile.csv
-Data successfully written to financial/[7709] 2024-08-16-2025-03-17-financial.csv
+文件 company-profile/[7709] 2024-08-16-2025-03-17-company-profile.csv 已包含股票代碼 7709 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7709] 2024-08-16-2025-03-17-financial.csv 已包含股票代碼 7709 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7709] 2024-08-16-2025-03-17-TWSE_TPEX.csv 已包含結束日期 2025-03-17 的數據，跳過 API 請求
 -----Processed row 17 of 292-----
 Processing stock 7713 for period 2024-08-26 to 2025-03-14
