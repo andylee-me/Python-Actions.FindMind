@@ -126,8 +126,8 @@ Processing stock 7728 for period 2024-09-05 to 2025-03-26
 文件 stockdata/[7728] 2024-09-05-2025-03-26.csv 已包含結束日期 2025-03-26 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[7728] 2024-09-05-2025-03-26-PER_PBR.csv 已包含結束日期 2025-03-26 的數據，跳過 API 請求
-Data successfully written to company-profile/[7728] 2024-09-05-2025-03-26-company-profile.csv
-Data successfully written to financial/[7728] 2024-09-05-2025-03-26-financial.csv
+文件 company-profile/[7728] 2024-09-05-2025-03-26-company-profile.csv 已包含股票代碼 7728 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7728] 2024-09-05-2025-03-26-financial.csv 已包含股票代碼 7728 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7728] 2024-09-05-2025-03-26-TWSE_TPEX.csv 已包含結束日期 2025-03-26 的數據，跳過 API 請求
 -----Processed row 16 of 293-----
 Processing stock 7734 for period 2024-09-06 to 2025-03-18
