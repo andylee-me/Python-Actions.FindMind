@@ -29,7 +29,7 @@ Data successfully written to TWSE_TPEX/[6944] 2024-11-26-2025-06-17-TWSE_TPEX.cs
 Processing stock 1295 for period 2024-10-03 to 2025-06-16
 Data successfully written to stockdata/[1295] 2024-10-03-2025-06-16.csv
 Data successfully written to dividend/[1295] 2024-10-03-2025-06-16-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[1295] 2024-10-03-2025-06-16-PER_PBR.csv
 Data successfully written to company-profile/[1295] 2024-10-03-2025-06-16-company-profile.csv
 Data successfully written to financial/[1295] 2024-10-03-2025-06-16-financial.csv
 Data successfully written to TWSE_TPEX/[1295] 2024-10-03-2025-06-16-TWSE_TPEX.csv
