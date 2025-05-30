@@ -10,10 +10,11 @@
 2024-09-30,7723,OperatingIncome,55308000.0,營業利益（損失）
 2024-09-30,7723,TotalNonoperatingIncomeAndExpense,-19951000.0,營業外收入及支出
 2024-09-30,7723,OtherComprehensiveIncome,3003000.0,其他綜合損益（淨額）
+2024-09-30,7723,NoncontrollingInterests,-4179000.0,淨利（淨損）歸屬於非控制權益
+2024-09-30,7723,ComprehensiveIncomeConsolidatedNetIncomeAttributedNonControllingInterest,-4563000.0,綜合損益總額歸屬於非控制權益
 2024-09-30,7723,EPS,0.67,基本每股盈餘（元）
 2024-09-30,7723,GrossProfit,679015000.0,營業毛利（毛損）淨額
 2024-09-30,7723,EquityAttributableToOwnersOfParent,30939000.0,淨利（淨損）歸屬於母公司業主
-2024-09-30,7723,NoncontrollingInterests,-4179000.0,淨利（淨損）歸屬於非控制權益
 2024-12-31,7723,OperatingExpenses,611897000.0,營業費用
 2024-12-31,7723,TAX,-15602000.0,所得稅費用（利益）
 2024-12-31,7723,PreTaxIncome,17423000.0,稅前淨利（淨損）
@@ -25,10 +26,11 @@
 2024-12-31,7723,OperatingIncome,33551000.0,營業利益（損失）
 2024-12-31,7723,TotalNonoperatingIncomeAndExpense,-16128000.0,營業外收入及支出
 2024-12-31,7723,OtherComprehensiveIncome,-2378000.0,其他綜合損益（淨額）
+2024-12-31,7723,NoncontrollingInterests,-2825000.0,淨利（淨損）歸屬於非控制權益
+2024-12-31,7723,ComprehensiveIncomeConsolidatedNetIncomeAttributedNonControllingInterest,-2843000.0,綜合損益總額歸屬於非控制權益
 2024-12-31,7723,EPS,0.79,基本每股盈餘（元）
 2024-12-31,7723,GrossProfit,645448000.0,營業毛利（毛損）淨額
 2024-12-31,7723,EquityAttributableToOwnersOfParent,35850000.0,淨利（淨損）歸屬於母公司業主
-2024-12-31,7723,NoncontrollingInterests,-2825000.0,淨利（淨損）歸屬於非控制權益
 2025-03-31,7723,PreTaxIncome,4879000.0,稅前淨利（淨損）
 2025-03-31,7723,TAX,1263000.0,所得稅費用（利益）
 2025-03-31,7723,IncomeFromContinuingOperations,3616000.0,繼續營業單位本期淨利（淨損）
@@ -41,6 +43,7 @@
 2025-03-31,7723,OperatingIncome,14774000.0,營業利益（損失）
 2025-03-31,7723,TotalNonoperatingIncomeAndExpense,-9895000.0,營業外收入及支出
 2025-03-31,7723,OtherComprehensiveIncome,200000.0,其他綜合損益（淨額）
+2025-03-31,7723,NoncontrollingInterests,-1435000.0,淨利（淨損）歸屬於非控制權益
+2025-03-31,7723,ComprehensiveIncomeConsolidatedNetIncomeAttributedNonControllingInterest,-1593000.0,綜合損益總額歸屬於非控制權益
 2025-03-31,7723,GrossProfit,620448000.0,營業毛利（毛損）淨額
 2025-03-31,7723,EquityAttributableToOwnersOfParent,5051000.0,淨利（淨損）歸屬於母公司業主
-2025-03-31,7723,NoncontrollingInterests,-1435000.0,淨利（淨損）歸屬於非控制權益
