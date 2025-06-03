@@ -6,7 +6,7 @@ Downloading company list...
 Processing data for 293 companies...
 Processing company 1/293: 6918
 Found 1 company-profile files for company 6918
-  - Processed [6918] 2024-10-14-2025-06-30-company-profile.csv: Latest date 2025-06-02
+  - Processed [6918] 2024-10-14-2025-06-30-company-profile.csv: Latest date 2025-06-03
   - Extracted data: Industry Category=生技醫療業 (newest), Type=emerging (most common)
 Processing company 2/293: 6925
 Found 1 company-profile files for company 6925
@@ -14,7 +14,7 @@ Found 1 company-profile files for company 6925
   - Extracted data: Industry Category=數位雲端類 (newest), Type=tpex (most common)
 Processing company 3/293: 6944
 Found 1 company-profile files for company 6944
-  - Processed [6944] 2024-11-26-2025-06-17-company-profile.csv: Latest date 2025-06-02
+  - Processed [6944] 2024-11-26-2025-06-17-company-profile.csv: Latest date 2025-06-03
   - Extracted data: Industry Category=綠能環保 (newest), Type=twse (most common)
 Processing company 4/293: 1295
 Found 1 company-profile files for company 1295
@@ -26,7 +26,7 @@ Found 1 company-profile files for company 7642
   - Extracted data: Industry Category=電機機械 (newest), Type=tpex (most common)
 Processing company 6/293: 6909
 Found 1 company-profile files for company 6909
-  - Processed [6909] 2024-11-06-2025-06-10-company-profile.csv: Latest date 2025-06-02
+  - Processed [6909] 2024-11-06-2025-06-10-company-profile.csv: Latest date 2025-06-03
   - Extracted data: Industry Category=半導體業 (newest), Type=twse (most common)
 Processing company 7/293: 7743
 Found 1 company-profile files for company 7743
@@ -47,7 +47,7 @@ Found 1 company-profile files for company 7723
   - Extracted data: Industry Category=觀光餐旅 (newest), Type=tpex (most common)
 Processing company 11/293: 6936
 Found 1 company-profile files for company 6936
-  - Processed [6936] 2023-12-01-2025-05-16-company-profile.csv: Latest date 2025-06-02
+  - Processed [6936] 2023-12-01-2025-05-16-company-profile.csv: Latest date 2025-06-03
   - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
 Processing company 12/293: 3467
 Found 1 company-profile files for company 3467
@@ -59,7 +59,7 @@ Found 1 company-profile files for company 7718
   - Extracted data: Industry Category=鋼鐵工業 (newest), Type=tpex (most common)
 Processing company 14/293: 7736
 Found 1 company-profile files for company 7736
-  - Processed [7736] 2024-09-19-2025-04-07-company-profile.csv: Latest date 2025-06-02
+  - Processed [7736] 2024-09-19-2025-04-07-company-profile.csv: Latest date 2025-06-03
   - Extracted data: Industry Category=汽車工業 (newest), Type=twse (most common)
 Processing company 15/293: 6872
 Found 1 company-profile files for company 6872
