@@ -102,16 +102,16 @@ Processing stock 7718 for period 2024-10-09 to 2025-04-07
 文件 stockdata/[7718] 2024-10-09-2025-04-07.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[7718] 2024-10-09-2025-04-07-PER_PBR.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
-Data successfully written to company-profile/[7718] 2024-10-09-2025-04-07-company-profile.csv
-Data successfully written to financial/[7718] 2024-10-09-2025-04-07-financial.csv
+文件 company-profile/[7718] 2024-10-09-2025-04-07-company-profile.csv 已包含股票代碼 7718 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7718] 2024-10-09-2025-04-07-financial.csv 已包含股票代碼 7718 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7718] 2024-10-09-2025-04-07-TWSE_TPEX.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 -----Processed row 13 of 293-----
 Processing stock 7736 for period 2024-09-19 to 2025-04-07
 文件 stockdata/[7736] 2024-09-19-2025-04-07.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[7736] 2024-09-19-2025-04-07-PER_PBR.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
-Data successfully written to company-profile/[7736] 2024-09-19-2025-04-07-company-profile.csv
-Data successfully written to financial/[7736] 2024-09-19-2025-04-07-financial.csv
+文件 company-profile/[7736] 2024-09-19-2025-04-07-company-profile.csv 已包含股票代碼 7736 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7736] 2024-09-19-2025-04-07-financial.csv 已包含股票代碼 7736 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7736] 2024-09-19-2025-04-07-TWSE_TPEX.csv 已包含結束日期 2025-04-07 的數據，跳過 API 請求
 -----Processed row 14 of 293-----
 Processing stock 6872 for period 2024-07-23 to 2025-03-27
