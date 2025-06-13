@@ -35,12 +35,12 @@ Data successfully written to financial/[1295] 2024-10-03-2025-06-16-financial.cs
 Data successfully written to TWSE_TPEX/[1295] 2024-10-03-2025-06-16-TWSE_TPEX.csv
 -----Processed row 4 of 293-----
 Processing stock 7642 for period 2024-12-06 to 2025-06-11
-Data successfully written to stockdata/[7642] 2024-12-06-2025-06-11.csv
+文件 stockdata/[7642] 2024-12-06-2025-06-11.csv 已包含結束日期 2025-06-11 的數據，跳過 API 請求
 Data successfully written to dividend/[7642] 2024-12-06-2025-06-11-dividend.csv
-Data successfully written to PER_PBR/[7642] 2024-12-06-2025-06-11-PER_PBR.csv
+文件 PER_PBR/[7642] 2024-12-06-2025-06-11-PER_PBR.csv 已包含結束日期 2025-06-11 的數據，跳過 API 請求
 Data successfully written to company-profile/[7642] 2024-12-06-2025-06-11-company-profile.csv
 Data successfully written to financial/[7642] 2024-12-06-2025-06-11-financial.csv
-Data successfully written to TWSE_TPEX/[7642] 2024-12-06-2025-06-11-TWSE_TPEX.csv
+文件 TWSE_TPEX/[7642] 2024-12-06-2025-06-11-TWSE_TPEX.csv 已包含結束日期 2025-06-11 的數據，跳過 API 請求
 -----Processed row 5 of 293-----
 Processing stock 6909 for period 2024-11-06 to 2025-06-10
 文件 stockdata/[6909] 2024-11-06-2025-06-10.csv 已包含結束日期 2025-06-10 的數據，跳過 API 請求
@@ -94,8 +94,8 @@ Processing stock 3467 for period 2024-09-05 to 2025-04-14
 文件 stockdata/[3467] 2024-09-05-2025-04-14.csv 已包含結束日期 2025-04-14 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[3467] 2024-09-05-2025-04-14-PER_PBR.csv 已包含結束日期 2025-04-14 的數據，跳過 API 請求
-Data successfully written to company-profile/[3467] 2024-09-05-2025-04-14-company-profile.csv
-Data successfully written to financial/[3467] 2024-09-05-2025-04-14-financial.csv
+文件 company-profile/[3467] 2024-09-05-2025-04-14-company-profile.csv 已包含股票代碼 3467 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[3467] 2024-09-05-2025-04-14-financial.csv 已包含股票代碼 3467 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[3467] 2024-09-05-2025-04-14-TWSE_TPEX.csv 已包含結束日期 2025-04-14 的數據，跳過 API 請求
 -----Processed row 12 of 293-----
 Processing stock 7718 for period 2024-10-09 to 2025-04-07
