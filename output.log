@@ -27,12 +27,12 @@ Data successfully written to financial/[6944] 2024-11-26-2025-06-17-financial.cs
 Data successfully written to TWSE_TPEX/[6944] 2024-11-26-2025-06-17-TWSE_TPEX.csv
 -----Processed row 3 of 293-----
 Processing stock 1295 for period 2024-10-03 to 2025-06-16
-Data successfully written to stockdata/[1295] 2024-10-03-2025-06-16.csv
+文件 stockdata/[1295] 2024-10-03-2025-06-16.csv 已包含結束日期 2025-06-16 的數據，跳過 API 請求
 Data successfully written to dividend/[1295] 2024-10-03-2025-06-16-dividend.csv
-Data successfully written to PER_PBR/[1295] 2024-10-03-2025-06-16-PER_PBR.csv
+文件 PER_PBR/[1295] 2024-10-03-2025-06-16-PER_PBR.csv 已包含結束日期 2025-06-16 的數據，跳過 API 請求
 Data successfully written to company-profile/[1295] 2024-10-03-2025-06-16-company-profile.csv
 Data successfully written to financial/[1295] 2024-10-03-2025-06-16-financial.csv
-Data successfully written to TWSE_TPEX/[1295] 2024-10-03-2025-06-16-TWSE_TPEX.csv
+文件 TWSE_TPEX/[1295] 2024-10-03-2025-06-16-TWSE_TPEX.csv 已包含結束日期 2025-06-16 的數據，跳過 API 請求
 -----Processed row 4 of 293-----
 Processing stock 7642 for period 2024-12-06 to 2025-06-11
 文件 stockdata/[7642] 2024-12-06-2025-06-11.csv 已包含結束日期 2025-06-11 的數據，跳過 API 請求
