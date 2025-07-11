@@ -1165,7 +1165,7 @@ Found 1 PER_PBR files for company 6533
   - Processed [6533] 2016-06-10-2017-04-03-PER_PBR.csv: Found 14 dividend yields, 0 PERs, 14 PBRs
   - Calculated averages: Dividend yield=0.0, PER=None, PBR=8.3
 Writing data to output file...
-Read existing data for 294 companies from auction_data_processed/Features-Company.csv
+Read existing data for 296 companies from auction_data_processed/Features-Company.csv
 Successfully wrote data for 296 companies to auction_data_processed/Features-Company.csv
 Successfully created/updated output file with data for 296 companies
 Script execution completed.
