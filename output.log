@@ -28,7 +28,7 @@ Data successfully written to TWSE_TPEX/[7747] 2024-11-11-2025-07-31-TWSE_TPEX.cs
 -----Processed row 3 of 296-----
 Processing stock 6918 for period 2024-10-14 to 2025-06-30
 文件 stockdata/[6918] 2024-10-14-2025-06-30.csv 已包含結束日期 2025-06-30 的數據，跳過 API 請求
-Data successfully written to dividend/[6918] 2024-10-14-2025-06-30-dividend.csv
+HTTP Request error: 504 Server Error: Gateway Timeout for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockDividend&data_id=6918&start_date=2024-10-14&end_date=2025-06-30&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 文件 PER_PBR/[6918] 2024-10-14-2025-06-30-PER_PBR.csv 已包含結束日期 2025-06-30 的數據，跳過 API 請求
 Data successfully written to company-profile/[6918] 2024-10-14-2025-06-30-company-profile.csv
 Data successfully written to financial/[6918] 2024-10-14-2025-06-30-financial.csv
@@ -2144,6 +2144,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to PER_PBR/[6581] 2017-07-10-2018-02-19-PER_PBR.csv
 文件 company-profile/[6581] 2017-07-10-2018-02-19-company-profile.csv 已包含股票代碼 6581 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6581] 2017-07-10-2018-02-19-financial.csv 已包含股票代碼 6581 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+HTTP Request error for TPEX: 504 Server Error: Gateway Timeout for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TPEx&start_date=2017-07-10&end_date=2018-02-19&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 Data successfully written to TWSE_TPEX/[6581] 2017-07-10-2018-02-19-TWSE_TPEX.csv
 -----Processed row 268 of 296-----
 Processing stock 1760 for period 2017-08-03 to 2018-02-12
