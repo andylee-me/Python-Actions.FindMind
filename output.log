@@ -94,8 +94,8 @@ Processing stock 6597 for period 2024-11-11 to 2025-05-28
 文件 stockdata/[6597] 2024-11-11-2025-05-28.csv 已包含結束日期 2025-05-28 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[6597] 2024-11-11-2025-05-28-PER_PBR.csv 已包含結束日期 2025-05-28 的數據，跳過 API 請求
-Data successfully written to company-profile/[6597] 2024-11-11-2025-05-28-company-profile.csv
-Data successfully written to financial/[6597] 2024-11-11-2025-05-28-financial.csv
+文件 company-profile/[6597] 2024-11-11-2025-05-28-company-profile.csv 已包含股票代碼 6597 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[6597] 2024-11-11-2025-05-28-financial.csv 已包含股票代碼 6597 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[6597] 2024-11-11-2025-05-28-TWSE_TPEX.csv 已包含結束日期 2025-05-28 的數據，跳過 API 請求
 -----Processed row 12 of 296-----
 Processing stock 7723 for period 2024-08-30 to 2025-05-20
