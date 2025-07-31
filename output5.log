@@ -6,15 +6,15 @@ Downloading company list...
 Processing data for 298 companies...
 Processing company 1/298: 7753
 Found 1 company-profile files for company 7753
-  - Processed [7753] 2025-03-11-2025-08-29-company-profile.csv: Latest date 2025-07-30
+  - Processed [7753] 2025-03-11-2025-08-29-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=光電業 (newest), Type=emerging (most common)
 Processing company 2/298: 3135
 Found 1 company-profile files for company 3135
-  - Processed [3135] 2025-04-07-2025-08-26-company-profile.csv: Latest date 2025-07-30
+  - Processed [3135] 2025-04-07-2025-08-26-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=半導體業 (newest), Type=emerging (most common)
 Processing company 3/298: 7721
 Found 1 company-profile files for company 7721
-  - Processed [7721] 2025-02-03-2025-08-18-company-profile.csv: Latest date 2025-07-30
+  - Processed [7721] 2025-02-03-2025-08-18-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=數位雲端 (newest), Type=twse (most common)
 Processing company 4/298: 7547
 Found 1 company-profile files for company 7547
@@ -22,45 +22,45 @@ Found 1 company-profile files for company 7547
   - Extracted data: Industry Category=數位雲端 (newest), Type=emerging (most common)
 Processing company 5/298: 7747
 Found 1 company-profile files for company 7747
-  - Processed [7747] 2024-11-11-2025-07-31-company-profile.csv: Latest date 2025-07-30
+  - Processed [7747] 2024-11-11-2025-07-31-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=數位雲端類 (newest), Type=emerging (most common)
 Processing company 6/298: 6918
 Found 1 company-profile files for company 6918
-  - Processed [6918] 2024-10-14-2025-06-30-company-profile.csv: Latest date 2025-07-30
+  - Processed [6918] 2024-10-14-2025-06-30-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
 Processing company 7/298: 6925
 Found 1 company-profile files for company 6925
-  - Processed [6925] 2024-04-10-2025-06-17-company-profile.csv: Latest date 2025-07-30
+  - Processed [6925] 2024-04-10-2025-06-17-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=數位雲端類 (newest), Type=emerging (most common)
 Processing company 8/298: 6944
 Found 1 company-profile files for company 6944
-  - Processed [6944] 2024-11-26-2025-06-17-company-profile.csv: Latest date 2025-07-30
+  - Processed [6944] 2024-11-26-2025-06-17-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=綠能環保 (newest), Type=twse (most common)
 Processing company 9/298: 1295
 Found 1 company-profile files for company 1295
-  - Processed [1295] 2024-10-03-2025-06-16-company-profile.csv: Latest date 2025-07-30
+  - Processed [1295] 2024-10-03-2025-06-16-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=食品工業 (newest), Type=tpex (most common)
 Processing company 10/298: 7642
 Found 1 company-profile files for company 7642
-  - Processed [7642] 2024-12-06-2025-06-11-company-profile.csv: Latest date 2025-07-30
+  - Processed [7642] 2024-12-06-2025-06-11-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=電機機械 (newest), Type=tpex (most common)
 Processing company 11/298: 6909
 Found 1 company-profile files for company 6909
-  - Processed [6909] 2024-11-06-2025-06-10-company-profile.csv: Latest date 2025-07-30
+  - Processed [6909] 2024-11-06-2025-06-10-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=半導體業 (newest), Type=twse (most common)
 Processing company 12/298: 7743
 Found 1 company-profile files for company 7743
-  - Processed [7743] 2024-10-10-2025-06-09-company-profile.csv: Latest date 2025-07-30
+  - Processed [7743] 2024-10-10-2025-06-09-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=食品工業 (newest), Type=tpex (most common)
 Processing company 13/298: 6498
 Found 1 company-profile files for company 6498
-  - Processed [6498] 2024-11-28-2025-06-09-company-profile.csv: Latest date 2025-07-30
+  - Processed [6498] 2024-11-28-2025-06-09-company-profile.csv: Latest date 2025-07-31
   - Extracted data: Industry Category=光電業 (newest), Type=tpex (most common)
 Processing company 14/298: 6597
 Found 2 company-profile files for company 6597
   - Processed [6597] 2024-11-11-2025-05-28-company-profile.csv: Latest date 2025-07-26
   - Processed [6597] 2024-11-11-2025-05-14-company-profile.csv: Latest date 2025-07-26
-  - Extracted data: Industry Category=電子零組件業 (newest), Type=emerging (most common)
+  - Extracted data: Industry Category=電子零組件業 (newest), Type=tpex (most common)
 Processing company 15/298: 7723
 Found 1 company-profile files for company 7723
   - Processed [7723] 2024-08-30-2025-05-20-company-profile.csv: Latest date 2025-07-18
@@ -1178,7 +1178,7 @@ Processing company 293/298: 6438
 Found 2 company-profile files for company 6438
   - Processed [6438] 2016-10-11-2017-05-15-company-profile.csv: Latest date 2025-04-06
   - Processed [6438] 2020-10-12-2017-05-15-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=其他電子業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=其他電子業 (newest), Type=tpex (most common)
 Processing company 294/298: 6492
 Found 1 company-profile files for company 6492
   - Processed [6492] 2016-10-11-2017-05-12-company-profile.csv: Latest date 2025-04-04
@@ -1191,7 +1191,7 @@ Processing company 296/298: 6472
 Found 2 company-profile files for company 6472
   - Processed [6472] 2016-09-05-2017-05-09-company-profile.csv: Latest date 2025-04-06
   - Processed [6472] 2023-09-18-2017-05-09-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=tpex (most common)
 Processing company 297/298: 6577
 Found 1 company-profile files for company 6577
   - Processed [6577] 2016-09-06-2017-04-10-company-profile.csv: Latest date 2025-04-04

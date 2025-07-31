@@ -40,6 +40,7 @@ No data returned for the given parameters on dividend.
 Data successfully written to PER_PBR/[7747] 2024-11-11-2025-07-31-PER_PBR.csv
 Data successfully written to company-profile/[7747] 2024-11-11-2025-07-31-company-profile.csv
 Data successfully written to financial/[7747] 2024-11-11-2025-07-31-financial.csv
+HTTP Request error for TWSE: 502 Server Error: Bad Gateway for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TAIEX&start_date=2024-11-11&end_date=2025-07-31&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 Data successfully written to TWSE_TPEX/[7747] 2024-11-11-2025-07-31-TWSE_TPEX.csv
 -----Processed row 5 of 298-----
 Processing stock 6918 for period 2024-10-14 to 2025-06-30
@@ -1112,7 +1113,6 @@ Data successfully written to stockdata/[6763] 2021-10-07-2022-04-04.csv
 Data successfully written to PER_PBR/[6763] 2021-10-07-2022-04-04-PER_PBR.csv
 文件 company-profile/[6763] 2021-10-07-2022-04-04-company-profile.csv 已包含股票代碼 6763 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 financial/[6763] 2021-10-07-2022-04-04-financial.csv 已包含股票代碼 6763 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
-HTTP Request error for TWSE: 504 Server Error: Gateway Timeout for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TAIEX&start_date=2021-10-07&end_date=2022-04-04&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 Data successfully written to TWSE_TPEX/[6763] 2021-10-07-2022-04-04-TWSE_TPEX.csv
 -----Processed row 139 of 298-----
 Processing stock 4923 for period 2021-09-10 to 2022-04-01
