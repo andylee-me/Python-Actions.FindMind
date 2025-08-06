@@ -12,12 +12,12 @@ Processing company 3/299: 3135
 No PER_PBR files found for company 3135
 Processing company 4/299: 7721
 Found 1 PER_PBR files for company 7721
-  - Processed [7721] 2025-02-03-2025-08-18-PER_PBR.csv: Found 5 dividend yields, 5 PERs, 5 PBRs
-  - Calculated averages: Dividend yield=2.8, PER=23.4, PBR=3.8
+  - Processed [7721] 2025-02-03-2025-08-18-PER_PBR.csv: Found 6 dividend yields, 6 PERs, 6 PBRs
+  - Calculated averages: Dividend yield=2.8, PER=23.3, PBR=3.8
 Processing company 5/299: 7547
 Found 1 PER_PBR files for company 7547
-  - Processed [7547] 2024-08-20-2025-08-18-PER_PBR.csv: Found 5 dividend yields, 5 PERs, 5 PBRs
-  - Calculated averages: Dividend yield=1.2, PER=49.3, PBR=5.3
+  - Processed [7547] 2024-08-20-2025-08-18-PER_PBR.csv: Found 6 dividend yields, 6 PERs, 6 PBRs
+  - Calculated averages: Dividend yield=1.2, PER=50.1, PBR=5.4
 Processing company 6/299: 7747
 Found 1 PER_PBR files for company 7747
   - Processed [7747] 2024-11-11-2025-07-31-PER_PBR.csv: Found 15 dividend yields, 15 PERs, 15 PBRs
@@ -1177,7 +1177,7 @@ Found 1 PER_PBR files for company 6533
   - Processed [6533] 2016-06-10-2017-04-03-PER_PBR.csv: Found 14 dividend yields, 0 PERs, 14 PBRs
   - Calculated averages: Dividend yield=0.0, PER=None, PBR=8.3
 Writing data to output file...
-Read existing data for 298 companies from auction_data_processed/Features-Company.csv
+Read existing data for 299 companies from auction_data_processed/Features-Company.csv
 Successfully wrote data for 299 companies to auction_data_processed/Features-Company.csv
 Successfully created/updated output file with data for 299 companies
 Script execution completed.
