@@ -12,16 +12,16 @@ Processing company 3/300: 7753
 No PER_PBR files found for company 7753
 Processing company 4/300: 3135
 Found 1 PER_PBR files for company 3135
-  - Processed [3135] 2025-04-07-2025-08-26-PER_PBR.csv: Found 2 dividend yields, 2 PERs, 2 PBRs
-  - Calculated averages: Dividend yield=4.7, PER=15.2, PBR=1.6
+  - Processed [3135] 2025-04-07-2025-08-26-PER_PBR.csv: Found 3 dividend yields, 3 PERs, 3 PBRs
+  - Calculated averages: Dividend yield=4.7, PER=15.3, PBR=1.6
 Processing company 5/300: 7721
 Found 1 PER_PBR files for company 7721
-  - Processed [7721] 2025-02-03-2025-08-18-PER_PBR.csv: Found 8 dividend yields, 8 PERs, 8 PBRs
-  - Calculated averages: Dividend yield=2.9, PER=23.1, PBR=3.8
+  - Processed [7721] 2025-02-03-2025-08-18-PER_PBR.csv: Found 9 dividend yields, 9 PERs, 9 PBRs
+  - Calculated averages: Dividend yield=2.9, PER=23.0, PBR=3.7
 Processing company 6/300: 7547
 Found 1 PER_PBR files for company 7547
-  - Processed [7547] 2024-08-20-2025-08-18-PER_PBR.csv: Found 8 dividend yields, 8 PERs, 8 PBRs
-  - Calculated averages: Dividend yield=1.1, PER=52.9, PBR=5.8
+  - Processed [7547] 2024-08-20-2025-08-18-PER_PBR.csv: Found 9 dividend yields, 9 PERs, 9 PBRs
+  - Calculated averages: Dividend yield=1.1, PER=53.8, PBR=6.0
 Processing company 7/300: 7747
 Found 1 PER_PBR files for company 7747
   - Processed [7747] 2024-11-11-2025-07-31-PER_PBR.csv: Found 15 dividend yields, 15 PERs, 15 PBRs
