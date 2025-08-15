@@ -1,0 +1,15 @@
+日期,股票代碼,類型,值,名稱
+2025-06-30,3135,IncomeLossFromDiscontinuedOperation,0.0,停業單位損益
+2025-06-30,3135,-,0.0,合併前非屬共同控制股權損益
+2025-06-30,3135,TAX,-1914000.0,所得稅費用（利益）
+2025-06-30,3135,IncomeAfterTaxes,-9465000.0,本期淨利（淨損）
+2025-06-30,3135,TotalConsolidatedProfitForThePeriod,-9465000.0,本期綜合損益總額
+2025-06-30,3135,OperatingIncome,35590000.0,營業利益（損失）
+2025-06-30,3135,TotalNonoperatingIncomeAndExpense,-46969000.0,營業外收入及支出
+2025-06-30,3135,CostOfGoodsSold,1676356000.0,營業成本
+2025-06-30,3135,Revenue,1738959000.0,營業收入
+2025-06-30,3135,GrossProfit,62603000.0,營業毛利（毛損）
+2025-06-30,3135,OperatingExpenses,27013000.0,營業費用
+2025-06-30,3135,PreTaxIncome,-11379000.0,稅前淨利（淨損）
+2025-06-30,3135,IncomeFromContinuingOperations,-9465000.0,繼續營業單位本期淨利（淨損）
+2025-06-30,3135,EPS,-0.17,基本每股盈餘（元）
