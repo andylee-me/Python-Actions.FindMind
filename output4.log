@@ -14,16 +14,16 @@ Processing company 4/303: 7751
 No PER_PBR files found for company 7751
 Processing company 5/303: 4166
 Found 1 PER_PBR files for company 4166
-  - Processed [4166] 2025-04-01-2025-09-10-PER_PBR.csv: Found 1 dividend yields, 1 PERs, 1 PBRs
-  - Calculated averages: Dividend yield=0.0, PER=77.6, PBR=3.4
+  - Processed [4166] 2025-04-01-2025-09-10-PER_PBR.csv: Found 2 dividend yields, 2 PERs, 2 PBRs
+  - Calculated averages: Dividend yield=0.0, PER=75.3, PBR=3.3
 Processing company 6/303: 7753
 Found 1 PER_PBR files for company 7753
-  - Processed [7753] 2025-03-11-2025-08-29-PER_PBR.csv: Found 9 dividend yields, 9 PERs, 9 PBRs
-  - Calculated averages: Dividend yield=2.4, PER=15.7, PBR=3.7
+  - Processed [7753] 2025-03-11-2025-08-29-PER_PBR.csv: Found 10 dividend yields, 10 PERs, 10 PBRs
+  - Calculated averages: Dividend yield=2.4, PER=15.6, PBR=3.7
 Processing company 7/303: 3135
 Found 1 PER_PBR files for company 3135
-  - Processed [3135] 2025-04-07-2025-08-26-PER_PBR.csv: Found 12 dividend yields, 12 PERs, 12 PBRs
-  - Calculated averages: Dividend yield=4.4, PER=31.2, PBR=1.7
+  - Processed [3135] 2025-04-07-2025-08-26-PER_PBR.csv: Found 13 dividend yields, 13 PERs, 13 PBRs
+  - Calculated averages: Dividend yield=4.4, PER=32.2, PBR=1.7
 Processing company 8/303: 7721
 Found 1 PER_PBR files for company 7721
   - Processed [7721] 2025-02-03-2025-08-18-PER_PBR.csv: Found 15 dividend yields, 15 PERs, 15 PBRs
@@ -1191,7 +1191,7 @@ Found 1 PER_PBR files for company 6533
   - Processed [6533] 2016-06-10-2017-04-03-PER_PBR.csv: Found 14 dividend yields, 0 PERs, 14 PBRs
   - Calculated averages: Dividend yield=0.0, PER=None, PBR=8.3
 Writing data to output file...
-Read existing data for 302 companies from auction_data_processed/Features-Company.csv
+Read existing data for 303 companies from auction_data_processed/Features-Company.csv
 Successfully wrote data for 303 companies to auction_data_processed/Features-Company.csv
 Successfully created/updated output file with data for 303 companies
 Script execution completed.
