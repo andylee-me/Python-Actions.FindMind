@@ -16,16 +16,16 @@ Processing company 5/305: 7765
 No PER_PBR files found for company 7765
 Processing company 6/305: 7751
 Found 1 PER_PBR files for company 7751
-  - Processed [7751] 2025-03-12-2025-09-15-PER_PBR.csv: Found 3 dividend yields, 3 PERs, 3 PBRs
-  - Calculated averages: Dividend yield=2.0, PER=36.0, PBR=10.5
+  - Processed [7751] 2025-03-12-2025-09-15-PER_PBR.csv: Found 4 dividend yields, 4 PERs, 4 PBRs
+  - Calculated averages: Dividend yield=2.0, PER=36.1, PBR=10.6
 Processing company 7/305: 4166
 Found 1 PER_PBR files for company 4166
-  - Processed [4166] 2025-04-01-2025-09-10-PER_PBR.csv: Found 6 dividend yields, 6 PERs, 6 PBRs
-  - Calculated averages: Dividend yield=0.0, PER=71.9, PBR=3.1
+  - Processed [4166] 2025-04-01-2025-09-10-PER_PBR.csv: Found 7 dividend yields, 7 PERs, 7 PBRs
+  - Calculated averages: Dividend yield=0.0, PER=71.2, PBR=3.1
 Processing company 8/305: 7753
 Found 1 PER_PBR files for company 7753
-  - Processed [7753] 2025-03-11-2025-08-29-PER_PBR.csv: Found 14 dividend yields, 14 PERs, 14 PBRs
-  - Calculated averages: Dividend yield=2.4, PER=15.4, PBR=3.7
+  - Processed [7753] 2025-03-11-2025-08-29-PER_PBR.csv: Found 15 dividend yields, 15 PERs, 15 PBRs
+  - Calculated averages: Dividend yield=2.4, PER=15.3, PBR=3.7
 Processing company 9/305: 3135
 Found 1 PER_PBR files for company 3135
   - Processed [3135] 2025-04-07-2025-08-26-PER_PBR.csv: Found 15 dividend yields, 15 PERs, 15 PBRs
@@ -1197,7 +1197,7 @@ Found 1 PER_PBR files for company 6533
   - Processed [6533] 2016-06-10-2017-04-03-PER_PBR.csv: Found 14 dividend yields, 0 PERs, 14 PBRs
   - Calculated averages: Dividend yield=0.0, PER=None, PBR=8.3
 Writing data to output file...
-Read existing data for 304 companies from auction_data_processed/Features-Company.csv
+Read existing data for 305 companies from auction_data_processed/Features-Company.csv
 Successfully wrote data for 305 companies to auction_data_processed/Features-Company.csv
 Successfully created/updated output file with data for 305 companies
 Script execution completed.
