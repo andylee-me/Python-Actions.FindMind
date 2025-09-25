@@ -5,9 +5,13 @@ Output directory already exists: auction_data_processed
 Downloading company list...
 Processing data for 309 companies...
 Processing company 1/309: 7738
-No dividend files found for company 7738
+Found 1 dividend files for company 7738
+  - Found newest dividend data at 2025-08-17: 4.5
+  - Extracted data: Per Share Dividend=4.5 (as of 2025-08-17)
 Processing company 2/309: 7788
-No dividend files found for company 7788
+Found 1 dividend files for company 7788
+  - Found newest dividend data at 2025-08-01: 2.5
+  - Extracted data: Per Share Dividend=2.5 (as of 2025-08-01)
 Processing company 3/309: 6971
 Found 1 dividend files for company 6971
   - Found newest dividend data at 2025-09-01: 1.5
