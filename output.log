@@ -37,7 +37,7 @@ Data successfully written to TWSE_TPEX/[6971] 2025-04-09-2025-10-22-TWSE_TPEX.cs
 Processing stock 4585 for period 2025-04-07 to 2025-10-16
 Data successfully written to stockdata/[4585] 2025-04-07-2025-10-16.csv
 No data returned for the given parameters on dividend.
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[4585] 2025-04-07-2025-10-16-PER_PBR.csv
 Data successfully written to company-profile/[4585] 2025-04-07-2025-10-16-company-profile.csv
 Data successfully written to financial/[4585] 2025-04-07-2025-10-16-financial.csv
 Data successfully written to TWSE_TPEX/[4585] 2025-04-07-2025-10-16-TWSE_TPEX.csv
