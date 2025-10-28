@@ -126,8 +126,8 @@ Processing stock 7753 for period 2025-03-11 to 2025-08-29
 文件 stockdata/[7753] 2025-03-11-2025-08-29.csv 已包含結束日期 2025-08-29 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[7753] 2025-03-11-2025-08-29-PER_PBR.csv 已包含結束日期 2025-08-29 的數據，跳過 API 請求
-Data successfully written to company-profile/[7753] 2025-03-11-2025-08-29-company-profile.csv
-Data successfully written to financial/[7753] 2025-03-11-2025-08-29-financial.csv
+文件 company-profile/[7753] 2025-03-11-2025-08-29-company-profile.csv 已包含股票代碼 7753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7753] 2025-03-11-2025-08-29-financial.csv 已包含股票代碼 7753 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7753] 2025-03-11-2025-08-29-TWSE_TPEX.csv 已包含結束日期 2025-08-29 的數據，跳過 API 請求
 -----Processed row 16 of 313-----
 Processing stock 3135 for period 2025-04-07 to 2025-08-26
