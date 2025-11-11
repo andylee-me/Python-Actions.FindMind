@@ -18,6 +18,22 @@ Data successfully written to company-profile/[7769] 2025-06-23-2025-12-17-compan
 Data successfully written to financial/[7769] 2025-06-23-2025-12-17-financial.csv
 Data successfully written to TWSE_TPEX/[7769] 2025-06-23-2025-12-17-TWSE_TPEX.csv
 -----Processed row 2 of 321-----
+Processing stock 6474 for period 2025-05-07 to 2025-12-12
+Data successfully written to stockdata/[6474] 2025-05-07-2025-12-12.csv
+Data successfully written to dividend/[6474] 2025-05-07-2025-12-12-dividend.csv
+No data returned for the given parameters on PER_PBR.
+Data successfully written to company-profile/[6474] 2025-05-07-2025-12-12-company-profile.csv
+Data successfully written to financial/[6474] 2025-05-07-2025-12-12-financial.csv
+Data successfully written to TWSE_TPEX/[6474] 2025-05-07-2025-12-12-TWSE_TPEX.csv
+-----Processed row 3 of 321-----
+Processing stock 6831 for period 2025-04-07 to 2025-12-12
+Data successfully written to stockdata/[6831] 2025-04-07-2025-12-12.csv
+Data successfully written to dividend/[6831] 2025-04-07-2025-12-12-dividend.csv
+No data returned for the given parameters on PER_PBR.
+Data successfully written to company-profile/[6831] 2025-04-07-2025-12-12-company-profile.csv
+Data successfully written to financial/[6831] 2025-04-07-2025-12-12-financial.csv
+Data successfully written to TWSE_TPEX/[6831] 2025-04-07-2025-12-12-TWSE_TPEX.csv
+-----Processed row 4 of 321-----
 Processing stock 6614 for period 2025-06-06 to 2025-12-12
 Data successfully written to stockdata/[6614] 2025-06-06-2025-12-12.csv
 Data successfully written to dividend/[6614] 2025-06-06-2025-12-12-dividend.csv
@@ -25,22 +41,6 @@ No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[6614] 2025-06-06-2025-12-12-company-profile.csv
 Data successfully written to financial/[6614] 2025-06-06-2025-12-12-financial.csv
 Data successfully written to TWSE_TPEX/[6614] 2025-06-06-2025-12-12-TWSE_TPEX.csv
------Processed row 3 of 321-----
-Processing stock 6474 for period 2025-05-07 to 2025-12-11
-Data successfully written to stockdata/[6474] 2025-05-07-2025-12-11.csv
-Data successfully written to dividend/[6474] 2025-05-07-2025-12-11-dividend.csv
-No data returned for the given parameters on PER_PBR.
-Data successfully written to company-profile/[6474] 2025-05-07-2025-12-11-company-profile.csv
-Data successfully written to financial/[6474] 2025-05-07-2025-12-11-financial.csv
-Data successfully written to TWSE_TPEX/[6474] 2025-05-07-2025-12-11-TWSE_TPEX.csv
------Processed row 4 of 321-----
-Processing stock 6831 for period 2025-04-07 to 2025-12-11
-Data successfully written to stockdata/[6831] 2025-04-07-2025-12-11.csv
-Data successfully written to dividend/[6831] 2025-04-07-2025-12-11-dividend.csv
-No data returned for the given parameters on PER_PBR.
-Data successfully written to company-profile/[6831] 2025-04-07-2025-12-11-company-profile.csv
-Data successfully written to financial/[6831] 2025-04-07-2025-12-11-financial.csv
-Data successfully written to TWSE_TPEX/[6831] 2025-04-07-2025-12-11-TWSE_TPEX.csv
 -----Processed row 5 of 321-----
 Processing stock 7711 for period 2025-07-01 to 2025-12-09
 Data successfully written to stockdata/[7711] 2025-07-01-2025-12-09.csv

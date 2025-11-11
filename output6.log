@@ -12,18 +12,18 @@ Processing company 2/321: 7769
 Found 1 dividend files for company 7769
   - Found newest dividend data at 2025-08-01: 22.5
   - Extracted data: Per Share Dividend=22.5 (as of 2025-08-01)
-Processing company 3/321: 6614
+Processing company 3/321: 6474
+Found 2 dividend files for company 6474
+  - Found newest dividend data at 2025-07-24: 2.0
+  - Extracted data: Per Share Dividend=2.0 (as of 2025-07-24)
+Processing company 4/321: 6831
+Found 2 dividend files for company 6831
+  - Found newest dividend data at 2025-06-20: 1.25
+  - Extracted data: Per Share Dividend=1.25 (as of 2025-06-20)
+Processing company 5/321: 6614
 Found 1 dividend files for company 6614
   - Found newest dividend data at 2025-07-22: 1.5
   - Extracted data: Per Share Dividend=1.5 (as of 2025-07-22)
-Processing company 4/321: 6474
-Found 1 dividend files for company 6474
-  - Found newest dividend data at 2025-07-24: 2.0
-  - Extracted data: Per Share Dividend=2.0 (as of 2025-07-24)
-Processing company 5/321: 6831
-Found 1 dividend files for company 6831
-  - Found newest dividend data at 2025-06-20: 1.25
-  - Extracted data: Per Share Dividend=1.25 (as of 2025-06-20)
 Processing company 6/321: 7711
 No dividend files found for company 7711
 Processing company 7/321: 7786
