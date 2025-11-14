@@ -47,7 +47,7 @@ Data successfully written to stockdata/[7711] 2025-07-01-2025-12-09.csv
 No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 Data successfully written to company-profile/[7711] 2025-07-01-2025-12-09-company-profile.csv
-No data returned for the given parameters on financialstatements.
+Data successfully written to financial/[7711] 2025-07-01-2025-12-09-financial.csv
 Data successfully written to TWSE_TPEX/[7711] 2025-07-01-2025-12-09-TWSE_TPEX.csv
 -----Processed row 6 of 321-----
 Processing stock 7786 for period 2025-06-18 to 2025-12-08
@@ -172,10 +172,10 @@ Data successfully written to financial/[7765] 2025-03-12-2025-09-26-financial.cs
 -----Processed row 21 of 321-----
 Processing stock 7751 for period 2025-03-12 to 2025-09-15
 文件 stockdata/[7751] 2025-03-12-2025-09-15.csv 已包含結束日期 2025-09-15 的數據，跳過 API 請求
-Data successfully written to dividend/[7751] 2025-03-12-2025-09-15-dividend.csv
+文件 dividend/[7751] 2025-03-12-2025-09-15-dividend.csv 已包含股票代碼 7751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 PER_PBR/[7751] 2025-03-12-2025-09-15-PER_PBR.csv 已包含結束日期 2025-09-15 的數據，跳過 API 請求
-Data successfully written to company-profile/[7751] 2025-03-12-2025-09-15-company-profile.csv
-Data successfully written to financial/[7751] 2025-03-12-2025-09-15-financial.csv
+文件 company-profile/[7751] 2025-03-12-2025-09-15-company-profile.csv 已包含股票代碼 7751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[7751] 2025-03-12-2025-09-15-financial.csv 已包含股票代碼 7751 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[7751] 2025-03-12-2025-09-15-TWSE_TPEX.csv 已包含結束日期 2025-09-15 的數據，跳過 API 請求
 -----Processed row 22 of 321-----
 Processing stock 4166 for period 2025-04-01 to 2025-09-10
