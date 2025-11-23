@@ -6,104 +6,104 @@ Downloading company list...
 Processing data for 324 companies...
 Processing company 1/324: 6730
 Found 1 company-profile files for company 6730
-  - Processed [6730] 2025-06-19-2025-12-30-company-profile.csv: Latest date 2025-11-22
+  - Processed [6730] 2025-06-19-2025-12-30-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=生技醫療業 (newest), Type=emerging (most common)
 Processing company 2/324: 7770
 Found 1 company-profile files for company 7770
-  - Processed [7770] 2025-04-09-2025-12-30-company-profile.csv: Latest date 2025-11-22
+  - Processed [7770] 2025-04-09-2025-12-30-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=半導體業 (newest), Type=emerging (most common)
 Processing company 3/324: 7767
 Found 1 company-profile files for company 7767
-  - Processed [7767] 2025-06-25-2025-12-30-company-profile.csv: Latest date 2025-11-22
+  - Processed [7767] 2025-06-25-2025-12-30-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=資訊服務業 (newest), Type=emerging (most common)
 Processing company 4/324: 7744
 Found 1 company-profile files for company 7744
-  - Processed [7744] 2025-07-01-2025-12-17-company-profile.csv: Latest date 2025-11-22
+  - Processed [7744] 2025-07-01-2025-12-17-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電子零組件業 (newest), Type=emerging (most common)
 Processing company 5/324: 7769
 Found 1 company-profile files for company 7769
-  - Processed [7769] 2025-06-23-2025-12-17-company-profile.csv: Latest date 2025-11-22
+  - Processed [7769] 2025-06-23-2025-12-17-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=半導體業 (newest), Type=emerging (most common)
 Processing company 6/324: 6474
 Found 3 company-profile files for company 6474
   - Processed [6474] 2025-05-07-2025-12-12-company-profile.csv: Latest date 2025-11-12
-  - Processed [6474] 2025-05-07-2025-12-15-company-profile.csv: Latest date 2025-11-22
-  - Processed [6474] 2025-05-07-2025-12-11-company-profile.csv: Latest date 2025-11-22
+  - Processed [6474] 2025-05-07-2025-12-15-company-profile.csv: Latest date 2025-11-23
+  - Processed [6474] 2025-05-07-2025-12-11-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電子通路業 (newest), Type=emerging (most common)
 Processing company 7/324: 6831
 Found 3 company-profile files for company 6831
-  - Processed [6831] 2025-04-07-2025-12-15-company-profile.csv: Latest date 2025-11-22
-  - Processed [6831] 2025-04-07-2025-12-11-company-profile.csv: Latest date 2025-11-22
-  - Processed [6831] 2025-04-07-2025-12-12-company-profile.csv: Latest date 2025-11-22
+  - Processed [6831] 2025-04-07-2025-12-15-company-profile.csv: Latest date 2025-11-23
+  - Processed [6831] 2025-04-07-2025-12-11-company-profile.csv: Latest date 2025-11-23
+  - Processed [6831] 2025-04-07-2025-12-12-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電腦及週邊設備業 (newest), Type=emerging (most common)
 Processing company 8/324: 6614
 Found 2 company-profile files for company 6614
-  - Processed [6614] 2025-06-06-2025-12-15-company-profile.csv: Latest date 2025-11-22
-  - Processed [6614] 2025-06-06-2025-12-12-company-profile.csv: Latest date 2025-11-22
+  - Processed [6614] 2025-06-06-2025-12-15-company-profile.csv: Latest date 2025-11-23
+  - Processed [6614] 2025-06-06-2025-12-12-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=數位雲端 (newest), Type=emerging (most common)
 Processing company 9/324: 7711
 Found 1 company-profile files for company 7711
-  - Processed [7711] 2025-07-01-2025-12-09-company-profile.csv: Latest date 2025-11-22
+  - Processed [7711] 2025-07-01-2025-12-09-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電子工業 (newest), Type=twse (most common)
 Processing company 10/324: 7786
 Found 1 company-profile files for company 7786
-  - Processed [7786] 2025-06-18-2025-12-08-company-profile.csv: Latest date 2025-11-22
+  - Processed [7786] 2025-06-18-2025-12-08-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=綠能環保 (newest), Type=twse (most common)
 Processing company 11/324: 3158
 Found 1 company-profile files for company 3158
-  - Processed [3158] 2025-06-06-2025-12-05-company-profile.csv: Latest date 2025-11-22
+  - Processed [3158] 2025-06-06-2025-12-05-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=資訊服務業 (newest), Type=tpex (most common)
 Processing company 12/324: 7791
 Found 1 company-profile files for company 7791
-  - Processed [7791] 2025-06-05-2025-11-17-company-profile.csv: Latest date 2025-11-22
+  - Processed [7791] 2025-06-05-2025-11-17-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=食品工業 (newest), Type=twse (most common)
 Processing company 13/324: 7716
 Found 1 company-profile files for company 7716
-  - Processed [7716] 2025-04-08-2025-11-17-company-profile.csv: Latest date 2025-11-22
+  - Processed [7716] 2025-04-08-2025-11-17-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=航運業 (newest), Type=tpex (most common)
 Processing company 14/324: 7782
 Found 1 company-profile files for company 7782
-  - Processed [7782] 2025-04-23-2025-11-17-company-profile.csv: Latest date 2025-11-22
+  - Processed [7782] 2025-04-23-2025-11-17-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=居家生活類 (newest), Type=emerging (most common)
 Processing company 15/324: 7757
 Found 1 company-profile files for company 7757
-  - Processed [7757] 2025-06-04-2025-11-07-company-profile.csv: Latest date 2025-11-22
+  - Processed [7757] 2025-06-04-2025-11-07-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=觀光餐旅 (newest), Type=tpex (most common)
 Processing company 16/324: 7738
 Found 1 company-profile files for company 7738
-  - Processed [7738] 2025-04-10-2025-11-05-company-profile.csv: Latest date 2025-11-22
+  - Processed [7738] 2025-04-10-2025-11-05-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=數位雲端類 (newest), Type=emerging (most common)
 Processing company 17/324: 7788
 Found 1 company-profile files for company 7788
-  - Processed [7788] 2025-04-18-2025-11-05-company-profile.csv: Latest date 2025-11-22
+  - Processed [7788] 2025-04-18-2025-11-05-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電子工業 (newest), Type=twse (most common)
 Processing company 18/324: 6971
 Found 1 company-profile files for company 6971
-  - Processed [6971] 2025-04-09-2025-10-22-company-profile.csv: Latest date 2025-11-22
+  - Processed [6971] 2025-04-09-2025-10-22-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=綠能環保類 (newest), Type=emerging (most common)
 Processing company 19/324: 4585
 Found 1 company-profile files for company 4585
-  - Processed [4585] 2025-04-07-2025-10-16-company-profile.csv: Latest date 2025-11-22
+  - Processed [4585] 2025-04-07-2025-10-16-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=其他電子業 (newest), Type=twse (most common)
 Processing company 20/324: 7750
 Found 1 company-profile files for company 7750
-  - Processed [7750] 2024-12-06-2025-10-07-company-profile.csv: Latest date 2025-11-22
+  - Processed [7750] 2024-12-06-2025-10-07-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=電機機械 (newest), Type=twse (most common)
 Processing company 21/324: 7799
 Found 1 company-profile files for company 7799
-  - Processed [7799] 2025-05-08-2025-10-03-company-profile.csv: Latest date 2025-11-22
+  - Processed [7799] 2025-05-08-2025-10-03-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
 Processing company 22/324: 4441
 Found 1 company-profile files for company 4441
-  - Processed [4441] 2025-05-02-2025-09-29-company-profile.csv: Latest date 2025-11-22
+  - Processed [4441] 2025-05-02-2025-09-29-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=紡織纖維 (newest), Type=twse (most common)
 Processing company 23/324: 7780
 Found 1 company-profile files for company 7780
-  - Processed [7780] 2025-04-10-2025-09-29-company-profile.csv: Latest date 2025-11-22
+  - Processed [7780] 2025-04-10-2025-09-29-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=食品工業 (newest), Type=twse (most common)
 Processing company 24/324: 7765
 Found 1 company-profile files for company 7765
-  - Processed [7765] 2025-03-12-2025-09-26-company-profile.csv: Latest date 2025-11-22
+  - Processed [7765] 2025-03-12-2025-09-26-company-profile.csv: Latest date 2025-11-23
   - Extracted data: Industry Category=數位雲端 (newest), Type=twse (most common)
 Processing company 25/324: 7751
 Found 1 company-profile files for company 7751
@@ -189,7 +189,7 @@ Found 1 company-profile files for company 7718
 Processing company 45/324: 7736
 Found 1 company-profile files for company 7736
   - Processed [7736] 2024-09-19-2025-04-07-company-profile.csv: Latest date 2025-06-05
-  - Extracted data: Industry Category=汽車工業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=汽車工業 (newest), Type=emerging (most common)
 Processing company 46/324: 6872
 Found 1 company-profile files for company 6872
   - Processed [6872] 2024-07-23-2025-03-27-company-profile.csv: Latest date 2025-05-25
@@ -225,7 +225,7 @@ Found 1 company-profile files for company 6994
 Processing company 54/324: 6931
 Found 1 company-profile files for company 6931
   - Processed [6931] 2024-09-05-2025-02-04-company-profile.csv: Latest date 2025-04-04
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=emerging (most common)
 Processing company 55/324: 7714
 Found 1 company-profile files for company 7714
   - Processed [7714] 2024-08-05-2025-02-04-company-profile.csv: Latest date 2025-04-04
@@ -233,7 +233,7 @@ Found 1 company-profile files for company 7714
 Processing company 56/324: 7732
 Found 1 company-profile files for company 7732
   - Processed [7732] 2024-08-29-2025-02-03-company-profile.csv: Latest date 2025-04-03
-  - Extracted data: Industry Category=汽車工業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=汽車工業 (newest), Type=emerging (most common)
 Processing company 57/324: 7712
 Found 1 company-profile files for company 7712
   - Processed [7712] 2024-06-07-2025-01-15-company-profile.csv: Latest date 2025-04-05
@@ -249,7 +249,7 @@ Found 1 company-profile files for company 7704
 Processing company 60/324: 6885
 Found 1 company-profile files for company 6885
   - Processed [6885] 2024-07-08-2025-01-03-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=emerging (most common)
 Processing company 61/324: 6997
 Found 1 company-profile files for company 6997
   - Processed [6997] 2024-07-10-2025-01-03-company-profile.csv: Latest date 2025-04-05
@@ -293,7 +293,7 @@ Found 1 company-profile files for company 8272
 Processing company 71/324: 6919
 Found 1 company-profile files for company 6919
   - Processed [6919] 2024-04-10-2024-10-22-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=emerging (most common)
 Processing company 72/324: 6913
 Found 1 company-profile files for company 6913
   - Processed [6913] 2024-05-10-2024-10-21-company-profile.csv: Latest date 2025-04-05
@@ -333,7 +333,7 @@ Found 1 company-profile files for company 6968
 Processing company 81/324: 6838
 Found 1 company-profile files for company 6838
   - Processed [6838] 2024-03-11-2024-09-02-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=emerging (most common)
 Processing company 82/324: 7584
 Found 1 company-profile files for company 7584
   - Processed [7584] 2024-02-19-2024-08-14-company-profile.csv: Latest date 2025-04-05
@@ -345,7 +345,7 @@ Found 1 company-profile files for company 6637
 Processing company 84/324: 6952
 Found 1 company-profile files for company 6952
   - Processed [6952] 2023-12-07-2024-07-03-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=其他 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=其他 (newest), Type=emerging (most common)
 Processing company 85/324: 6903
 Found 1 company-profile files for company 6903
   - Processed [6903] 2023-11-29-2024-07-02-company-profile.csv: Latest date 2025-04-05
@@ -357,11 +357,11 @@ Found 1 company-profile files for company 6881
 Processing company 87/324: 6928
 Found 1 company-profile files for company 6928
   - Processed [6928] 2023-11-27-2024-06-05-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=電子工業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=電子工業 (newest), Type=emerging (most common)
 Processing company 88/324: 1563
 Found 1 company-profile files for company 1563
   - Processed [1563] 2023-11-28-2024-05-31-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=汽車工業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=汽車工業 (newest), Type=emerging (most common)
 Processing company 89/324: 6953
 Found 1 company-profile files for company 6953
   - Processed [6953] 2023-12-08-2024-05-31-company-profile.csv: Latest date 2025-04-05
@@ -1287,7 +1287,7 @@ Processing company 319/324: 6438
 Found 2 company-profile files for company 6438
   - Processed [6438] 2020-10-12-2017-05-15-company-profile.csv: Latest date 2024-12-04
   - Processed [6438] 2016-10-11-2017-05-15-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=其他電子業 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=其他電子業 (newest), Type=tpex (most common)
 Processing company 320/324: 6492
 Found 1 company-profile files for company 6492
   - Processed [6492] 2016-10-11-2017-05-12-company-profile.csv: Latest date 2025-04-04
@@ -1300,7 +1300,7 @@ Processing company 322/324: 6472
 Found 2 company-profile files for company 6472
   - Processed [6472] 2023-09-18-2017-05-09-company-profile.csv: Latest date 2025-04-04
   - Processed [6472] 2016-09-05-2017-05-09-company-profile.csv: Latest date 2025-04-06
-  - Extracted data: Industry Category=化學生技醫療 (newest), Type=twse (most common)
+  - Extracted data: Industry Category=化學生技醫療 (newest), Type=tpex (most common)
 Processing company 323/324: 6577
 Found 1 company-profile files for company 6577
   - Processed [6577] 2016-09-06-2017-04-10-company-profile.csv: Latest date 2025-04-04
