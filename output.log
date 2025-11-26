@@ -53,7 +53,7 @@ Data successfully written to TWSE_TPEX/[7769] 2025-06-23-2025-12-17-TWSE_TPEX.cs
 Processing stock 6474 for period 2025-05-07 to 2025-12-15
 Data successfully written to stockdata/[6474] 2025-05-07-2025-12-15.csv
 Data successfully written to dividend/[6474] 2025-05-07-2025-12-15-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6474] 2025-05-07-2025-12-15-PER_PBR.csv
 Data successfully written to company-profile/[6474] 2025-05-07-2025-12-15-company-profile.csv
 Data successfully written to financial/[6474] 2025-05-07-2025-12-15-financial.csv
 Data successfully written to TWSE_TPEX/[6474] 2025-05-07-2025-12-15-TWSE_TPEX.csv
@@ -61,7 +61,7 @@ Data successfully written to TWSE_TPEX/[6474] 2025-05-07-2025-12-15-TWSE_TPEX.cs
 Processing stock 6831 for period 2025-04-07 to 2025-12-15
 Data successfully written to stockdata/[6831] 2025-04-07-2025-12-15.csv
 Data successfully written to dividend/[6831] 2025-04-07-2025-12-15-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6831] 2025-04-07-2025-12-15-PER_PBR.csv
 Data successfully written to company-profile/[6831] 2025-04-07-2025-12-15-company-profile.csv
 Data successfully written to financial/[6831] 2025-04-07-2025-12-15-financial.csv
 Data successfully written to TWSE_TPEX/[6831] 2025-04-07-2025-12-15-TWSE_TPEX.csv
@@ -69,7 +69,7 @@ Data successfully written to TWSE_TPEX/[6831] 2025-04-07-2025-12-15-TWSE_TPEX.cs
 Processing stock 6614 for period 2025-06-06 to 2025-12-15
 Data successfully written to stockdata/[6614] 2025-06-06-2025-12-15.csv
 Data successfully written to dividend/[6614] 2025-06-06-2025-12-15-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6614] 2025-06-06-2025-12-15-PER_PBR.csv
 Data successfully written to company-profile/[6614] 2025-06-06-2025-12-15-company-profile.csv
 Data successfully written to financial/[6614] 2025-06-06-2025-12-15-financial.csv
 Data successfully written to TWSE_TPEX/[6614] 2025-06-06-2025-12-15-TWSE_TPEX.csv
