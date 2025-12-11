@@ -77,7 +77,7 @@ Data successfully written to TWSE_TPEX/[6910] 2025-07-03-2025-12-31-TWSE_TPEX.cs
 Processing stock 6730 for period 2025-06-19 to 2025-12-30
 Data successfully written to stockdata/[6730] 2025-06-19-2025-12-30.csv
 Data successfully written to dividend/[6730] 2025-06-19-2025-12-30-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6730] 2025-06-19-2025-12-30-PER_PBR.csv
 Data successfully written to company-profile/[6730] 2025-06-19-2025-12-30-company-profile.csv
 Data successfully written to financial/[6730] 2025-06-19-2025-12-30-financial.csv
 Data successfully written to TWSE_TPEX/[6730] 2025-06-19-2025-12-30-TWSE_TPEX.csv
@@ -85,7 +85,7 @@ Data successfully written to TWSE_TPEX/[6730] 2025-06-19-2025-12-30-TWSE_TPEX.cs
 Processing stock 7770 for period 2025-04-09 to 2025-12-30
 Data successfully written to stockdata/[7770] 2025-04-09-2025-12-30.csv
 Data successfully written to dividend/[7770] 2025-04-09-2025-12-30-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[7770] 2025-04-09-2025-12-30-PER_PBR.csv
 Data successfully written to company-profile/[7770] 2025-04-09-2025-12-30-company-profile.csv
 Data successfully written to financial/[7770] 2025-04-09-2025-12-30-financial.csv
 Data successfully written to TWSE_TPEX/[7770] 2025-04-09-2025-12-30-TWSE_TPEX.csv
@@ -93,7 +93,7 @@ Data successfully written to TWSE_TPEX/[7770] 2025-04-09-2025-12-30-TWSE_TPEX.cs
 Processing stock 7767 for period 2025-06-25 to 2025-12-30
 Data successfully written to stockdata/[7767] 2025-06-25-2025-12-30.csv
 No data returned for the given parameters on dividend.
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[7767] 2025-06-25-2025-12-30-PER_PBR.csv
 Data successfully written to company-profile/[7767] 2025-06-25-2025-12-30-company-profile.csv
 Data successfully written to financial/[7767] 2025-06-25-2025-12-30-financial.csv
 Data successfully written to TWSE_TPEX/[7767] 2025-06-25-2025-12-30-TWSE_TPEX.csv
@@ -139,12 +139,12 @@ Data successfully written to financial/[6614] 2025-06-06-2025-12-15-financial.cs
 Data successfully written to TWSE_TPEX/[6614] 2025-06-06-2025-12-15-TWSE_TPEX.csv
 -----Processed row 17 of 333-----
 Processing stock 7711 for period 2025-07-01 to 2025-12-09
-Data successfully written to stockdata/[7711] 2025-07-01-2025-12-09.csv
+文件 stockdata/[7711] 2025-07-01-2025-12-09.csv 已包含結束日期 2025-12-09 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
-Data successfully written to PER_PBR/[7711] 2025-07-01-2025-12-09-PER_PBR.csv
+文件 PER_PBR/[7711] 2025-07-01-2025-12-09-PER_PBR.csv 已包含結束日期 2025-12-09 的數據，跳過 API 請求
 Data successfully written to company-profile/[7711] 2025-07-01-2025-12-09-company-profile.csv
 Data successfully written to financial/[7711] 2025-07-01-2025-12-09-financial.csv
-Data successfully written to TWSE_TPEX/[7711] 2025-07-01-2025-12-09-TWSE_TPEX.csv
+文件 TWSE_TPEX/[7711] 2025-07-01-2025-12-09-TWSE_TPEX.csv 已包含結束日期 2025-12-09 的數據，跳過 API 請求
 -----Processed row 18 of 333-----
 Processing stock 7786 for period 2025-06-18 to 2025-12-08
 文件 stockdata/[7786] 2025-06-18-2025-12-08.csv 已包含結束日期 2025-12-08 的數據，跳過 API 請求
