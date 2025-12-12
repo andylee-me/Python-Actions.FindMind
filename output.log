@@ -69,7 +69,7 @@ Data successfully written to TWSE_TPEX/[6884] 2025-07-22-2026-01-06-TWSE_TPEX.cs
 Processing stock 6910 for period 2025-07-03 to 2025-12-31
 Data successfully written to stockdata/[6910] 2025-07-03-2025-12-31.csv
 No data returned for the given parameters on dividend.
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6910] 2025-07-03-2025-12-31-PER_PBR.csv
 Data successfully written to company-profile/[6910] 2025-07-03-2025-12-31-company-profile.csv
 Data successfully written to financial/[6910] 2025-07-03-2025-12-31-financial.csv
 Data successfully written to TWSE_TPEX/[6910] 2025-07-03-2025-12-31-TWSE_TPEX.csv
