@@ -222,8 +222,8 @@ Processing stock 4585 for period 2025-04-07 to 2025-10-16
 文件 stockdata/[4585] 2025-04-07-2025-10-16.csv 已包含結束日期 2025-10-16 的數據，跳過 API 請求
 No data returned for the given parameters on dividend.
 文件 PER_PBR/[4585] 2025-04-07-2025-10-16-PER_PBR.csv 已包含結束日期 2025-10-16 的數據，跳過 API 請求
-Data successfully written to company-profile/[4585] 2025-04-07-2025-10-16-company-profile.csv
-Data successfully written to financial/[4585] 2025-04-07-2025-10-16-financial.csv
+文件 company-profile/[4585] 2025-04-07-2025-10-16-company-profile.csv 已包含股票代碼 4585 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
+文件 financial/[4585] 2025-04-07-2025-10-16-financial.csv 已包含股票代碼 4585 的數據，且開標日期非在今兩個月範圍內，跳過 API 請求
 文件 TWSE_TPEX/[4585] 2025-04-07-2025-10-16-TWSE_TPEX.csv 已包含結束日期 2025-10-16 的數據，跳過 API 請求
 -----Processed row 28 of 333-----
 Processing stock 7750 for period 2024-12-06 to 2025-10-07
