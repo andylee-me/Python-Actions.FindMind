@@ -27,7 +27,9 @@ Found 1 dividend files for company 8102
   - Found newest dividend data at 2025-11-03: 0.9
   - Extracted data: Per Share Dividend=0.9 (as of 2025-11-03)
 Processing company 8/333: 6884
-No dividend files found for company 6884
+Found 1 dividend files for company 6884
+  - Found newest dividend data at 2025-07-10: 1.5
+  - Extracted data: Per Share Dividend=1.5 (as of 2025-07-10)
 Processing company 9/333: 6910
 No dividend files found for company 6910
 Processing company 10/333: 6730

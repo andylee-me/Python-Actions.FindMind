@@ -1,2 +1,3 @@
 成功讀取 holidays.csv，共 71 個假日
+Error processing file [6884] 1899-12-12-2026-01-06.csv: year out of range [1900, 2100)
 缺失日期已儲存至 auction_data_processed/missing_dates.csv
