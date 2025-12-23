@@ -29,7 +29,7 @@ Data successfully written to TWSE_TPEX/[7810] 2025-07-07-2026-01-12-TWSE_TPEX.cs
 Processing stock 7777 for period 2025-08-07 to 2026-01-09
 Data successfully written to stockdata/[7777] 2025-08-07-2026-01-09.csv
 No data returned for the given parameters on dividend.
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[7777] 2025-08-07-2026-01-09-PER_PBR.csv
 Data successfully written to company-profile/[7777] 2025-08-07-2026-01-09-company-profile.csv
 Data successfully written to financial/[7777] 2025-08-07-2026-01-09-financial.csv
 Data successfully written to TWSE_TPEX/[7777] 2025-08-07-2026-01-09-TWSE_TPEX.csv
@@ -37,7 +37,7 @@ Data successfully written to TWSE_TPEX/[7777] 2025-08-07-2026-01-09-TWSE_TPEX.cs
 Processing stock 6272 for period 2025-05-21 to 2026-01-09
 Data successfully written to stockdata/[6272] 2025-05-21-2026-01-09.csv
 Data successfully written to dividend/[6272] 2025-05-21-2026-01-09-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6272] 2025-05-21-2026-01-09-PER_PBR.csv
 Data successfully written to company-profile/[6272] 2025-05-21-2026-01-09-company-profile.csv
 Data successfully written to financial/[6272] 2025-05-21-2026-01-09-financial.csv
 Data successfully written to TWSE_TPEX/[6272] 2025-05-21-2026-01-09-TWSE_TPEX.csv
@@ -45,7 +45,7 @@ Data successfully written to TWSE_TPEX/[6272] 2025-05-21-2026-01-09-TWSE_TPEX.cs
 Processing stock 7805 for period 2025-07-01 to 2026-01-09
 Data successfully written to stockdata/[7805] 2025-07-01-2026-01-09.csv
 Data successfully written to dividend/[7805] 2025-07-01-2026-01-09-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[7805] 2025-07-01-2026-01-09-PER_PBR.csv
 Data successfully written to company-profile/[7805] 2025-07-01-2026-01-09-company-profile.csv
 Data successfully written to financial/[7805] 2025-07-01-2026-01-09-financial.csv
 Data successfully written to TWSE_TPEX/[7805] 2025-07-01-2026-01-09-TWSE_TPEX.csv
@@ -53,7 +53,7 @@ Data successfully written to TWSE_TPEX/[7805] 2025-07-01-2026-01-09-TWSE_TPEX.cs
 Processing stock 8102 for period 2025-05-30 to 2026-01-09
 Data successfully written to stockdata/[8102] 2025-05-30-2026-01-09.csv
 Data successfully written to dividend/[8102] 2025-05-30-2026-01-09-dividend.csv
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[8102] 2025-05-30-2026-01-09-PER_PBR.csv
 Data successfully written to company-profile/[8102] 2025-05-30-2026-01-09-company-profile.csv
 Data successfully written to financial/[8102] 2025-05-30-2026-01-09-financial.csv
 Data successfully written to TWSE_TPEX/[8102] 2025-05-30-2026-01-09-TWSE_TPEX.csv
