@@ -5,7 +5,7 @@ No row limit set. Processing all rows from the CSV file
 Processing stock 6725 for period 2025-08-22 to 2026-01-19
 Data successfully written to stockdata/[6725] 2025-08-22-2026-01-19.csv
 No data returned for the given parameters on dividend.
-No data returned for the given parameters on PER_PBR.
+Data successfully written to PER_PBR/[6725] 2025-08-22-2026-01-19-PER_PBR.csv
 Data successfully written to company-profile/[6725] 2025-08-22-2026-01-19-company-profile.csv
 Data successfully written to financial/[6725] 2025-08-22-2026-01-19-financial.csv
 Data successfully written to TWSE_TPEX/[6725] 2025-08-22-2026-01-19-TWSE_TPEX.csv
