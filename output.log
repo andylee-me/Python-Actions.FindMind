@@ -872,7 +872,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[4583.0] 2021-09-07-2022-05-27-TWSE_TPEX.csv
+文件 TWSE_TPEX/[4583.0] 2021-09-07-2022-05-27-TWSE_TPEX.csv 已包含結束日期 2022-05-27 的數據，跳過 API 請求
 -----Processed row 109 of 294-----
 Processing stock 6721.0 for period 2021-09-23 to 2022-05-19
 No data returned for the given parameters.
@@ -880,7 +880,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[6721.0] 2021-09-23-2022-05-19-TWSE_TPEX.csv
+文件 TWSE_TPEX/[6721.0] 2021-09-23-2022-05-19-TWSE_TPEX.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
 -----Processed row 110 of 294-----
 Processing stock 6735.0 for period 2021-11-04 to 2022-05-19
 No data returned for the given parameters.
@@ -888,7 +888,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[6735.0] 2021-11-04-2022-05-19-TWSE_TPEX.csv
+文件 TWSE_TPEX/[6735.0] 2021-11-04-2022-05-19-TWSE_TPEX.csv 已包含結束日期 2022-05-19 的數據，跳過 API 請求
 -----Processed row 111 of 294-----
 Processing stock 4768.0 for period 2021-09-09 to 2022-05-03
 No data returned for the given parameters.
@@ -896,7 +896,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[4768.0] 2021-09-09-2022-05-03-TWSE_TPEX.csv
+文件 TWSE_TPEX/[4768.0] 2021-09-09-2022-05-03-TWSE_TPEX.csv 已包含結束日期 2022-05-03 的數據，跳過 API 請求
 -----Processed row 112 of 294-----
 Processing stock 6804.0 for period 2021-09-20 to 2022-04-20
 No data returned for the given parameters.
@@ -904,7 +904,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[6804.0] 2021-09-20-2022-04-20-TWSE_TPEX.csv
+文件 TWSE_TPEX/[6804.0] 2021-09-20-2022-04-20-TWSE_TPEX.csv 已包含結束日期 2022-04-20 的數據，跳過 API 請求
 -----Processed row 113 of 294-----
 Processing stock 3349.0 for period 2021-09-23 to 2022-04-12
 No data returned for the given parameters.
@@ -912,7 +912,7 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[3349.0] 2021-09-23-2022-04-12-TWSE_TPEX.csv
+文件 TWSE_TPEX/[3349.0] 2021-09-23-2022-04-12-TWSE_TPEX.csv 已包含結束日期 2022-04-12 的數據，跳過 API 請求
 -----Processed row 114 of 294-----
 Processing stock 4558.0 for period 2021-10-08 to 2022-04-06
 No data returned for the given parameters.
@@ -920,16 +920,17 @@ No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
 No data returned for the given parameters on company_profile.
 No data returned for the given parameters on financialstatements.
-Data successfully written to TWSE_TPEX/[4558.0] 2021-10-08-2022-04-06-TWSE_TPEX.csv
+文件 TWSE_TPEX/[4558.0] 2021-10-08-2022-04-06-TWSE_TPEX.csv 已包含結束日期 2022-04-06 的數據，跳過 API 請求
 -----Processed row 115 of 294-----
 Processing stock 6763.0 for period 2021-10-07 to 2022-04-04
 No data returned for the given parameters.
 No data returned for the given parameters on dividend.
 No data returned for the given parameters on PER_PBR.
-No data returned for the given parameters on company_profile.
-No data returned for the given parameters on financialstatements.
+HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockInfo&data_id=6763.0&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
+HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockFinancialStatements&data_id=6763.0&start_date=2021-10-07&end_date=2022-04-04&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
+HTTP Request error for TWSE: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TAIEX&start_date=2021-10-07&end_date=2022-04-04&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error for TPEX: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TPEx&start_date=2021-10-07&end_date=2022-04-04&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
-Data successfully written to TWSE_TPEX/[6763.0] 2021-10-07-2022-04-04-TWSE_TPEX.csv
+No data retrieved for either TWSE or TPEX.
 -----Processed row 116 of 294-----
 Processing stock 4923.0 for period 2021-09-10 to 2022-04-01
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=4923.0&start_date=2021-09-10&end_date=2022-04-01&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
@@ -1594,7 +1595,7 @@ No data retrieved for either TWSE or TPEX.
 Processing stock 4931.0 for period 2019-04-08 to 2019-10-07
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=4931.0&start_date=2019-04-08&end_date=2019-10-07&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockDividend&data_id=4931.0&start_date=2019-04-08&end_date=2019-10-07&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
-No data returned for the given parameters on PER_PBR.
+HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPER&data_id=4931.0&start_date=2019-04-08&end_date=2019-10-07&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockInfo&data_id=4931.0&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockFinancialStatements&data_id=4931.0&start_date=2019-04-08&end_date=2019-10-07&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error for TWSE: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPrice&data_id=TAIEX&start_date=2019-04-08&end_date=2019-10-07&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
