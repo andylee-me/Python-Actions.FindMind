@@ -956,7 +956,7 @@ No data returned for the given parameters on financialstatements.
 -----Processed row 119 of 294-----
 Processing stock 4558.0 for period 2021-10-08 to 2022-04-06
 No data returned for the given parameters.
-No data returned for the given parameters on dividend.
+HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockDividend&data_id=4558.0&start_date=2021-10-08&end_date=2022-04-06&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockPER&data_id=4558.0&start_date=2021-10-08&end_date=2022-04-06&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockInfo&data_id=4558.0&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
 HTTP Request error: 402 Client Error: Payment Required for url: https://api.finmindtrade.com/api/v4/data?dataset=TaiwanStockFinancialStatements&data_id=4558.0&start_date=2021-10-08&end_date=2022-04-06&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJkYXRlIjoiMjAyNS0wMS0wNCAxNDoyODoxMCIsInVzZXJfaWQiOiJBbmR5X2xlZSIsImlwIjoiMS4xNjEuMjIxLjEwMyJ9.mSdG6BEe3JFwMxouDSMf9VEmiVm4CJVSKREdB6etYA0
